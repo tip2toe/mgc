@@ -1,0 +1,149 @@
+#EXTM3U
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Kral POP
+http://46.20.3.201:80
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Radyo Viva
+http://46.20.3.230:80
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Show Radyo
+http://46.20.3.228:80
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Best FM
+https://ssldyg.radyotvonline.com/best/bestfm.stream/chunklist_w1890049277.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Fenomen Türk
+https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",JOY TURK
+https://28933.live.streamtheworld.com/JOY_TURK_ITUNES.mp3
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",3 BABA
+http://37.247.98.8/stream/19/
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Ankara Havalari
+http://37.247.98.8:80/stream/30/
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Alem FM
+https://alemfm.radyotvonline.net/alemfmaac
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Dance Wave
+http://dancewave.online/dance.aac
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Kral FM
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Souli Radio GREECE
+http://eco.onestreaming.com:8286/stream
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Number One Türk
+https://eustr75.mediatriple.net/Number1Media/00_Number1_Turk_FM.stream/playlist.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Efsane Radyo Adana
+https://host10.onlineradyotv.net/9602/stream
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Adana FM
+https://host10.onlineradyotv.net/8004/stream
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Show Slow
+https://listen.radyotvonline.net/hls/play/show_slow.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Show 90lar
+https://listen.radyotvonline.net/hls/play/show_90lar.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Show Trend
+https://listen.radyotvonline.net/hls/play/show_trend.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Show Akustik
+https://listen.radyotvonline.net/hls/play/show_akustik.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Show Ellerhavaya
+https://listen.radyotvonline.net/hls/play/show_ellerhavaya.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power Türk FM
+https://live.powerapp.com.tr/powerturk/abr/powerturk/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power Turk Slow
+https://live.powerapp.com.tr/powerturkslow/abr/powerturkslow/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power Turk Rap
+https://live.powerapp.com.tr/powerturkrap/abr/powerturkrap/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power Turk Akustik
+https://live.powerapp.com.tr/powerturkakustik/abr/powerturkakustik/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power Turk Taptaze
+https://live.powerapp.com.tr/powerturktaptaze/abr/powerturktaptaze/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power Turk Dans
+https://live.powerapp.com.tr/powerturkdans/abr/powerturkdans/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power Pop
+https://live.powerapp.com.tr/powerpop/abr/powerpop/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power FM
+https://live.powerapp.com.tr/powerfmadver/abr/powerfmadver/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power Plus
+https://live.powerapp.com.tr/powerplus/abr/powerplus/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power Love
+https://live.powerapp.com.tr/powerlove/abr/powerlove/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power Smooth
+https://live.powerapp.com.tr/powersmooth/abr/powersmooth/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power XL
+https://live.powerapp.com.tr/powerextralounge/abr/powerextralounge/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power Greece
+https://live.powerapp.com.tr/powergreece/abr/powergreece/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power İtaly
+https://live.powerapp.com.tr/poweritaly/abr/poweritaly/128/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power Rap Hiphop
+https://live.powerapp.com.tr/powerrbhiphop/abr/powerrbhiphop/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power Salsa
+https://live.powerapp.com.tr/powersalsa/abr/powersalsa/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power Gold
+https://live.powerapp.com.tr/powergold/abr/powergold/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power Smooth jazz
+https://live.powerapp.com.tr/powersmoothjazz/abr/powersmoothjazz/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power Earth
+https://live.powerapp.com.tr/powerearth/abr/powerearth/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Power Deep
+https://live.powerapp.com.tr/powerdeep/abr/powerdeep/256/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",İstanbul FM
+https://live.radyofenomen.com/istanbulfm/128/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",DamarTürk FM
+https://live.radyositesihazir.com/7000/stream
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Süper FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC?/;
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Radyo Efkar
+https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR128AAC.aac
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",SlowTürk
+https://radyo.duhnet.tv/ak_dtvh_slowturk
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Radyo Şampiyon Bursa
+https://radyo.yayin.com.tr:4106/;
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Dostlar FM Denizli
+https://radyo.yayin.com.tr:5114/;
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Radyo Hazar Elazığ
+https://radyo.yayin.com.tr:8286/;
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Radyo Deva Adana
+https://radyo.yayindakiler.com:3040/stream
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Radyo Zafer Malatya
+https://radyozafer.ozelip.com:8034/;
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",istanbul fm nostalji
+https://rdfenlive.mediatriple.net/fenomen/istanbulfmnostalji/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",istanbul fm akustik
+https://rdfenlive.mediatriple.net/fenomen/istanbulfmakustik/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",istanbul fm fantezi
+https://rdfenlive.mediatriple.net/fenomen/istanbulfmfantezi/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",istanbul fm alaturka
+https://rdfenlive.mediatriple.net/fenomen/istanbulfmalaturka/chunks.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",TRT NAĞME
+https://rd-trtnagme.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",TRT TÜRKÜ
+https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Star Arti FM
+https://ritim.80.yayin.com.tr/;stream.mp3
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",balkanradio.com
+https://samcloud.spacial.com/api/listen?sid=99064&m=sc&rid=175019&t=ssl
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Radyo Mavi Gebze
+https://sslyayin.netyayin.net/8070/stream
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Dost FM Hatay
+https://sslyayin.netyayin.net/1515/stream
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Gebze FM
+https://sslyayin.radyoyayini.com:7010/stream
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Tutku FM Samsun
+https://sslyayin.radyoyayini.com:7015/;
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Gözde FM Kayseri
+https://sslyayin.radyoyayini.com:7067/stream
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Park FM Ankara
+https://stream.netradyom.com/listen/parkfm/radio.mp3
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Radyo Megasite Ankara
+https://stream.netradyom.com/listen/megasite/radio.mp3
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Aşk FM Ankara
+https://stream.netradyom.com/radio/8000/radio.mp3
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Turkuvaz Efsane
+https://trkvz-radyolar.ercdn.net/turkuvazefsane/chunklist.m3u8
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",TRT RADYO 1
+https://trt.radyotvonline.net/trt_1.aac
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",TRT FM
+https://trt.radyotvonline.net/trt_fm.aac
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Damar FM
+https://yayin.damarfm.com/dinle/stream
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Kalp FM
+https://yayin.kalpfm.com:8080/stream
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",İstanbulun Sesi Radyosu
+https://yayin.radyomadyo.com:9180/stream
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",İstanbulun Sesi Radyosu
+https://yayin.radyomadyo.com:9180/stream
+#EXTINF:-1 group-title="» »Web Radio Live Stream ♫♫♫",Radyo Seymen
+https://yayin.radyoseymen.com.tr:1070/stream
