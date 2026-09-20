@@ -1,4 +1,308 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="IBB Turistik Kameralar",ANADOLU HISARI
+https://kamerayayin.ibb.istanbul/turistikcam/anadoluhisari.stream/chunklist_w1877353674.m3u8
+#EXTINF:-1 group-title="IBB Turistik Kameralar",BEYAZIT KULESI 2
+https://kamerayayin.ibb.istanbul/turistikcam/beyazitkulesi2.stream/chunklist_w15437168.m3u8
+#EXTINF:-1 group-title="IBB Turistik Kameralar",BEYAZIT MEYDANI
+https://kamerayayin.ibb.istanbul/turistikcam/beyazitmeydan.stream/chunklist_w1530095445.m3u8
+#EXTINF:-1 group-title="IBB Turistik Kameralar",BÜYÜK ÇAMLICA
+https://kamerayayin.ibb.istanbul/turistikcam/buyukcamlica.stream/chunklist_w607999958.m3u8
+#EXTINF:-1 group-title="IBB Turistik Kameralar",EMINÖNÜ
+https://kamerayayin.ibb.istanbul/turistikcam/eminonu.stream/chunklist_w819635481.m3u8
+#EXTINF:-1 group-title="IBB Turistik Kameralar",EMIRGAN
+https://kamerayayin.ibb.istanbul/turistikcam/emirgan.stream/chunklist_w358486726.m3u8
+#EXTINF:-1 group-title="IBB Turistik Kameralar",EYÜP SULTAN
+https://kamerayayin.ibb.istanbul/turistikcam/eyupsultan.stream/chunklist_w1374653882.m3u8
+#EXTINF:-1 group-title="IBB Turistik Kameralar",HIDIV KASRI
+https://kamerayayin.ibb.istanbul/turistikcam/hidivkasri.stream/chunklist_w873286262.m3u8
+#EXTINF:-1 group-title="IBB Turistik Kameralar",KIZ KULESI
+https://kamerayayin.ibb.istanbul/turistikcam/kizkulesi.stream/chunklist_w1638219554.m3u8
+#EXTINF:-1 group-title="IBB Turistik Kameralar",KÜÇÜKÇEKMECE
+https://kamerayayin.ibb.istanbul/turistikcam/kucukcekmece.stream/playlist.m3u8
+#EXTINF:-1 group-title="IBB Turistik Kameralar",PIERRE LOTI
+https://kamerayayin.ibb.istanbul/turistikcam/pierreloti.stream/chunklist_w615690742.m3u8
+#EXTINF:-1 group-title="IBB Turistik Kameralar",SALACAK
+https://kamerayayin.ibb.istanbul/turistikcam/salacak.stream/chunklist_w108055488.m3u8
+#EXTINF:-1 group-title="IBB Turistik Kameralar",SARAÇHANE
+https://kamerayayin.ibb.istanbul/turistikcam/sarachane.stream/chunklist_w1212513480.m3u8
+#EXTINF:-1 group-title="IBB Turistik Kameralar",SULTANAHMET 2
+https://kamerayayin.ibb.istanbul/turistikcam/sultanahmet2.stream/chunklist_w2138675844.m3u8
+#EXTINF:-1 group-title="IBB Turistik Kameralar",TAKSIM MEYDAN
+https://kamerayayin.ibb.istanbul/turistikcam/taksim.stream/chunklist_w438961806.m3u8
+#EXTINF:-1 group-title="IBB Turistik Kameralar",ULUS PARKI
+https://kamerayayin.ibb.istanbul/turistikcam/ulusparki.stream/chunklist_w103152354.m3u8
+#EXTINF:-1 group-title="IBB Turistik Kameralar",ÜSKÜDAR
+https://kamerayayin.ibb.istanbul/turistikcam/uskudar.stream/chunklist_w1741381098.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",AKOM
+http://ibb-media4.ibb.gov.tr:1935/live/2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",AKSARAY
+http://ibb-media4.ibb.gov.tr:1935/live/3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",S. YOLU GALERIA
+http://ibb-media4.ibb.gov.tr:1935/live/12.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",BAGDAT CD. FENERYOLU
+http://ibb-media4.ibb.gov.tr:1935/live/18.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",BAGDAT CD. SASKINBAKKAL
+http://ibb-media4.ibb.gov.tr:1935/live/20.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",BAG. YOLU BAHÇESEHIR
+http://ibb-media4.ibb.gov.tr:1935/live/21.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",BAG. YOLU ESENYURT
+http://ibb-media4.ibb.gov.tr:1935/live/22.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",BAG. YOLU HARAMIDERE
+http://ibb-media4.ibb.gov.tr:1935/live/23.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",BASIN EKSP. IKITELLI 1
+http://ibb-media4.ibb.gov.tr:1935/live/35.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",BASIN EKSP. KUYUMCUKENT
+http://ibb-media4.ibb.gov.tr:1935/live/36.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",ÇATALCA
+http://ibb-media4.ibb.gov.tr:1935/live/65.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 BÜYÜKÇEKMECE AYMERKEZ
+http://ibb-media4.ibb.gov.tr:1935/live/76.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 BAYRAMOGLU
+http://ibb-media4.ibb.gov.tr:1935/live/77.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 HADIMKÖY
+http://ibb-media4.ibb.gov.tr:1935/live/78.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 BOSTANCI 1
+http://ibb-media4.ibb.gov.tr:1935/live/85.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 BÜYÜKÇEKMECE
+http://ibb-media4.ibb.gov.tr:1935/live/86.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 ÇOBANÇESME
+http://ibb-media4.ibb.gov.tr:1935/live/94.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 GÖZTEPE
+http://ibb-media4.ibb.gov.tr:1935/live/101.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 GÜLSUYU 1
+http://ibb-media4.ibb.gov.tr:1935/live/103.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 GÜZELCE
+http://ibb-media4.ibb.gov.tr:1935/live/106.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 GÜZELSEHIR
+http://ibb-media4.ibb.gov.tr:1935/live/107.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 GÜZELYALI
+http://ibb-media4.ibb.gov.tr:1935/live/108.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",Halicioglu
+http://ibb-media4.ibb.gov.tr:1935/live/110.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 HARAMIDERE 1
+http://ibb-media4.ibb.gov.tr:1935/live/113.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 HÜRRIYET TEPESI
+http://ibb-media4.ibb.gov.tr:1935/live/115.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 INCIRLI 1
+http://ibb-media4.ibb.gov.tr:1935/live/118.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 SEFAKÖY 1
+http://ibb-media4.ibb.gov.tr:1935/live/121.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 AHL
+http://ibb-media4.ibb.gov.tr:1935/live/122.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",KOSUYOLU
+http://ibb-media4.ibb.gov.tr:1935/live/130.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",Küçükçekmece
+http://ibb-media4.ibb.gov.tr:1935/live/135.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 KÜÇÜKYALI
+http://ibb-media4.ibb.gov.tr:1935/live/136.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 KÜÇÜKYALI 1
+http://ibb-media4.ibb.gov.tr:1935/live/137.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 MALTEPE 1
+http://ibb-media4.ibb.gov.tr:1935/live/139.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 MECIDIYEKÖY
+http://ibb-media4.ibb.gov.tr:1935/live/140.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 MECIDIYEKÖY (samiyen)
+http://ibb-media4.ibb.gov.tr:1935/live/141.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 MERTER
+http://ibb-media4.ibb.gov.tr:1935/live/143.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 MERTER 4K
+http://ibb-media4.ibb.gov.tr:1935/live/144.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 OKMEYDANI
+http://ibb-media4.ibb.gov.tr:1935/live/147.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 HALIÇ AYVANSARAY
+http://ibb-media4.ibb.gov.tr:1935/live/148.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 PENDIK 1
+http://ibb-media4.ibb.gov.tr:1935/live/150.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",KAGITHANE
+http://ibb-media4.ibb.gov.tr:1935/live/202.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",BAG. YOLU UGUR MUMCU
+http://ibb-media4.ibb.gov.tr:1935/live/205.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",BAG.YOLU SOGANLIK
+http://ibb-media4.ibb.gov.tr:1935/live/207.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",KAVACIK GÖKSU
+http://ibb-media4.ibb.gov.tr:1935/live/210.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",KOZYATAGI ATATÜRK CD.
+http://ibb-media4.ibb.gov.tr:1935/live/216.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",OSMANBEY
+http://ibb-media4.ibb.gov.tr:1935/live/241.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",PERSEMBE PAZARI
+http://ibb-media4.ibb.gov.tr:1935/live/246.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",PIYALEPASA BULVARI 2
+http://ibb-media4.ibb.gov.tr:1935/live/248.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",RAMI
+http://ibb-media4.ibb.gov.tr:1935/live/251.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",S. YOLU EMIRGAN
+http://ibb-media4.ibb.gov.tr:1935/live/264.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",SISLI CAMII 2
+http://ibb-media4.ibb.gov.tr:1935/live/294.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",TARLABASI TRT
+http://ibb-media4.ibb.gov.tr:1935/live/300.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",TEM ATASEHIR 1
+http://ibb-media4.ibb.gov.tr:1935/live/308.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",TEM ÇAMLICA GISELER 1
+http://ibb-media4.ibb.gov.tr:1935/live/322.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",TEM ÇANTA
+http://ibb-media4.ibb.gov.tr:1935/live/323.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",TEM KEMERBURGAZ AYRIMI
+http://ibb-media4.ibb.gov.tr:1935/live/361.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",TEM K. BAKKALKÖY
+http://ibb-media4.ibb.gov.tr:1935/live/365.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",TEM MEHMETÇIK VAKFI
+http://ibb-media4.ibb.gov.tr:1935/live/375.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",TEM ORHANLI
+http://ibb-media4.ibb.gov.tr:1935/live/378.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",TEM SULTANBEYLI ÇESME
+http://ibb-media4.ibb.gov.tr:1935/live/381.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",TEM ÜMRANIYE
+http://ibb-media4.ibb.gov.tr:1935/live/394.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",UNKAPANI
+http://ibb-media4.ibb.gov.tr:1935/live/399.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",ÜMRANIYE KÜÇÜKSU
+http://ibb-media4.ibb.gov.tr:1935/live/401.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",BAHÇELIEVLER EMNIYET
+http://ibb-media4.ibb.gov.tr:1935/live/416.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 YENIBOSNA
+http://ibb-media4.ibb.gov.tr:1935/live/423.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",3004 ÜMRANIYE ÇEKMEKÖY YOLU
+http://ibb-media4.ibb.gov.tr:1935/live/433.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",15093 SSK GÖZTEPE
+http://ibb-media4.ibb.gov.tr:1935/live/439.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",15063 YILDIZ BAKKAL
+http://ibb-media4.ibb.gov.tr:1935/live/442.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",25048 ALTUNIZADE CAMII
+http://ibb-media4.ibb.gov.tr:1935/live/448.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",34037 TÜRK-IS BLOKLARI
+http://ibb-media4.ibb.gov.tr:1935/live/449.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",25093 BEYLERBEYI ISKELE
+http://ibb-media4.ibb.gov.tr:1935/live/455.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",15096 GÖZTEPE MERDIVENKÖY-2
+http://ibb-media4.ibb.gov.tr:1935/live/456.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",25077 BOSNA BULVARI
+http://ibb-media4.ibb.gov.tr:1935/live/460.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",25055 ACIBADEM FAIKBEY SK.
+http://ibb-media4.ibb.gov.tr:1935/live/463.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",34027 ATASEHIR
+http://ibb-media4.ibb.gov.tr:1935/live/471.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 BÜYÜKYALI KAV.
+http://ibb-media4.ibb.gov.tr:1935/live/475.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",RIVA YOLU A. CANEFE VIY.
+http://ibb-media4.ibb.gov.tr:1935/live/478.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",SILE YOLU SERINDERE
+http://ibb-media4.ibb.gov.tr:1935/live/481.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",YENI RIVAYOLU ELMALI
+http://ibb-media4.ibb.gov.tr:1935/live/486.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",12024 KIZTASI FATIH
+http://ibb-media4.ibb.gov.tr:1935/live/493.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",11042 VEYSEL KARANI CAMII
+http://ibb-media4.ibb.gov.tr:1935/live/512.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",35012 IKITELLI 3 NOLU KAV.
+http://ibb-media4.ibb.gov.tr:1935/live/518.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",11027 ALIBEYKÖY IGDAS
+http://ibb-media4.ibb.gov.tr:1935/live/520.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 TAVSANTEPE 1
+http://ibb-media4.ibb.gov.tr:1935/live/522.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",22016 PANGALTI
+http://ibb-media4.ibb.gov.tr:1935/live/530.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",09033 SISHANE
+http://ibb-media4.ibb.gov.tr:1935/live/536.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",22002 NIMET ÖZDEN CAMII
+http://ibb-media4.ibb.gov.tr:1935/live/540.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",12430 PAZARTEKKE
+http://ibb-media4.ibb.gov.tr:1935/live/553.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",09405 MALIYE
+http://ibb-media4.ibb.gov.tr:1935/live/556.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 BAYRAMPASA
+http://ibb-media4.ibb.gov.tr:1935/live/559.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",TEM MAHMUTBEY
+http://ibb-media4.ibb.gov.tr:1935/live/579.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",ISTOÇ ARKA YOL
+http://ibb-media4.ibb.gov.tr:1935/live/593.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D.BAHÇE TAKSIM INIS 2
+http://ibb-media4.ibb.gov.tr:1935/live/595.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",11032 ALIBEYKÖY YAVUZ SELIM CD.
+http://ibb-media4.ibb.gov.tr:1935/live/604.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 BEYLIKDÜZÜ CUMHURIYET
+http://ibb-media4.ibb.gov.tr:1935/live/613.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 BEYLIKDÜZÜ TÜYAP
+http://ibb-media4.ibb.gov.tr:1935/live/615.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D020 KARAYOLLARI DENETIM ISTASYONU
+http://ibb-media4.ibb.gov.tr:1935/live/636.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",BAG. YOLU KARAYOLLARI
+http://ibb-media4.ibb.gov.tr:1935/live/644.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",VATAN CAD. IGDAS 1
+http://ibb-media4.ibb.gov.tr:1935/live/646.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",TEM K.BAKKALKOY 1
+http://ibb-media4.ibb.gov.tr:1935/live/650.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",KCO IKITELLI OSB KAV
+http://ibb-media4.ibb.gov.tr:1935/live/666.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",KCO POYRAZ
+http://ibb-media4.ibb.gov.tr:1935/live/671.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",KCO RIVA TIR PARKI
+http://ibb-media4.ibb.gov.tr:1935/live/674.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",KCO RIVA TÜNELI GÜNEY
+http://ibb-media4.ibb.gov.tr:1935/live/676.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",KCO ALEMDAG KAV.
+http://ibb-media4.ibb.gov.tr:1935/live/684.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",11072 GÖKTÜRK GIRIS
+http://ibb-media4.ibb.gov.tr:1935/live/717.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",34044 KAYISDAGI GÜMRÜK ÖNÜ
+http://ibb-media4.ibb.gov.tr:1935/live/726.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",11026 NECATI MOLDER
+http://ibb-media4.ibb.gov.tr:1935/live/738.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",11039 ALIBEYKÖY AKSEMSETTIN BULVARI
+http://ibb-media4.ibb.gov.tr:1935/live/742.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",S. YOLU YENIKAPI 1
+http://ibb-media4.ibb.gov.tr:1935/live/744.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",15102 INTAS
+http://ibb-media4.ibb.gov.tr:1935/live/760.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",15072 ZEAMET SOKAK
+http://ibb-media4.ibb.gov.tr:1935/live/761.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",KCO YSS AVRUPA
+http://ibb-media4.ibb.gov.tr:1935/live/768.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",KCO PASAKÖY KAV.
+http://ibb-media4.ibb.gov.tr:1935/live/772.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",09032 SISHANE TEPEBASI
+http://ibb-media4.ibb.gov.tr:1935/live/785.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",Bilinmeyen Kamera (789)
+http://ibb-media4.ibb.gov.tr:1935/live/789.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",33019 BOGAZKÖY
+http://ibb-media4.ibb.gov.tr:1935/live/798.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",KCO SULTANBEYLI MECIDIYE KAV.
+http://ibb-media4.ibb.gov.tr:1935/live/820.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",KCO ISIKLAR
+http://ibb-media4.ibb.gov.tr:1935/live/830.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",D100 S RAMPASI 2-1
+http://ibb-media4.ibb.gov.tr:1935/live/852.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",Bilinmeyen Kamera (860)
+http://ibb-media4.ibb.gov.tr:1935/live/860.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",TEM ÇAKMAK KÖP. 1
+http://ibb-media4.ibb.gov.tr:1935/live/861.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",TEM ÜMRANIYE 1
+http://ibb-media4.ibb.gov.tr:1935/live/863.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",KCO HÜSEYINLI KÖMÜRLÜK 3
+http://ibb-media4.ibb.gov.tr:1935/live/891.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",21025 BOGAZIÇI KÜLTÜR MERKEZI
+http://ibb-media4.ibb.gov.tr:1935/live/928.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",O-3 BAYRAMPASA ALTINTEPSI
+http://ibb-media4.ibb.gov.tr:1935/live/949.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",Kagithane Tünel çikis
+http://ibb-media4.ibb.gov.tr:1935/live/967.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",O-3 BAGCILAR YÜZYIL
+http://ibb-media4.ibb.gov.tr:1935/live/973.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",34083 ATASEHIR DEREYOLU CAD.
+http://ibb-media4.ibb.gov.tr:1935/live/974.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",TEM KEMERBURGAZ AYRIMI 1
+http://ibb-media4.ibb.gov.tr:1935/live/988.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",MALTEPE MEKTEP CAD 1
+http://ibb-media4.ibb.gov.tr:1935/live/995.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",H.U TUNELI BEYKOZ GIRISI
+http://ibb-media4.ibb.gov.tr:1935/live/1020.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",Bilinmeyen Kamera (1028)
+http://ibb-media4.ibb.gov.tr:1935/live/1028.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",V.RECEP YAZICIOGLU SIRINTEPE GIRISI
+http://ibb-media4.ibb.gov.tr:1935/live/1030.stream/chunklist.m3u8
+#EXTINF:-1 group-title="IBB YOL Kameralar",Bilinmeyen Kamera (1033)
+http://ibb-media4.ibb.gov.tr:1935/live/1033.stream/chunklist.m3u8
 #EXTINF:-1 ,Alvor
 https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
 #EXTINF:-1 ,Alvor Nascente
@@ -1057,396 +1361,6 @@ https://outbound-production.explore.org/stream-production-189/.m3u8
 https://outbound-production.explore.org/stream-production-188/.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Hummingbird Trees
 https://outbound-production.explore.org/stream-production-209/.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",ANADOLU HISARI
-https://kamerayayin.ibb.istanbul/turistikcam/anadoluhisari.stream/chunklist_w1877353674.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",BEYAZIT KULESI 2
-https://kamerayayin.ibb.istanbul/turistikcam/beyazitkulesi2.stream/chunklist_w15437168.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",BEYAZIT MEYDANI
-https://kamerayayin.ibb.istanbul/turistikcam/beyazitmeydan.stream/chunklist_w1530095445.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",BÜYÜK ÇAMLICA
-https://kamerayayin.ibb.istanbul/turistikcam/buyukcamlica.stream/chunklist_w607999958.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",EMINÖNÜ
-https://kamerayayin.ibb.istanbul/turistikcam/eminonu.stream/chunklist_w819635481.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",EMIRGAN
-https://kamerayayin.ibb.istanbul/turistikcam/emirgan.stream/chunklist_w358486726.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",EYÜP SULTAN
-https://kamerayayin.ibb.istanbul/turistikcam/eyupsultan.stream/chunklist_w1374653882.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",HIDIV KASRI
-https://kamerayayin.ibb.istanbul/turistikcam/hidivkasri.stream/chunklist_w873286262.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",KIZ KULESI
-https://kamerayayin.ibb.istanbul/turistikcam/kizkulesi.stream/chunklist_w1638219554.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",KÜÇÜKÇEKMECE
-https://kamerayayin.ibb.istanbul/turistikcam/kucukcekmece.stream/playlist.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",PIERRE LOTI
-https://kamerayayin.ibb.istanbul/turistikcam/pierreloti.stream/chunklist_w615690742.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",SALACAK
-https://kamerayayin.ibb.istanbul/turistikcam/salacak.stream/chunklist_w108055488.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",SARAÇHANE
-https://kamerayayin.ibb.istanbul/turistikcam/sarachane.stream/chunklist_w1212513480.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",SULTANAHMET 2
-https://kamerayayin.ibb.istanbul/turistikcam/sultanahmet2.stream/chunklist_w2138675844.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",TAKSIM MEYDAN
-https://kamerayayin.ibb.istanbul/turistikcam/taksim.stream/chunklist_w438961806.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",ULUS PARKI
-https://kamerayayin.ibb.istanbul/turistikcam/ulusparki.stream/chunklist_w103152354.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",ÜSKÜDAR
-https://kamerayayin.ibb.istanbul/turistikcam/uskudar.stream/chunklist_w1741381098.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",AKOM
-http://ibb-media4.ibb.gov.tr:1935/live/2.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",AKSARAY
-http://ibb-media4.ibb.gov.tr:1935/live/3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",S. YOLU GALERIA
-http://ibb-media4.ibb.gov.tr:1935/live/12.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",BAGDAT CD. FENERYOLU
-http://ibb-media4.ibb.gov.tr:1935/live/18.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",BAGDAT CD. SASKINBAKKAL
-http://ibb-media4.ibb.gov.tr:1935/live/20.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",BAG. YOLU BAHÇESEHIR
-http://ibb-media4.ibb.gov.tr:1935/live/21.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",BAG. YOLU ESENYURT
-http://ibb-media4.ibb.gov.tr:1935/live/22.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",BAG. YOLU HARAMIDERE
-http://ibb-media4.ibb.gov.tr:1935/live/23.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",BASIN EKSP. IKITELLI 1
-http://ibb-media4.ibb.gov.tr:1935/live/35.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",BASIN EKSP. KUYUMCUKENT
-http://ibb-media4.ibb.gov.tr:1935/live/36.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",ÇATALCA
-http://ibb-media4.ibb.gov.tr:1935/live/65.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 BÜYÜKÇEKMECE AYMERKEZ
-http://ibb-media4.ibb.gov.tr:1935/live/76.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 BAYRAMOGLU
-http://ibb-media4.ibb.gov.tr:1935/live/77.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 HADIMKÖY
-http://ibb-media4.ibb.gov.tr:1935/live/78.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 BOSTANCI 1
-http://ibb-media4.ibb.gov.tr:1935/live/85.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 BÜYÜKÇEKMECE
-http://ibb-media4.ibb.gov.tr:1935/live/86.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 ÇOBANÇESME
-http://ibb-media4.ibb.gov.tr:1935/live/94.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 GÖZTEPE
-http://ibb-media4.ibb.gov.tr:1935/live/101.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 GÜLSUYU 1
-http://ibb-media4.ibb.gov.tr:1935/live/103.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 GÜZELCE
-http://ibb-media4.ibb.gov.tr:1935/live/106.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 GÜZELSEHIR
-http://ibb-media4.ibb.gov.tr:1935/live/107.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 GÜZELYALI
-http://ibb-media4.ibb.gov.tr:1935/live/108.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",Halicioglu
-http://ibb-media4.ibb.gov.tr:1935/live/110.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 HARAMIDERE 1
-http://ibb-media4.ibb.gov.tr:1935/live/113.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 HÜRRIYET TEPESI
-http://ibb-media4.ibb.gov.tr:1935/live/115.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 INCIRLI 1
-http://ibb-media4.ibb.gov.tr:1935/live/118.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 SEFAKÖY 1
-http://ibb-media4.ibb.gov.tr:1935/live/121.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 AHL
-http://ibb-media4.ibb.gov.tr:1935/live/122.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",KOSUYOLU
-http://ibb-media4.ibb.gov.tr:1935/live/130.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",Küçükçekmece
-http://ibb-media4.ibb.gov.tr:1935/live/135.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 KÜÇÜKYALI
-http://ibb-media4.ibb.gov.tr:1935/live/136.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 KÜÇÜKYALI 1
-http://ibb-media4.ibb.gov.tr:1935/live/137.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 MALTEPE 1
-http://ibb-media4.ibb.gov.tr:1935/live/139.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 MECIDIYEKÖY
-http://ibb-media4.ibb.gov.tr:1935/live/140.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 MECIDIYEKÖY (samiyen)
-http://ibb-media4.ibb.gov.tr:1935/live/141.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 MERTER
-http://ibb-media4.ibb.gov.tr:1935/live/143.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 MERTER 4K
-http://ibb-media4.ibb.gov.tr:1935/live/144.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 OKMEYDANI
-http://ibb-media4.ibb.gov.tr:1935/live/147.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 HALIÇ AYVANSARAY
-http://ibb-media4.ibb.gov.tr:1935/live/148.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 PENDIK 1
-http://ibb-media4.ibb.gov.tr:1935/live/150.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",KAGITHANE
-http://ibb-media4.ibb.gov.tr:1935/live/202.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",BAG. YOLU UGUR MUMCU
-http://ibb-media4.ibb.gov.tr:1935/live/205.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",BAG.YOLU SOGANLIK
-http://ibb-media4.ibb.gov.tr:1935/live/207.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",KAVACIK GÖKSU
-http://ibb-media4.ibb.gov.tr:1935/live/210.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",KOZYATAGI ATATÜRK CD.
-http://ibb-media4.ibb.gov.tr:1935/live/216.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",OSMANBEY
-http://ibb-media4.ibb.gov.tr:1935/live/241.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",PERSEMBE PAZARI
-http://ibb-media4.ibb.gov.tr:1935/live/246.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",PIYALEPASA BULVARI 2
-http://ibb-media4.ibb.gov.tr:1935/live/248.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",RAMI
-http://ibb-media4.ibb.gov.tr:1935/live/251.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",S. YOLU EMIRGAN
-http://ibb-media4.ibb.gov.tr:1935/live/264.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",SISLI CAMII 2
-http://ibb-media4.ibb.gov.tr:1935/live/294.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",TARLABASI TRT
-http://ibb-media4.ibb.gov.tr:1935/live/300.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",TEM ATASEHIR 1
-http://ibb-media4.ibb.gov.tr:1935/live/308.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",TEM ÇAMLICA GISELER 1
-http://ibb-media4.ibb.gov.tr:1935/live/322.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",TEM ÇANTA
-http://ibb-media4.ibb.gov.tr:1935/live/323.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",TEM KEMERBURGAZ AYRIMI
-http://ibb-media4.ibb.gov.tr:1935/live/361.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",TEM K. BAKKALKÖY
-http://ibb-media4.ibb.gov.tr:1935/live/365.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",TEM MEHMETÇIK VAKFI
-http://ibb-media4.ibb.gov.tr:1935/live/375.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",TEM ORHANLI
-http://ibb-media4.ibb.gov.tr:1935/live/378.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",TEM SULTANBEYLI ÇESME
-http://ibb-media4.ibb.gov.tr:1935/live/381.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",TEM ÜMRANIYE
-http://ibb-media4.ibb.gov.tr:1935/live/394.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",UNKAPANI
-http://ibb-media4.ibb.gov.tr:1935/live/399.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",ÜMRANIYE KÜÇÜKSU
-http://ibb-media4.ibb.gov.tr:1935/live/401.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",BAHÇELIEVLER EMNIYET
-http://ibb-media4.ibb.gov.tr:1935/live/416.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 YENIBOSNA
-http://ibb-media4.ibb.gov.tr:1935/live/423.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",3004 ÜMRANIYE ÇEKMEKÖY YOLU
-http://ibb-media4.ibb.gov.tr:1935/live/433.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",15093 SSK GÖZTEPE
-http://ibb-media4.ibb.gov.tr:1935/live/439.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",15063 YILDIZ BAKKAL
-http://ibb-media4.ibb.gov.tr:1935/live/442.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",25048 ALTUNIZADE CAMII
-http://ibb-media4.ibb.gov.tr:1935/live/448.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",34037 TÜRK-IS BLOKLARI
-http://ibb-media4.ibb.gov.tr:1935/live/449.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",25093 BEYLERBEYI ISKELE
-http://ibb-media4.ibb.gov.tr:1935/live/455.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",15096 GÖZTEPE MERDIVENKÖY-2
-http://ibb-media4.ibb.gov.tr:1935/live/456.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",25077 BOSNA BULVARI
-http://ibb-media4.ibb.gov.tr:1935/live/460.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",25055 ACIBADEM FAIKBEY SK.
-http://ibb-media4.ibb.gov.tr:1935/live/463.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",34027 ATASEHIR
-http://ibb-media4.ibb.gov.tr:1935/live/471.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 BÜYÜKYALI KAV.
-http://ibb-media4.ibb.gov.tr:1935/live/475.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",RIVA YOLU A. CANEFE VIY.
-http://ibb-media4.ibb.gov.tr:1935/live/478.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",SILE YOLU SERINDERE
-http://ibb-media4.ibb.gov.tr:1935/live/481.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",YENI RIVAYOLU ELMALI
-http://ibb-media4.ibb.gov.tr:1935/live/486.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",12024 KIZTASI FATIH
-http://ibb-media4.ibb.gov.tr:1935/live/493.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",11042 VEYSEL KARANI CAMII
-http://ibb-media4.ibb.gov.tr:1935/live/512.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",35012 IKITELLI 3 NOLU KAV.
-http://ibb-media4.ibb.gov.tr:1935/live/518.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",11027 ALIBEYKÖY IGDAS
-http://ibb-media4.ibb.gov.tr:1935/live/520.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 TAVSANTEPE 1
-http://ibb-media4.ibb.gov.tr:1935/live/522.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",22016 PANGALTI
-http://ibb-media4.ibb.gov.tr:1935/live/530.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",09033 SISHANE
-http://ibb-media4.ibb.gov.tr:1935/live/536.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",22002 NIMET ÖZDEN CAMII
-http://ibb-media4.ibb.gov.tr:1935/live/540.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",12430 PAZARTEKKE
-http://ibb-media4.ibb.gov.tr:1935/live/553.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",09405 MALIYE
-http://ibb-media4.ibb.gov.tr:1935/live/556.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 BAYRAMPASA
-http://ibb-media4.ibb.gov.tr:1935/live/559.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",TEM MAHMUTBEY
-http://ibb-media4.ibb.gov.tr:1935/live/579.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",ISTOÇ ARKA YOL
-http://ibb-media4.ibb.gov.tr:1935/live/593.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D.BAHÇE TAKSIM INIS 2
-http://ibb-media4.ibb.gov.tr:1935/live/595.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",11032 ALIBEYKÖY YAVUZ SELIM CD.
-http://ibb-media4.ibb.gov.tr:1935/live/604.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 BEYLIKDÜZÜ CUMHURIYET
-http://ibb-media4.ibb.gov.tr:1935/live/613.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 BEYLIKDÜZÜ TÜYAP
-http://ibb-media4.ibb.gov.tr:1935/live/615.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D020 KARAYOLLARI DENETIM ISTASYONU
-http://ibb-media4.ibb.gov.tr:1935/live/636.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",BAG. YOLU KARAYOLLARI
-http://ibb-media4.ibb.gov.tr:1935/live/644.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",VATAN CAD. IGDAS 1
-http://ibb-media4.ibb.gov.tr:1935/live/646.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",TEM K.BAKKALKOY 1
-http://ibb-media4.ibb.gov.tr:1935/live/650.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",KCO IKITELLI OSB KAV
-http://ibb-media4.ibb.gov.tr:1935/live/666.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",KCO POYRAZ
-http://ibb-media4.ibb.gov.tr:1935/live/671.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",KCO RIVA TIR PARKI
-http://ibb-media4.ibb.gov.tr:1935/live/674.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",KCO RIVA TÜNELI GÜNEY
-http://ibb-media4.ibb.gov.tr:1935/live/676.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",KCO ALEMDAG KAV.
-http://ibb-media4.ibb.gov.tr:1935/live/684.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",11072 GÖKTÜRK GIRIS
-http://ibb-media4.ibb.gov.tr:1935/live/717.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",34044 KAYISDAGI GÜMRÜK ÖNÜ
-http://ibb-media4.ibb.gov.tr:1935/live/726.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",11026 NECATI MOLDER
-http://ibb-media4.ibb.gov.tr:1935/live/738.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",11039 ALIBEYKÖY AKSEMSETTIN BULVARI
-http://ibb-media4.ibb.gov.tr:1935/live/742.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",S. YOLU YENIKAPI 1
-http://ibb-media4.ibb.gov.tr:1935/live/744.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",15102 INTAS
-http://ibb-media4.ibb.gov.tr:1935/live/760.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",15072 ZEAMET SOKAK
-http://ibb-media4.ibb.gov.tr:1935/live/761.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",KCO YSS AVRUPA
-http://ibb-media4.ibb.gov.tr:1935/live/768.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",KCO PASAKÖY KAV.
-http://ibb-media4.ibb.gov.tr:1935/live/772.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",09032 SISHANE TEPEBASI
-http://ibb-media4.ibb.gov.tr:1935/live/785.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",Bilinmeyen Kamera (789)
-http://ibb-media4.ibb.gov.tr:1935/live/789.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",33019 BOGAZKÖY
-http://ibb-media4.ibb.gov.tr:1935/live/798.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",KCO SULTANBEYLI MECIDIYE KAV.
-http://ibb-media4.ibb.gov.tr:1935/live/820.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",KCO ISIKLAR
-http://ibb-media4.ibb.gov.tr:1935/live/830.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",D100 S RAMPASI 2-1
-http://ibb-media4.ibb.gov.tr:1935/live/852.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",Bilinmeyen Kamera (860)
-http://ibb-media4.ibb.gov.tr:1935/live/860.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",TEM ÇAKMAK KÖP. 1
-http://ibb-media4.ibb.gov.tr:1935/live/861.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",TEM ÜMRANIYE 1
-http://ibb-media4.ibb.gov.tr:1935/live/863.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",KCO HÜSEYINLI KÖMÜRLÜK 3
-http://ibb-media4.ibb.gov.tr:1935/live/891.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",21025 BOGAZIÇI KÜLTÜR MERKEZI
-http://ibb-media4.ibb.gov.tr:1935/live/928.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",O-3 BAYRAMPASA ALTINTEPSI
-http://ibb-media4.ibb.gov.tr:1935/live/949.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",Kagithane Tünel çikis
-http://ibb-media4.ibb.gov.tr:1935/live/967.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",O-3 BAGCILAR YÜZYIL
-http://ibb-media4.ibb.gov.tr:1935/live/973.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",34083 ATASEHIR DEREYOLU CAD.
-http://ibb-media4.ibb.gov.tr:1935/live/974.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",TEM KEMERBURGAZ AYRIMI 1
-http://ibb-media4.ibb.gov.tr:1935/live/988.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",MALTEPE MEKTEP CAD 1
-http://ibb-media4.ibb.gov.tr:1935/live/995.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",H.U TUNELI BEYKOZ GIRISI
-http://ibb-media4.ibb.gov.tr:1935/live/1020.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",Bilinmeyen Kamera (1028)
-http://ibb-media4.ibb.gov.tr:1935/live/1028.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",V.RECEP YAZICIOGLU SIRINTEPE GIRISI
-http://ibb-media4.ibb.gov.tr:1935/live/1030.stream/chunklist.m3u8
-#EXTINF:-1 group-title="IBB YOL Kameralar",Bilinmeyen Kamera (1033)
-http://ibb-media4.ibb.gov.tr:1935/live/1033.stream/chunklist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-386
-http://ibb-media2.ibb.gov.tr:1935/live/386.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-391
-http://ibb-media2.ibb.gov.tr:1935/live/391.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-403
-http://ibb-media2.ibb.gov.tr:1935/live/403.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-415
-http://ibb-media2.ibb.gov.tr:1935/live/415.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-427
-http://ibb-media2.ibb.gov.tr:1935/live/427.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-438
-http://ibb-media2.ibb.gov.tr:1935/live/438.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-473
-http://ibb-media2.ibb.gov.tr:1935/live/473.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-447
-http://ibb-media2.ibb.gov.tr:1935/live/447.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-470
-http://ibb-media2.ibb.gov.tr:1935/live/470.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-480
-http://ibb-media2.ibb.gov.tr:1935/live/480.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-482
-http://ibb-media2.ibb.gov.tr:1935/live/482.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-476
-http://ibb-media2.ibb.gov.tr:1935/live/476.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-549
-http://ibb-media2.ibb.gov.tr:1935/live/549.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-538
-http://ibb-media2.ibb.gov.tr:1935/live/538.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-487
-http://ibb-media2.ibb.gov.tr:1935/live/487.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-569
-http://ibb-media2.ibb.gov.tr:1935/live/569.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-531
-http://ibb-media2.ibb.gov.tr:1935/live/531.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-561
-http://ibb-media2.ibb.gov.tr:1935/live/561.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-581
-http://ibb-media2.ibb.gov.tr:1935/live/581.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-607
-http://ibb-media2.ibb.gov.tr:1935/live/607.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-580
-http://ibb-media2.ibb.gov.tr:1935/live/580.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-573
-http://ibb-media2.ibb.gov.tr:1935/live/573.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-845
-http://ibb-media2.ibb.gov.tr:1935/live/845.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-765
-http://ibb-media2.ibb.gov.tr:1935/live/765.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-835
-http://ibb-media2.ibb.gov.tr:1935/live/835.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-826
-http://ibb-media2.ibb.gov.tr:1935/live/826.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-764
-http://ibb-media2.ibb.gov.tr:1935/live/764.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-853
-http://ibb-media2.ibb.gov.tr:1935/live/853.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-851
-http://ibb-media2.ibb.gov.tr:1935/live/851.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-856
-http://ibb-media2.ibb.gov.tr:1935/live/856.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-848
-http://ibb-media2.ibb.gov.tr:1935/live/848.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-886
-http://ibb-media2.ibb.gov.tr:1935/live/886.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-889
-http://ibb-media2.ibb.gov.tr:1935/live/889.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-890
-http://ibb-media2.ibb.gov.tr:1935/live/890.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-896
-http://ibb-media2.ibb.gov.tr:1935/live/896.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-898
-http://ibb-media2.ibb.gov.tr:1935/live/898.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-892
-http://ibb-media2.ibb.gov.tr:1935/live/892.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-894
-http://ibb-media2.ibb.gov.tr:1935/live/894.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-929
-http://ibb-media2.ibb.gov.tr:1935/live/929.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-912
-http://ibb-media2.ibb.gov.tr:1935/live/912.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-950
-http://ibb-media2.ibb.gov.tr:1935/live/950.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-975
-http://ibb-media2.ibb.gov.tr:1935/live/975.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM-930
-http://ibb-media2.ibb.gov.tr:1935/live/930.stream/playlist.m3u8
 #EXTINF:-1 group-title="DE_GERMAN_DACH_WEBCAM",Klagenfurt Neuer Platz
 http://stream1.panocloud.com/KlagenfurtNeuerPlatz/KlagenfurtNeuerPlatz.stream/.m3u8
 #EXTINF:-1 group-title="DE_GERMAN_DACH_WEBCAM",Köln Airport Cam3
