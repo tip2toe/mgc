@@ -1456,21 +1456,3 @@ https://video-auth1.iol.pt/beachcam/bcconsolacao/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bclagidefixa/playlist.m3u8
 #EXTINF:-1 group-title="EU_PORTUGAL_webcam",Peniche | Molhe Leste | Estática
 https://video-auth1.iol.pt/beachcam/bcmolheleste/playlist.m3u8
-#EXTINF:-1 group-title="EU_POLAND_webcam",Poland - Hotel Stok
-http://hoktastream4.webcamera.pl/hotelstok_cam_77f104/hotelstok_cam_77f104.stream/playlist.m3u8
-#EXTINF:-1 group-title="EU_POLAND_webcam",Poland - Olsztyn
-http://hls13.webcamera.pl/olsztyn_cam_43a997/olsztyn_cam_43a997.stream/playlist.m3u8
-#EXTINF:-1 group-title="EU_POLAND_webcam",Poland - Ujsoly
-http://91.224.104.112:80/ujsoly/index.m3u8
-#EXTINF:-1 group-title="EU_POLAND_webcam",Poland - Sopot
-http://hls8.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/chunks.m3u8
-#EXTINF:-1 group-title="EU_POLAND_webcam",Poland - Widok
-http://91.224.104.112:80/wgwidok/index.m3u8
-#EXTINF:-1 group-title="EU_POLAND_webcam",Poland - Lodz Airport
-https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek1.m3u8
-#EXTINF:-1 group-title="EU_POLAND_webcam",Poland - Lodz Airport
-https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek2.m3u8
-#EXTINF:-1 group-title="EU_POLAND_webcam",Poland - Nowy Sacz Lososina Dolna Airfield
-https://videocdn.km-net.pl/Lososina_Dolna/index.m3u8
-#EXTINF:-1 group-title="EU_POLAND_webcam",Poland - TV Cam
-https://hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
