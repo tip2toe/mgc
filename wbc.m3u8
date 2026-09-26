@@ -1,38 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="IBB Turistik Kameralar",ANADOLU HISARI
-https://kamerayayin.ibb.istanbul/turistikcam/anadoluhisari.stream/chunklist_w1877353674.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",BEYAZIT KULESI 2
-https://kamerayayin.ibb.istanbul/turistikcam/beyazitkulesi2.stream/chunklist_w15437168.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",BEYAZIT MEYDANI
-https://kamerayayin.ibb.istanbul/turistikcam/beyazitmeydan.stream/chunklist_w1530095445.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",BÜYÜK ÇAMLICA
-https://kamerayayin.ibb.istanbul/turistikcam/buyukcamlica.stream/chunklist_w607999958.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",EMINÖNÜ
-https://kamerayayin.ibb.istanbul/turistikcam/eminonu.stream/chunklist_w819635481.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",EMIRGAN
-https://kamerayayin.ibb.istanbul/turistikcam/emirgan.stream/chunklist_w358486726.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",EYÜP SULTAN
-https://kamerayayin.ibb.istanbul/turistikcam/eyupsultan.stream/chunklist_w1374653882.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",HIDIV KASRI
-https://kamerayayin.ibb.istanbul/turistikcam/hidivkasri.stream/chunklist_w873286262.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",KIZ KULESI
-https://kamerayayin.ibb.istanbul/turistikcam/kizkulesi.stream/chunklist_w1638219554.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",KÜÇÜKÇEKMECE
-https://kamerayayin.ibb.istanbul/turistikcam/kucukcekmece.stream/playlist.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",PIERRE LOTI
-https://kamerayayin.ibb.istanbul/turistikcam/pierreloti.stream/chunklist_w615690742.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",SALACAK
-https://kamerayayin.ibb.istanbul/turistikcam/salacak.stream/chunklist_w108055488.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",SARAÇHANE
-https://kamerayayin.ibb.istanbul/turistikcam/sarachane.stream/chunklist_w1212513480.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",SULTANAHMET 2
-https://kamerayayin.ibb.istanbul/turistikcam/sultanahmet2.stream/chunklist_w2138675844.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",TAKSIM MEYDAN
-https://kamerayayin.ibb.istanbul/turistikcam/taksim.stream/chunklist_w438961806.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",ULUS PARKI
-https://kamerayayin.ibb.istanbul/turistikcam/ulusparki.stream/chunklist_w103152354.m3u8
-#EXTINF:-1 group-title="IBB Turistik Kameralar",ÜSKÜDAR
-https://kamerayayin.ibb.istanbul/turistikcam/uskudar.stream/chunklist_w1741381098.m3u8
 #EXTINF:-1 group-title="IBB YOL Kameralar",AKOM
 http://ibb-media4.ibb.gov.tr:1935/live/2.stream/chunklist.m3u8
 #EXTINF:-1 group-title="IBB YOL Kameralar",AKSARAY
