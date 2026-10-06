@@ -457,8 +457,6 @@ https://outbound-production.explore.org/stream-production-110/.m3u8
 https://outbound-production.explore.org/stream-production-276/.m3u8
 #EXTINF:-1 group-title="AFRICA_WEBCAM",Africam 317
 https://outbound-production.explore.org/stream-production-317/.m3u8
-#EXTINF:-1 group-title="PORTUGAL_webcam",Albarquel
-https://video-auth1.iol.pt/beachcam/bcalbarquel/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL_webcam",Almograve - New
 https://video-auth1.iol.pt/beachcam/bcalmograve/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL_webcam",Alvor
@@ -501,8 +499,6 @@ https://video-auth1.iol.pt/beachcam/bccaparicanortefixa/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcnovapraia/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL_webcam",Costa de Caparica | Tarquínio
 https://video-auth1.iol.pt/beachcam/bctarquinho/playlist.m3u8
-#EXTINF:-1 group-title="WORLD_webcam_MIX",CZ Kamera Hutisko-Solanec
-http://31.47.96.14:80/hls/hutisko.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",CZ Kamera na Radhošti - vychod
 http://31.47.96.14:80/hls/radhostvychod.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",CZ Kamera Vidce
@@ -589,12 +585,6 @@ http://ibb-media2.ibb.gov.tr:1935/live/274.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/344.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM - 376
 http://ibb-media2.ibb.gov.tr:1935/live/376.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM - 379
-http://ibb-media2.ibb.gov.tr:1935/live/379.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM - 386
-http://ibb-media2.ibb.gov.tr:1935/live/386.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM - 393
-http://ibb-media2.ibb.gov.tr:1935/live/393.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM - 403
 http://ibb-media2.ibb.gov.tr:1935/live/403.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM - 408
@@ -669,8 +659,6 @@ http://ibb-media2.ibb.gov.tr:1935/live/598.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/602.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM - 607
 http://ibb-media2.ibb.gov.tr:1935/live/607.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM - 608
-http://ibb-media2.ibb.gov.tr:1935/live/608.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM - 610
 http://ibb-media2.ibb.gov.tr:1935/live/610.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM - 611
@@ -753,8 +741,6 @@ http://ibb-media2.ibb.gov.tr:1935/live/842.stream/playlist.m3u8
 http://ibb-media2.ibb.gov.tr:1935/live/845.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM - 848
 http://ibb-media2.ibb.gov.tr:1935/live/848.stream/playlist.m3u8
-#EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM - 851
-http://ibb-media2.ibb.gov.tr:1935/live/851.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM - 853
 http://ibb-media2.ibb.gov.tr:1935/live/853.stream/playlist.m3u8
 #EXTINF:-1 group-title="*TÜRK_Webcam",Istanbul_AKOM - 856
@@ -1057,8 +1043,6 @@ https://video-auth1.iol.pt/beachcam/bcfarol/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/furnasmar/playlist.m3u8
 #EXTINF:-1 group-title="PORTUGAL_webcam",Vila Praia de Âncora
 https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/playlist.m3u8
-#EXTINF:-1 group-title="PORTUGAL_webcam",Vilamoura
-https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
 #EXTINF:-1 group-title="VIETNAM_WebCam",Vòng xoay Di?n Biên Ph? TPHCM
 https://livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_720p/index.m3u8
 #EXTINF:-1 group-title="WORLD_webcam_MIX",Waimea Bay
@@ -1123,14 +1107,6 @@ https://5d881567b7568.streamlock.net/live/Slechtvalk1Buiten.stream/playlist.m3u8
 https://5d881567b7568.streamlock.net/live/Kerkuil1Binnen.stream/chunklist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",?????????? 13
 https://5d881567b7568.streamlock.net/live/Kerkuil1Buiten.stream/playlist.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",???-?????? - ??? ??? ?????
-http://92.46.108.21:1934/rtplive/_definst_/camera1.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",???-?????? - ??? ??? ?????
-http://92.46.108.21:1934/rtplive/_definst_/camera1.stream/playlist.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",???-?????? - ??? ??? ????? 2
-http://92.46.108.21:1934/rtplive/_definst_/camera2.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",???-?????? - ??? ??? ????? 2
-http://92.46.108.21:1934/rtplive/_definst_/camera2.stream/playlist.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",???????? 1
 http://stream.kukaj.se/stream/7/video.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",???????? 2
@@ -1159,8 +1135,6 @@ http://stream.strba.sk:1935/strba/VYHLAD_NOVESTRB.stream/playlist.m3u8
 http://stream.profi-net.sk:1935/tmr/STREAM39.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",???????? 16
 http://stream.kukaj.se/stream/1/video.m3u8
-#EXTINF:-1 group-title="RUS_exCCCP_webcam",???????? 17
-http://stream.kukaj.se/stream/2/video.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",???????? 18
 http://stream.kukaj.se/stream/3/video.m3u8
 #EXTINF:-1 group-title="RUS_exCCCP_webcam",?????? 1
