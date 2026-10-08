@@ -29,6 +29,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/4001/index.m3u8
 #EXTINF:-1 group-title="ULUSAL",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+#EXTINF:-1 group-title="SiNEMA",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 group-title="ULUSAL",TLC HD
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=NFE3dkZRZjl3MDlsdXZDaVdGbnVFQjRSb0dnSWxoNHpibDdwVld2OXlqOD0=&sid=7w7725h04ycx&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
 #EXTINF:-1 group-title="ULUSAL",DMAX HD
@@ -37,11 +39,13 @@ https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=T0NrdVo2UzQ2YldmOFE4MTdwRXF
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SiNEMA",TELEON
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/playlist.m3u8
+#EXTINF:-1 group-title="SiNEMA",TELEON
+https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w937726827.m3u8
 #EXTINF:-1 group-title="SiNEMA",SiRiUS
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
 #EXTINF:-1 group-title="SiNEMA",SABANTV
 http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
-#EXTINF:-1 group-title="SiNEMA",Saban TV
+#EXTINF:-1 group-title="SiNEMA",SABANTV
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
 #EXTINF:-1 group-title="SiNEMA",Kemal SUNAL 1
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Kemal-sunal-1.m3u8
@@ -57,8 +61,6 @@ https://i41.ozelip.com:3269/hybrid/play.m3u8?checkedby:MyWay
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 group-title="SiNEMA",FXTV
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 group-title="SiNEMA",TABiiTV
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=iUlyczhCBES7nvvwJSiycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
 #EXTINF:-1 group-title="SiNEMA",DENiZ POSTASi
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:-1 group-title="SiNEMA",TiVi6
@@ -67,8 +69,6 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8?checkedby:MyWay
 #EXTINF:-1 group-title="SiNEMA",DiZiTV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 group-title="SiNEMA",EKOL TV
-http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 #EXTINF:-1 group-title="SiNEMA",KANAL 53  
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1 group-title="SiNEMA",BRUKSEL TV
@@ -81,24 +81,18 @@ https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8?
 https://canli.gopsentv.com:3604/stream/play.m3u8
 #EXTINF:-1 group-title="SiNEMA",FilmScreen international
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:-1 group-title="SiNEMA",TV4
-https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 group-title="SiNEMA",AKKON TV
 https://ip.akkontv.com:3205/stream/play.m3u8
 #EXTINF:-1 group-title="SiNEMA",FluxTV
 https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
 #EXTINF:-1 group-title="SiNEMA",TVB
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
-#EXTINF:-1 group-title="SiNEMA",Deniz Postasi TV
-https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 #EXTINF:-1 group-title="SiNEMA",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 group-title="SiNEMA",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 group-title="SiNEMA",isviçre TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
-#EXTINF:-1 group-title="SiNEMA",Tivi 6
-https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 group-title="SiNEMA",Cine-5 TV
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SiNEMA",Viyana TV
@@ -220,82 +214,82 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
 #EXTINF:-1 group-title="HABER",DHA Canli 2
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
-#EXTINF:-1 group-title="MüZiK",POWER TURK
+#EXTINF:-1 group-title="Music",TRT-Muzik
+https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 group-title="Music",Powerturk TV
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
+#EXTINF:-1 group-title="Music",NUMBER ONE TÜRK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music",NUMBER ONE TÜRK ASK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 group-title="Music",NUMBER ONE TÜRK RAP
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 group-title="Music",NUMBER ONE DANCE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 group-title="Music",NUMBER ONE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music",POWER TURK
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
-#EXTINF:-1 group-title="MüZiK",POWER TURK SLOW
+#EXTINF:-1 group-title="Music",POWER TURK SLOW
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 group-title="MüZiK",POWER TV AKUSTiK
+#EXTINF:-1 group-title="Music",POWER TV AKUSTiK
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 group-title="MüZiK",POWER TURK TAPTAZE
+#EXTINF:-1 group-title="Music",POWER TURK TAPTAZE
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 group-title="MüZiK",POWER DANCE
+#EXTINF:-1 group-title="Music",POWER DANCE
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 group-title="MüZiK",KRAL POP TV FHD
+#EXTINF:-1 group-title="Music",KRAL POP TV FHD
 http://dygvideo.dygdigital.com/live/hls/kralpop
-#EXTINF:-1 group-title="MüZiK",DREAM TURK
+#EXTINF:-1 group-title="Music",DREAM TURK
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 group-title="MüZiK",NR 1 TURK
+#EXTINF:-1 group-title="Music",NR 1 TURK
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
-#EXTINF:-1 group-title="MüZiK",POWER LOVE
+#EXTINF:-1 group-title="Music",POWER LOVE
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 group-title="MüZiK",NR 1 DAMAR
+#EXTINF:-1 group-title="Music",NR 1 DAMAR
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8?md5=api5VtN5dEXl5cvRHMQBNQ&expires=1696713505
-#EXTINF:-1 group-title="MüZiK",NR 1 TV
+#EXTINF:-1 group-title="Music",NR 1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
-#EXTINF:-1 group-title="MiNiK",SiHiRLi ANNEM
+#EXTINF:-1 group-title="minik",SiHiRLi ANNEM
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sihirli-annem.m3u8
-#EXTINF:-1 group-title="MiNiK",TRT Cocuk
+#EXTINF:-1 group-title="minik",TRT Cocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="MiNiK",Minika Cocuk
+#EXTINF:-1 group-title="minik",Minika Cocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
-#EXTINF:-1 group-title="MiNiK",Minika Go
+#EXTINF:-1 group-title="minik",Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
-#EXTINF:-1 group-title="MiNiK",KRAL SAKiR
+#EXTINF:-1 group-title="minik",KRAL SAKiR
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Kral-sakir.m3u8
-#EXTINF:-1 group-title="MiNiK",FURKiS TV
+#EXTINF:-1 group-title="minik",FURKiS TV
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Furkistv.m3u8
-#EXTINF:-1 group-title="MiNiK",ROBOCAR
+#EXTINF:-1 group-title="minik",ROBOCAR
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Robocar.m3u8
-#EXTINF:-1 group-title="MiNiK",BOOBA
+#EXTINF:-1 group-title="minik",BOOBA
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Booba.m3u8
-#EXTINF:-1 group-title="MiNiK",TRANSFORMERS
+#EXTINF:-1 group-title="minik",TRANSFORMERS
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Transformers.m3u8
-#EXTINF:-1 group-title="MiNiK",CARTOON NiTO
+#EXTINF:-1 group-title="minik",CARTOON NiTO
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Cartoon-nito.m3u8
-#EXTINF:-1 group-title="MiNiK",CARTOON
+#EXTINF:-1 group-title="minik",CARTOON
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Cartoon.m3u8
-#EXTINF:-1 group-title="MiNiK",KUKULi
+#EXTINF:-1 group-title="minik",KUKULi
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Kukuli.m3u8
-#EXTINF:-1 group-title="MiNiK",LiMON ZEYTiN
+#EXTINF:-1 group-title="minik",LiMON ZEYTiN
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Limon-zeytin.m3u8
-#EXTINF:-1 group-title="MiNiK",RAFADAN TAYFA
+#EXTINF:-1 group-title="minik",RAFADAN TAYFA
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Rafadan-tayfa.m3u8
-#EXTINF:-1 group-title="MiNiK",NESELi DUNYAM
+#EXTINF:-1 group-title="minik",NESELi DUNYAM
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Neseli-dunyam.m3u8
-#EXTINF:-1 group-title="MiNiK",LOLO KiDS
+#EXTINF:-1 group-title="minik",LOLO KiDS
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Lolo-kids.m3u8
-#EXTINF:-1 group-title="MiNiK",NiLOYA
+#EXTINF:-1 group-title="minik",NiLOYA
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Niloya.m3u8
-#EXTINF:-1 group-title="MiNiK",PONNY
+#EXTINF:-1 group-title="minik",PONNY
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Ponny.m3u8
 #EXTINF:-1 group-title="SPOR",TRT-Spor
 https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="SPOR",TRT-Spor Yildiz
 https://tv-trtspor2.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1 group-title="Muzik",TRT-Muzik
-https://tv-trtmuzik.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1 group-title="Muzik",Powerturk TV
-https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
-#EXTINF:-1 group-title="Muzik",NUMBER ONE TÜRK
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8
-#EXTINF:-1 group-title="Muzik",NUMBER ONE TÜRK ASK
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 group-title="Muzik",NUMBER ONE TÜRK RAP
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1 group-title="Muzik",NUMBER ONE DANCE
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1 group-title="Muzik",NUMBER ONE
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 #EXTINF:-1 group-title="EUROPA",KANAL 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 group-title="ULUSAL",Showmax
@@ -306,7 +300,7 @@ https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_720p.m3u8
 #EXTINF:-1 group-title="HABER",A HABER
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=GqtB4cuxGYFoRRq0j7iRTw&e=1790644336
-#EXTINF:-1 group-title="MiNiK",TRT-Cocuk
+#EXTINF:-1 group-title="minik",TRT-Cocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="EUROPA",Euro D
 http://live.duhnet.tv/S2/HLS_LiVE/eurodnp/playlist.m3u8
