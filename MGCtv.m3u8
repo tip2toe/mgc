@@ -89,6 +89,8 @@ https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #EXTINF:-1 group-title="cinema",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
+#EXTINF:-1 group-title="cinema",Deniztv
+http://162.212.179.32/akamaissh101/ssh101/denizradyotv/chunks.m3u8
 #EXTINF:-1 group-title="cinema",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
 #EXTINF:-1 group-title="cinema",isviçre TV
@@ -103,57 +105,55 @@ https://live.euromediacenter.com/brukselturk/index.m3u8
 https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
 #EXTINF:-1 group-title="cinema",TRT Nostalji Dizi
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 group-title="cinema",deniztv
-http://162.212.179.32/akamaissh101/ssh101/denizradyotv/chunks.m3u8
-#EXTINF:-1 group-title="dizi",Güldür Güldür
+#EXTINF:-1 group-title="dizi7/24"Güldür Güldür
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/guldur-guldur.m3u8
-#EXTINF:-1 group-title="dizi",Çghb
+#EXTINF:-1 group-title="dizi7/24",Çghb
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Cghb.m3u8
-#EXTINF:-1 group-title="dizi",TolgSHOW
+#EXTINF:-1 group-title="dizi7/24",TolgSHOW
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Tolgshow.m3u8
-#EXTINF:-1 group-title="dizi",Tasacak_Bu_Deniz
+#EXTINF:-1 group-title="dizi7/24",Tasacak_Bu_Deniz
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/tasacak-bu-deniz.m3u8
-#EXTINF:-1 group-title="dizi",Kurtlar Vadisi PUSU
+#EXTINF:-1 group-title="dizi7/24",Kurtlar Vadisi PUSU
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/kurtlar-vadisi-pusu.m3u8
-#EXTINF:-1 group-title="dizi",Behzat Ç
+#EXTINF:-1 group-title="dizi7/24",Behzat Ç
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/behzatc.m3u8
-#EXTINF:-1 group-title="dizi",Kuzey Güney
+#EXTINF:-1 group-title="dizi7/24",Kuzey Güney
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/kuzey-guney.m3u8
-#EXTINF:-1 group-title="dizi",Yaprak Dökümü
+#EXTINF:-1 group-title="dizi7/24",Yaprak Dökümü
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/yaprak-dokumu.m3u8
-#EXTINF:-1 group-title="dizi",SiFiR Bir
+#EXTINF:-1 group-title="dizi7/24",SiFiR Bir
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sifir-bir.m3u8
-#EXTINF:-1 group-title="dizi",SOZ
+#EXTINF:-1 group-title="dizi7/24",SOZ
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/soz-dizi.m3u8
-#EXTINF:-1 group-title="dizi",SAKARYA FiRAT
+#EXTINF:-1 group-title="dizi7/24",SAKARYA FiRAT
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sakarya-firat.m3u8
-#EXTINF:-1 group-title="dizi",DiRiLiS ERTUGRUL
+#EXTINF:-1 group-title="dizi7/24",DiRiLiS ERTUGRUL
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/dirilis-ertugrul.m3u8
-#EXTINF:-1 group-title="dizi",GULLER GUNAHLAR
+#EXTINF:-1 group-title="dizi7/24",GULLER GUNAHLAR
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/guller-gunahlar.m3u8
-#EXTINF:-1 group-title="dizi",MUHAFiZ
+#EXTINF:-1 group-title="dizi7/24",MUHAFiZ
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Muhafiz.m3u8
-#EXTINF:-1 group-title="dizi",YALAN DUNYA
+#EXTINF:-1 group-title="dizi7/24",YALAN DUNYA
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/yalan-dunya.m3u8
-#EXTINF:-1 group-title="dizi",LEYLA iLE MECNUN
+#EXTINF:-1 group-title="dizi7/24",LEYLA iLE MECNUN
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/leyla-ile-mecnun.m3u8
-#EXTINF:-1 group-title="dizi",iNCi TANELERi
+#EXTINF:-1 group-title="dizi7/24",iNCi TANELERi
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/inci-taneleri.m3u8
-#EXTINF:-1 group-title="dizi",GONUL DAGi
+#EXTINF:-1 group-title="dizi7/24",GONUL DAGi
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/gonul-dagi.m3u8
-#EXTINF:-1 group-title="dizi",FATMAGULUN SUCU NE
+#EXTINF:-1 group-title="dizi7/24",FATMAGULUN SUCU NE
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Fatmagul.m3u8
-#EXTINF:-1 group-title="dizi",KiRALiK ASK
+#EXTINF:-1 group-title="dizi7/24",KiRALiK ASK
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/kiralik-ask.m3u8
-#EXTINF:-1 group-title="dizi",SOKAGiN COCUKLARi
+#EXTINF:-1 group-title="dizi7/24",SOKAGiN COCUKLARi
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sokagin-cocuklari.m3u8
-#EXTINF:-1 group-title="dizi",BiZiMKiLER
+#EXTINF:-1 group-title="dizi7/24",BiZiMKiLER
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/bizimkiler.m3u8
-#EXTINF:-1 group-title="dizi",Seksenler
+#EXTINF:-1 group-title="dizi7/24",Seksenler
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/seksenler.m3u8
-#EXTINF:-1 group-title="dizi",CiCEK TAKSi
+#EXTINF:-1 group-title="dizi7/24",CiCEK TAKSi
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/cicek-taksi.m3u8
-#EXTINF:-1 group-title="dizi",CENNET MAHALLESi
+#EXTINF:-1 group-title="dizi7/24",CENNET MAHALLESi
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/cennet-mahallesi.m3u8
 #EXTINF:-1 group-title="BELGESEL",TRT-Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
