@@ -29,131 +29,131 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/4001/index.m3u8
 #EXTINF:-1 group-title="ULUSAL",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
-#EXTINF:-1 group-title="CINEMA",TV4
+#EXTINF:-1 group-title="7/24 F",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 group-title="ULUSAL",TLC HD
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=NFE3dkZRZjl3MDlsdXZDaVdGbnVFQjRSb0dnSWxoNHpibDdwVld2OXlqOD0=&sid=7w7725h04ycx&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
 #EXTINF:-1 group-title="ULUSAL",DMAX HD
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=T0NrdVo2UzQ2YldmOFE4MTdwRXFzeVVuVVkvQzQ5VmxXYlJ5dHpvejUrUT0=&sid=7w778q1fncze&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
-#EXTINF:-1 group-title="CINEMA",SDM SiNEMA
+#EXTINF:-1 group-title="7/24 F",SDM SiNEMA
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINEMA",TELEON
+#EXTINF:-1 group-title="7/24 F",TELEON
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA",TELEON
+#EXTINF:-1 group-title="7/24 F",TELEON
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w937726827.m3u8
-#EXTINF:-1 group-title="CINEMA",SiRiUS
+#EXTINF:-1 group-title="7/24 F",SiRiUS
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
-#EXTINF:-1 group-title="CINEMA",SABANTV
+#EXTINF:-1 group-title="7/24 F",SABANTV
 http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
-#EXTINF:-1 group-title="CINEMA",SABANTV
+#EXTINF:-1 group-title="7/24 F",SABANTV
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
-#EXTINF:-1 group-title="CINEMA",Kemal SUNAL 1
+#EXTINF:-1 group-title="7/24 F",Kemal SUNAL 1
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Kemal-sunal-1.m3u8
-#EXTINF:-1 group-title="CINEMA",Kemal SUNAL 2
+#EXTINF:-1 group-title="7/24 F",Kemal SUNAL 2
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Kemal-sunal-2.m3u8
-#EXTINF:-1 group-title="CINEMA",Gülsah Film
+#EXTINF:-1 group-title="7/24 F",Gülsah Film
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Gulsah-film.m3u8
-#EXTINF:-1 group-title="CINEMA",YESiLCAM
+#EXTINF:-1 group-title="7/24 F",YESiLCAM
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Trfilmler.m3u8
-#EXTINF:-1 group-title="CINEMA",YESiLCAM TV
+#EXTINF:-1 group-title="7/24 F",YESiLCAM TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8?checkedby:MyWay
-#EXTINF:-1 group-title="CINEMA",RiZETURK
+#EXTINF:-1 group-title="7/24 F",RiZETURK
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:-1 group-title="CINEMA",FXTV
+#EXTINF:-1 group-title="7/24 F",FXTV
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 group-title="CINEMA",DENiZ POSTASi
+#EXTINF:-1 group-title="7/24 F",DENiZ POSTASi
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA",TiVi6
+#EXTINF:-1 group-title="7/24 F",TiVi6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 group-title="CINEMA",TVB
+#EXTINF:-1 group-title="7/24 F",TVB
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8?checkedby:MyWay
-#EXTINF:-1 group-title="CINEMA",DiZiTV
+#EXTINF:-1 group-title="7/24 F",DiZiTV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 group-title="CINEMA",KANAL 53  
+#EXTINF:-1 group-title="7/24 F",KANAL 53  
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
-#EXTINF:-1 group-title="CINEMA",BRUKSEL TV
+#EXTINF:-1 group-title="7/24 F",BRUKSEL TV
 https://live.euromediacenter.com/brukselturk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINEMA",LiFE TV
+#EXTINF:-1 group-title="7/24 F",LiFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8?checkedby:MyWay
-#EXTINF:-1 group-title="CINEMA",CiNE1
+#EXTINF:-1 group-title="7/24 F",CiNE1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8?checkedby:MyWay
-#EXTINF:-1 group-title="CINEMA",Göpsen Tv
+#EXTINF:-1 group-title="7/24 F",Göpsen Tv
 https://canli.gopsentv.com:3604/stream/play.m3u8
-#EXTINF:-1 group-title="CINEMA",FilmScreen international
+#EXTINF:-1 group-title="7/24 F",FilmScreen international
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:-1 group-title="CINEMA",AKKON TV
+#EXTINF:-1 group-title="7/24 F",AKKON TV
 https://ip.akkontv.com:3205/stream/play.m3u8
-#EXTINF:-1 group-title="CINEMA",FluxTV
+#EXTINF:-1 group-title="7/24 F",FluxTV
 https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
-#EXTINF:-1 group-title="CINEMA",TVB
+#EXTINF:-1 group-title="7/24 F",TVB
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
-#EXTINF:-1 group-title="CINEMA",Bi Kanal
+#EXTINF:-1 group-title="7/24 F",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
-#EXTINF:-1 group-title="CINEMA",Deniztv
+#EXTINF:-1 group-title="7/24 F",Deniztv
 http://162.212.179.32/akamaissh101/ssh101/denizradyotv/chunks.m3u8
-#EXTINF:-1 group-title="CINEMA",Tabii TV
+#EXTINF:-1 group-title="7/24 F",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 group-title="CINEMA",isviçre TV
+#EXTINF:-1 group-title="7/24 F",isviçre TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
-#EXTINF:-1 group-title="CINEMA",Cine-5 TV
+#EXTINF:-1 group-title="7/24 F",Cine-5 TV
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="CINEMA",Viyana TV
+#EXTINF:-1 group-title="7/24 F",Viyana TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8?app=supersat_token_741852
-#EXTINF:-1 group-title="CINEMA",Brüksel Türk
+#EXTINF:-1 group-title="7/24 F",Brüksel Türk
 https://live.euromediacenter.com/brukselturk/index.m3u8
-#EXTINF:-1 group-title="CINEMA",Diginet Sinema
+#EXTINF:-1 group-title="7/24 F",Diginet Sinema
 https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
-#EXTINF:-1 group-title="CINEMA",TRT Nostalji Dizi
+#EXTINF:-1 group-title="7/24 F",TRT Nostalji Dizi
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 group-title="dizi7/24"Güldür Güldür
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/guldur-guldur.m3u8
-#EXTINF:-1 group-title="DIZI7/24",Çghb
+#EXTINF:-1 group-title="7/24 D",Çghb
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Cghb.m3u8
-#EXTINF:-1 group-title="DIZI7/24",TolgSHOW
+#EXTINF:-1 group-title="7/24 D",TolgSHOW
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Tolgshow.m3u8
-#EXTINF:-1 group-title="DIZI7/24",Tasacak_Bu_Deniz
+#EXTINF:-1 group-title="7/24 D",Tasacak_Bu_Deniz
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/tasacak-bu-deniz.m3u8
-#EXTINF:-1 group-title="DIZI7/24",Kurtlar Vadisi PUSU
+#EXTINF:-1 group-title="7/24 D",Kurtlar Vadisi PUSU
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/kurtlar-vadisi-pusu.m3u8
-#EXTINF:-1 group-title="DIZI7/24",Behzat Ç
+#EXTINF:-1 group-title="7/24 D",Behzat Ç
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/behzatc.m3u8
-#EXTINF:-1 group-title="DIZI7/24",Kuzey Güney
+#EXTINF:-1 group-title="7/24 D",Kuzey Güney
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/kuzey-guney.m3u8
-#EXTINF:-1 group-title="DIZI7/24",Yaprak Dökümü
+#EXTINF:-1 group-title="7/24 D",Yaprak Dökümü
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/yaprak-dokumu.m3u8
-#EXTINF:-1 group-title="DIZI7/24",SiFiR Bir
+#EXTINF:-1 group-title="7/24 D",SiFiR Bir
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sifir-bir.m3u8
-#EXTINF:-1 group-title="DIZI7/24",SOZ
+#EXTINF:-1 group-title="7/24 D",SOZ
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/soz-dizi.m3u8
-#EXTINF:-1 group-title="DIZI7/24",SAKARYA FiRAT
+#EXTINF:-1 group-title="7/24 D",SAKARYA FiRAT
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sakarya-firat.m3u8
-#EXTINF:-1 group-title="DIZI7/24",DiRiLiS ERTUGRUL
+#EXTINF:-1 group-title="7/24 D",DiRiLiS ERTUGRUL
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/dirilis-ertugrul.m3u8
-#EXTINF:-1 group-title="DIZI7/24",GULLER GUNAHLAR
+#EXTINF:-1 group-title="7/24 D",GULLER GUNAHLAR
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/guller-gunahlar.m3u8
-#EXTINF:-1 group-title="DIZI7/24",MUHAFiZ
+#EXTINF:-1 group-title="7/24 D",MUHAFiZ
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Muhafiz.m3u8
-#EXTINF:-1 group-title="DIZI7/24",YALAN DUNYA
+#EXTINF:-1 group-title="7/24 D",YALAN DUNYA
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/yalan-dunya.m3u8
-#EXTINF:-1 group-title="DIZI7/24",LEYLA iLE MECNUN
+#EXTINF:-1 group-title="7/24 D",LEYLA iLE MECNUN
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/leyla-ile-mecnun.m3u8
-#EXTINF:-1 group-title="DIZI7/24",iNCi TANELERi
+#EXTINF:-1 group-title="7/24 D",iNCi TANELERi
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/inci-taneleri.m3u8
-#EXTINF:-1 group-title="DIZI7/24",GONUL DAGi
+#EXTINF:-1 group-title="7/24 D",GONUL DAGi
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/gonul-dagi.m3u8
-#EXTINF:-1 group-title="DIZI7/24",FATMAGULUN SUCU NE
+#EXTINF:-1 group-title="7/24 D",FATMAGULUN SUCU NE
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Fatmagul.m3u8
-#EXTINF:-1 group-title="DIZI7/24",KiRALiK ASK
+#EXTINF:-1 group-title="7/24 D",KiRALiK ASK
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/kiralik-ask.m3u8
-#EXTINF:-1 group-title="DIZI7/24",SOKAGiN COCUKLARi
+#EXTINF:-1 group-title="7/24 D",SOKAGiN COCUKLARi
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sokagin-cocuklari.m3u8
-#EXTINF:-1 group-title="DIZI7/24",BiZiMKiLER
+#EXTINF:-1 group-title="7/24 D",BiZiMKiLER
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/bizimkiler.m3u8
-#EXTINF:-1 group-title="DIZI7/24",Seksenler
+#EXTINF:-1 group-title="7/24 D",Seksenler
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/seksenler.m3u8
-#EXTINF:-1 group-title="DIZI7/24",CiCEK TAKSi
+#EXTINF:-1 group-title="7/24 D",CiCEK TAKSi
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/cicek-taksi.m3u8
-#EXTINF:-1 group-title="DIZI7/24",CENNET MAHALLESi
+#EXTINF:-1 group-title="7/24 D",CENNET MAHALLESi
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/cennet-mahallesi.m3u8
 #EXTINF:-1 group-title="BELGESEL",TRT-Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
