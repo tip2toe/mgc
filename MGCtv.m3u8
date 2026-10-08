@@ -99,6 +99,8 @@ https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8?app=supersat_token_741852
 #EXTINF:-1 group-title="SiNEMA",Brüksel Türk
 https://live.euromediacenter.com/brukselturk/index.m3u8
+#EXTINF:-1 group-title="SiNEMA",Deniz TV
+http://162.212.179.32/akamaissh101/ssh101/denizradyotv/chunks.m3u8
 #EXTINF:-1 group-title="SiNEMA",Diginet Sinema
 https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
 #EXTINF:-1 group-title="SiNEMA",TRT Nostalji Dizi
@@ -187,7 +189,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
 #EXTINF:-1 group-title="SPOR",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-http://162.212.179.32/akamaissh101/ssh101/denizradyotv/chunks.m3u8
 #EXTINF:-1 group-title="HABER",HaberTurk
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
 #EXTINF:-1 group-title="HABER",TGRT Haber
@@ -310,14 +311,10 @@ http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 #EXTINF:-1 group-title="YEREL",METROPOL TV
 https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8?app=supersatforum
-#EXTINF:-1 group-title="YEREL",Bir TV
-https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
 #EXTINF:-1 group-title="YEREL",AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1 group-title="YEREL",Egemax TV
 http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
-#EXTINF:-1 group-title="YEREL",NEO
-https://edge2.taksimbilisim.com/neohaber/bant1/chunks.m3u8
 #EXTINF:-1 group-title="YEREL",Saglik Channel
 https://live.euromediacenter.com/saglikchannel/index.m3u8
 #EXTINF:-1 group-title="YEREL",Mor TV
