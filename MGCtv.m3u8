@@ -189,36 +189,6 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 group-title="minik",Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
-#EXTINF:-1 group-title="Film minik",SiHiRLi ANNEM
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sihirli-annem.m3u8
-#EXTINF:-1 group-title="Film minik",KRAL SAKiR
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Kral-sakir.m3u8
-#EXTINF:-1 group-title="Film minik",FURKiS TV
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Furkistv.m3u8
-#EXTINF:-1 group-title="Film minik",ROBOCAR
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Robocar.m3u8
-#EXTINF:-1 group-title="Film minik",BOOBA
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Booba.m3u8
-#EXTINF:-1 group-title="Film minik",TRANSFORMERS
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Transformers.m3u8
-#EXTINF:-1 group-title="Film minik",CARTOON NiTO
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Cartoon-nito.m3u8
-#EXTINF:-1 group-title="Film minik",CARTOON
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Cartoon.m3u8
-#EXTINF:-1 group-title="Film minik",KUKULi
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Kukuli.m3u8
-#EXTINF:-1 group-title="Film minik",LiMON ZEYTiN
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Limon-zeytin.m3u8
-#EXTINF:-1 group-title="Film minik",RAFADAN TAYFA
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Rafadan-tayfa.m3u8
-#EXTINF:-1 group-title="Film minik",NESELi DUNYAM
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Neseli-dunyam.m3u8
-#EXTINF:-1 group-title="Film minik",LOLO KiDS
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Lolo-kids.m3u8
-#EXTINF:-1 group-title="Film minik",NiLOYA
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Niloya.m3u8
-#EXTINF:-1 group-title="Film minik",PONNY
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Ponny.m3u8
 #EXTINF:-1 group-title="SPOR",TRT-Spor
 https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="SPOR",TRT-Spor Yildiz
