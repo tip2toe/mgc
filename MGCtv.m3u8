@@ -85,68 +85,6 @@ https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/m
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #EXTINF:-1 group-title="7/24Flm",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
-#EXTINF:-1 group-title="7/24Flm",Diginet Sinema
-https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
-#EXTINF:-1 group-title="7/24Flm",TRT Nostalji Dizi
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 group-title="Sinema7/24",Kemal SUNAL 1
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Kemal-sunal-1.m3u8
-#EXTINF:-1 group-title="Sinema7/24",Kemal SUNAL 2
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Kemal-sunal-2.m3u8
-#EXTINF:-1 group-title="Sinema7/24",Gülsah Film
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Gulsah-film.m3u8
-#EXTINF:-1 group-title="Sinema7/24",YESiLCAM
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Trfilmler.m3u8
-#EXTINF:-1 group-title="Sinema7/24"Güldür Güldür
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/guldur-guldur.m3u8
-#EXTINF:-1 group-title="Sinema7/24",Çghb
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Cghb.m3u8
-#EXTINF:-1 group-title="Sinema7/24",TolgSHOW
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Tolgshow.m3u8
-#EXTINF:-1 group-title="Sinema7/24",Tasacak_Bu_Deniz
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/tasacak-bu-deniz.m3u8
-#EXTINF:-1 group-title="Sinema7/24",Kurtlar Vadisi PUSU
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/kurtlar-vadisi-pusu.m3u8
-#EXTINF:-1 group-title="Sinema7/24",Behzat Ç
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/behzatc.m3u8
-#EXTINF:-1 group-title="Sinema7/24",Kuzey Güney
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/kuzey-guney.m3u8
-#EXTINF:-1 group-title="Sinema7/24",Yaprak Dökümü
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/yaprak-dokumu.m3u8
-#EXTINF:-1 group-title="Sinema7/24",SiFiR Bir
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sifir-bir.m3u8
-#EXTINF:-1 group-title="Sinema7/24",SOZ
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/soz-dizi.m3u8
-#EXTINF:-1 group-title="Sinema7/24",SAKARYA FiRAT
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sakarya-firat.m3u8
-#EXTINF:-1 group-title="Sinema7/24",DiRiLiS ERTUGRUL
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/dirilis-ertugrul.m3u8
-#EXTINF:-1 group-title="Sinema7/24",GULLER GUNAHLAR
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/guller-gunahlar.m3u8
-#EXTINF:-1 group-title="Sinema7/24",MUHAFiZ
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Muhafiz.m3u8
-#EXTINF:-1 group-title="Sinema7/24",YALAN DUNYA
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/yalan-dunya.m3u8
-#EXTINF:-1 group-title="Sinema7/24",LEYLA iLE MECNUN
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/leyla-ile-mecnun.m3u8
-#EXTINF:-1 group-title="Sinema7/24",iNCi TANELERi
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/inci-taneleri.m3u8
-#EXTINF:-1 group-title="Sinema7/24",GONUL DAGi
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/gonul-dagi.m3u8
-#EXTINF:-1 group-title="Sinema7/24",FATMAGULUN SUCU NE
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Fatmagul.m3u8
-#EXTINF:-1 group-title="Sinema7/24",KiRALiK ASK
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/kiralik-ask.m3u8
-#EXTINF:-1 group-title="Sinema7/24",SOKAGiN COCUKLARi
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sokagin-cocuklari.m3u8
-#EXTINF:-1 group-title="Sinema7/24",BiZiMKiLER
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/bizimkiler.m3u8
-#EXTINF:-1 group-title="Sinema7/24",Seksenler
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/seksenler.m3u8
-#EXTINF:-1 group-title="Sinema7/24",CiCEK TAKSi
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/cicek-taksi.m3u8
-#EXTINF:-1 group-title="Sinema7/24",CENNET MAHALLESi
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/cennet-mahallesi.m3u8
 #EXTINF:-1 group-title="BELGESEL",TRT-Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="BELGESEL",HUNAT TV
