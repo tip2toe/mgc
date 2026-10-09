@@ -41,6 +41,8 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/playlist.m3u8
 #EXTINF:-1 group-title="7/24Flm",SiRiUS
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
+#EXTINF:-1 group-title="7/24Flm",BASKATV
+https://raw.githubusercontent.com/sahind01/kubra/refs/heads/main/streams/baskatv-kick.m3u8
 #EXTINF:-1 group-title="7/24Flm",SABANTV
 http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
 #EXTINF:-1 group-title="7/24Flm",YESiLCAM TV
