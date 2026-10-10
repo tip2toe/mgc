@@ -191,6 +191,30 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 group-title="minik",Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
+#EXTINF:-1 group-title="minik",sihirli-annem
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sihirli-annem.m3u8
+#EXTINF:-1 group-title="minik",Furkistv
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Furkistv.m3u8
+#EXTINF:-1 group-title="minik",Robocar
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Robocar.m3u8
+#EXTINF:-1 group-title="minik",Booba
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Booba.m3u8
+#EXTINF:-1 group-title="minik",Cartoon-nito
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Cartoon-nito.m3u8
+#EXTINF:-1 group-title="minik",Cartoon
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Cartoon.m3u8
+#EXTINF:-1 group-title="minik",Kukuli
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Kukuli.m3u8
+#EXTINF:-1 group-title="minik",Rafadan-tayfa
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Rafadan-tayfa.m3u8
+#EXTINF:-1 group-title="minik",Lolo-kids
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Lolo-kids.m3u8
+#EXTINF:-1 group-title="minik",Niloya
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Niloya.m3u8
+#EXTINF:-1 group-title="minik",Ponny
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Ponny.m3u8
+#EXTINF:-1 group-title="minik",Muhafiz
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Muhafiz.m3u8
 #EXTINF:-1 group-title="SPOR",TRT-Spor
 https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="SPOR",TRT-Spor Yildiz
