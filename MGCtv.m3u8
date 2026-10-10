@@ -251,6 +251,18 @@ https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8?md5=api5VtN5dEXl5cvRHMQBNQ&expires=1696713505
 #EXTINF:-1 group-title="Music",NR 1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
+#EXTINF:-1 group-title="Baraza Music",Baraza Relaxing music
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="Baraza Music",Baraza Coffee music
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="Baraza Music",Baraza greek hd
+https://eco.streams.ovh:8081/barazatv/index.m3u8
+#EXTINF:-1 group-title="Baraza Music",Baraza greek Laika
+https://gra1.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
+#EXTINF:-1 group-title="Baraza Music",Baraza djs music
+https://gra1.crystalweb.net:1936/barazadjmusic/barazadjmusic/playlist.m3u8
+#EXTINF:-1 group-title="Baraza Music",Baraza Disco
+https://media2.streambrothers.com:19360/jrmrzudjpv/jrmrzudjpv.m3u8
 #EXTINF:-1 group-title="Stingray Music",Fire
 http://iptv.prosto.tv:7000/ch318/video.m3u8
 #EXTINF:-1 group-title="Stingray Music",Steelbird Music
