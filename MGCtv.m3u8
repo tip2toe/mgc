@@ -35,6 +35,10 @@ https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=NFE3dkZRZjl3MDlsdXZDaVdGbnVFQjRSb0dnSWxoNHpibDdwVld2OXlqOD0=&sid=7w7725h04ycx&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
 #EXTINF:-1 group-title="ULUSAL",DMAX HD
 https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=T0NrdVo2UzQ2YldmOFE4MTdwRXFzeVVuVVkvQzQ5VmxXYlJ5dHpvejUrUT0=&sid=7w778q1fncze&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
+#EXTINF:-1 group-title="ULUSAL",TRT-2
+https://tv-trt2.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 group-title="ULUSAL",TRT-Genc
+https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="7/24Flm",SDM SiNEMA
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="7/24Flm",TELEON
@@ -87,6 +91,56 @@ https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/m
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
 #EXTINF:-1 group-title="7/24Flm",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
+#EXTINF:-1 group-title="7/24Flm",KEMAL sUNAL1
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Kemal-sunal-1.m3u8
+#EXTINF:-1 group-title="7/24Flm",Tasacak_BU_DENiZ
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/tasacak-bu-deniz.m3u8
+#EXTINF:-1 group-title="7/24Flm",Behzat_C
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/behzatc.m3u8
+#EXTINF:-1 group-title="7/24Flm",sifir_Bir
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sifir-bir.m3u8
+#EXTINF:-1 group-title="7/24Flm",Kuzey_Guney
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/kuzey-guney.m3u8
+#EXTINF:-1 group-title="7/24Flm",Aski_Memnu
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/aski-memnu.m3u8
+#EXTINF:-1 group-title="7/24Flm",Dirilis_Ertugrul
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/dirilis-ertugrul.m3u8
+#EXTINF:-1 group-title="7/24Flm",Yaprak_Dokumu
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/yaprak-dokumu.m3u8
+#EXTINF:-1 group-title="7/24Flm",Kiralik_AsK
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/kiralik-ask.m3u8
+#EXTINF:-1 group-title="7/24Flm",Gonul_DAGI
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/gonul-dagi.m3u8
+#EXTINF:-1 group-title="7/24Flm",sOZ
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/soz-dizi.m3u8
+#EXTINF:-1 group-title="7/24Flm",Cennet_Mahallesi
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/cennet-mahallesi.m3u8
+#EXTINF:-1 group-title="7/24Flm",Guldur_Guldur
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/guldur-guldur.m3u8
+#EXTINF:-1 group-title="7/24Flm",CGHB
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Cghb.m3u8
+#EXTINF:-1 group-title="7/24Flm",TOLG_sHOW
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Tolgshow.m3u8
+#EXTINF:-1 group-title="7/24Flm",Arkadasim_Hosgeldin
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/arkadasim-hosgeldin.m3u8
+#EXTINF:-1 group-title="7/24Flm",Leyla_ile_Mecnun
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/leyla-ile-mecnun.m3u8
+#EXTINF:-1 group-title="7/24Flm",Fatmagul
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Fatmagul.m3u8
+#EXTINF:-1 group-title="7/24Flm",Feriha
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Feriha.m3u8
+#EXTINF:-1 group-title="7/24Flm",sakarya_Firat
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sakarya-firat.m3u8
+#EXTINF:-1 group-title="7/24Flm",sokagin_Cocuklari
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sokagin-cocuklari.m3u8
+#EXTINF:-1 group-title="7/24Flm",Yedi_NUMARA
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/yedi-numara.m3u8
+#EXTINF:-1 group-title="7/24Flm",Yesil_Deniz
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/yesil-deniz.m3u8
+#EXTINF:-1 group-title="7/24Flm",Zengin_KIZ
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/zengin-kiz.m3u8
+#EXTINF:-1 group-title="7/24Flm",KISMETSE_OLUR
+https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/kismetse-olur.m3u8
 #EXTINF:-1 group-title="BELGESEL",TRT-Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="BELGESEL",HUNAT TV
@@ -95,10 +149,6 @@ https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
 https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
 #EXTINF:-1 group-title="BELGESEL",NATURE TiME
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8?checkedby:MyWay
-#EXTINF:-1 group-title="ULUSAL",TRT-2
-https://tv-trt2.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1 group-title="ULUSAL",TRT-Genc
-https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="HABER",Cnn TURK
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Cnn.m3u8
 #EXTINF:-1 group-title="HABER",Haber Global
