@@ -1,4 +1,4 @@
-#EXTM3U
+TU#EXTM3U
 #EXTINF:-1 group-title="ULUSAL",TRT1
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="ULUSAL",Kanal D
@@ -349,8 +349,6 @@ https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_720p.m3u8
 #EXTINF:-1 group-title="HABER",A HABER
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=GqtB4cuxGYFoRRq0j7iRTw&e=1790644336
-#EXTINF:-1 group-title="EUROPA",Euro D
-http://live.duhnet.tv/S2/HLS_LiVE/eurodnp/playlist.m3u8
 #EXTINF:-1 group-title="EUROPA",Kanal Avrupa
 http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/index.m3u8
 #EXTINF:-1 group-title="YEREL",METROPOL TV
@@ -363,8 +361,6 @@ https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 http://egemaxtv.radyotelekom.com.tr:29010/egemaxtv/egemaxtv/playlist.m3u8
 #EXTINF:-1 group-title="YEREL",Kanal ADA
 http://ip252.ozelip.com:28008/kanalada/kanalada/sec-f5-v1-a1.m3u8
-#EXTINF:-1 group-title="YABANCi",TürkmenStar
-https://live.euromediacenter.com/turkmenstartv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="YABANCi",Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="YABANCi",Persiana Cinema
