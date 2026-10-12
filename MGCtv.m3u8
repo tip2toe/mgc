@@ -65,10 +65,6 @@ https://i41.ozelip.com:3269/hybrid/play.m3u8
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="7/24Flm",Viyana TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8?app=supersat_token_741852
-#EXTINF:-1 tvg-logo="tv logo" group-title="7/24Flm",Sinema 1
-http://65.108.239.207:80/sinema/index.m3u8?checkedby:MyWay
-#EXTINF:-1 tvg-logo="tv logo" group-title="7/24Flm",Sinema 2
-http://65.108.239.207:80/sinema2/index.m3u8?checkedby:MyWay
 #EXTINF:-1 group-title="7/24Flm",Brüksel Türk
 https://live.euromediacenter.com/brukselturk/index.m3u8
 #EXTINF:-1 group-title="7/24Flm",Göpsen Tv
@@ -149,15 +145,15 @@ https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/z
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/kismetse-olur.m3u8
 #EXTINF:-1 group-title="BELGESEL",TRT-Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",Naturtime1 TURK
+http://45.88.139.156/yt1/naturtime.m3u8
+#EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",Naturtime2 TURK
+http://45.88.139.156/yt1/naturtime2.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",Docubox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",Naturtime1
-http://45.88.139.156/yt1/naturtime.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",Naturtime2
-http://45.88.139.156/yt1/naturtime2.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",NATURE TIME
+#EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",NATURE TIME 
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8?checkedby:MyWay
 #EXTINF:-1 group-title="BELGESEL",HUNAT TV
 https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
