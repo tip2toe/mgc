@@ -49,6 +49,8 @@ https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3
 https://raw.githubusercontent.com/sahind01/kubra/refs/heads/main/streams/baskatv-kick.m3u8
 #EXTINF:-1 group-title="7/24Flm",STV
 https://raw.githubusercontent.com/sahind01/kubra/refs/heads/main/streams/serhattv.m3u8
+#EXTINF:-1 group-title="7/24Flm",TUKUZPLAY
+https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/catcast/turkuzplay1.m3u8
 #EXTINF:-1 group-title="7/24Flm",SABANTV
 http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
 #EXTINF:-1 group-title="7/24Flm",YESiLCAM TV
