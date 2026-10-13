@@ -159,6 +159,10 @@ https://live.artidijitalmedya.com/artidijital_hunattv/hunattv/playlist.m3u8
 https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
 #EXTINF:-1 group-title="BELGESEL",NATURE TiME
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8?checkedby:MyWay
+#EXTINF:-1 group-title="BELGESEL",OUTDOOR
+https://freem3u.xyz/api/live/play.m3u8?vid=216#outdoor
+#EXTINF:-1 group-title="BELGESEL",TRAVEL XP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8#TRAVEL XP HD
 #EXTINF:-1 group-title="HABER",Cnn TURK
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Cnn.m3u8
 #EXTINF:-1 group-title="HABER",Haber Global
