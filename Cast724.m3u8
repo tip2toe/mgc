@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:-1 ,Sinema-premium-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium-1.m3u8
+#EXTINF:-1 ,Sinema-premium-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium2.m3u8
+#EXTINF:-1 ,Sinema-premium-3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium3.m3u8
+#EXTINF:-1 ,Sinema-premium-4
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium4.m3u8
+#EXTINF:-1 ,Sinema-premium-5
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium5.m3u8
+#EXTINF:-1 ,Sinema-Action-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-acsion2.m3u8
+#EXTINF:-1 ,Sinema-Action-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-action3.m3u8
+#EXTINF:-1 ,Sinema-Action-3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-action5.m3u8
+#EXTINF:-1 ,Sinema-Action-4
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-action6.m3u8
+#EXTINF:-1 ,Marvel_Studios1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel4.m3u8
+#EXTINF:-1 ,Marvel_Studios2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel5.m3u8
+#EXTINF:-1 ,Marvel_Studios3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel6.m3u8
+#EXTINF:-1 ,Kemalsunal_1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/kemalsunal.m3u8
+#EXTINF:-1 ,Kemalsunal_2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-kemalsunal.m3u8
+#EXTINF:-1 ,Kemalsunal_3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-kemalsunal-3.m3u8
+#EXTINF:-1 ,Hababam_Sınıfı
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/hababam.m3u8
+#EXTINF:-1 ,Maxyesilcam
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxyesilcam.m3u8
+#EXTINF:-1 ,Sinema_TURK1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerfilm-turkiye.m3u8
+#EXTINF:-1 ,Sinema_TURK2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playertrk-eneren.m3u8
+#EXTINF:-1 ,Sinema_TURK3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playertest.m3u8
+#EXTINF:-1 ,Sinema_TURK4
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/turkuzplay1.m3u8
+#EXTINF:-1 ,EsrefTEK
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeesreftek.m3u8
+#EXTINF:-1 ,KVadisi
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimekurtlarvadisi.m3u8
+#EXTINF:-1 ,Dag
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxdag.m3u8
+#EXTINF:-1 ,AVRPYakasi
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeavrupayakasi.m3u8
+#EXTINF:-1 ,Bizimkiler
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimebizimkiler.m3u8
+#EXTINF:-1 ,Cennet-Mahallesi1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-cennetmahallesi.m3u8
+#EXTINF:-1 ,Cennet-Mahallesi2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-cennetmahallesi2.m3u8
+#EXTINF:-1 ,ROman-Havasi
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-romanhavasi.m3u8
+#EXTINF:-1 ,Cocuk-Filmi1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/filmboxcocuk.m3u8
+#EXTINF:-1 ,Cocuk-Filmi2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-masnlar.m3u8
+#EXTINF:-1 ,Madagascar
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-madagascar.m3u8
+#EXTINF:-1 ,Kungfu-Panda1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-panda1.m3u8
+#EXTINF:-1 ,Kungfu-Panda2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-panda2.m3u8
+#EXTINF:-1 ,Max_Horror
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxkorku.m3u8
+#EXTINF:-1 ,Max_Fantastic
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fantastic-dosugtv.m3u8
+#EXTINF:-1 ,Max_Action
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-boyka.m3u8
+#EXTINF:-1 ,RAMBO
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-rambo.m3u8
+#EXTINF:-1 ,ROCKY
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-rocky.m3u8
+#EXTINF:-1 ,Transformers1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-transformer1.m3u8
+#EXTINF:-1 ,Transformers2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-transformer2.m3u8
+#EXTINF:-1 ,Cehennem_Melekleri
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinemacehennemmelekleri.m3u8
+#EXTINF:-1 ,Spider-Man
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-horumcekadam.m3u8
+#EXTINF:-1 ,BATMAN
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-batman.m3u8
+#EXTINF:-1 ,Terminator
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-terminator.m3u8
+#EXTINF:-1 ,Matrix
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-matrix.m3u8
+#EXTINF:-1 ,Maymunlar_Cehennemi
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-maymunlar.m3u8
+#EXTINF:-1 ,MOrtak Combat
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-mortalcombat.m3u8
+#EXTINF:-1 ,Ölüm Yarisi
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-olumyarisi.m3u8
+#EXTINF:-1 ,bLADE_BOX
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/bladebox.m3u8
+#EXTINF:-1 ,Universal
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-universal-esger.m3u8
+#EXTINF:-1 ,edstafford
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeedstafford.m3u8
+#EXTINF:-1 ,deadpool
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxdeadpool.m3u8
+#EXTINF:-1 ,Alice-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice1.m3u8
+#EXTINF:-1 ,Alice-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice2.m3u8
+#EXTINF:-1 ,Alice-3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice3.m3u8
+#EXTINF:-1 ,Alien-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-yirtici.m3u8
+#EXTINF:-1 ,Alien-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-yirtici2.m3u8
+#EXTINF:-1 ,HIZLI ve OFKELI-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-forsaj1.m3u8
+#EXTINF:-1 ,HIZLI ve OFKELI-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-forsaj2.m3u8
+#EXTINF:-1 ,Godzilla
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-godzilla-1.m3u8
+#EXTINF:-1 ,Kontinental
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-kontinental.m3u8
+#EXTINF:-1 ,Vandamme-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-vandamme.m3u8
+#EXTINF:-1 ,Vandamme-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-vandamme2.m3u8
+#EXTINF:-1 ,stivensegal-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-stivensegal1.m3u8
+#EXTINF:-1 ,stivensegal-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-stivensegal2.m3u8
+#EXTINF:-1 ,Jason_Statham
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-jasonstatham.m3u8
+#EXTINF:-1 ,Jackechan-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-jackechan.m3u8
+#EXTINF:-1 ,Jackechan-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-jackechan2.m3u8
+#EXTINF:-1 ,Bruce_Lee
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-bruslee.m3u8
+#EXTINF:-1 ,Brandon_LEE
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-brendonlee.m3u8
+#EXTINF:-1 ,Jet_lee
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-jetlee.m3u8
+#EXTINF:-1 ,Antonio_Banderas
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-antoniobanderas.m3u8
+#EXTINF:-1 ,John_wick
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-johnwickhd.m3u8
+#EXTINF:-1 ,Squidgame_1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-squidgame1.m3u8
+#EXTINF:-1 ,Squidgame_2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-squidgame-2.m3u8
+#EXTINF:-1 ,Squidgame_3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-squidgame3.m3u8
+#EXTINF:-1 ,ipman
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-ipman.m3u8
+#EXTINF:-1 ,Bollywood-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-bollywood.m3u8
+#EXTINF:-1 ,Bollywood-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-bollywood2.m3u8
+#EXTINF:-1 ,Bollywood-3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/by-kerimof-hind-filmleri.m3u8
