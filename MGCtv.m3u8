@@ -7,7 +7,7 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
 https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
 #EXTINF:-1 group-title="ULUSAL",Star TV
 https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
-#EXTINF:-1 group-title="ULUSAL",ATV
+#EXTINF:-1 tvg-id="atv-hd-tr" group-title="ULUSAL",ATV HD
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 group-title="ULUSAL",Now TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
