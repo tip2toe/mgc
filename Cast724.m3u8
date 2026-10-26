@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 ,Marvel_Studios1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel4.m3u8
+#EXTINF:-1 ,Marvel_Studios2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel5.m3u8
+#EXTINF:-1 ,Marvel_Studios3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel6.m3u8
 #EXTINF:-1 ,Sinema-premium-1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium-1.m3u8
 #EXTINF:-1 ,Sinema-premium-2
@@ -17,26 +23,12 @@ https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerc
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-action5.m3u8
 #EXTINF:-1 ,Sinema-Action-4
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-action6.m3u8
-#EXTINF:-1 ,Marvel_Studios1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel4.m3u8
-#EXTINF:-1 ,Marvel_Studios2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel5.m3u8
-#EXTINF:-1 ,Marvel_Studios3
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel6.m3u8
 #EXTINF:-1 ,Kemalsunal_1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/kemalsunal.m3u8
 #EXTINF:-1 ,Kemalsunal_2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-kemalsunal.m3u8
 #EXTINF:-1 ,Kemalsunal_3
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-kemalsunal-3.m3u8
-#EXTINF:-1 ,KEMAL sUNAL1
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Kemal-sunal-1.m3u8
-#EXTINF:-1 ,KEMAL sUNAL2
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Kemal-sunal-2.m3u8
-#EXTINF:-1 ,GULSAH FILM
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Gulsah-film.m3u8
-#EXTINF:-1 ,TURK FILM
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Trfilmler.m3u8
 #EXTINF:-1 ,Hababam_Sınıfı
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/hababam.m3u8
 #EXTINF:-1 ,Maxyesilcam
@@ -169,51 +161,3 @@ https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerc
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-bollywood2.m3u8
 #EXTINF:-1 ,Bollywood-3
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/by-kerimof-hind-filmleri.m3u8
-#EXTINF:-1 ,Tasacak_BU_DENiZ
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/tasacak-bu-deniz.m3u8
-#EXTINF:-1 ,Behzat_C
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/behzatc.m3u8
-#EXTINF:-1 ,sifir_Bir
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sifir-bir.m3u8
-#EXTINF:-1 ,Kuzey_Guney
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/kuzey-guney.m3u8
-#EXTINF:-1 ,Aski_Memnu
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/aski-memnu.m3u8
-#EXTINF:-1 ,Dirilis_Ertugrul
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/dirilis-ertugrul.m3u8
-#EXTINF:-1 ,Yaprak_Dokumu
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/yaprak-dokumu.m3u8
-#EXTINF:-1 ,Kiralik_AsK
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/kiralik-ask.m3u8
-#EXTINF:-1 ,Gonul_DAGI
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/gonul-dagi.m3u8
-#EXTINF:-1 ,sOZ
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/soz-dizi.m3u8
-#EXTINF:-1 ,Cennet_Mahallesi
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/cennet-mahallesi.m3u8
-#EXTINF:-1 ,Guldur_Guldur
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/guldur-guldur.m3u8
-#EXTINF:-1 ,CGHB
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Cghb.m3u8
-#EXTINF:-1 ,TOLG_sHOW
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Tolgshow.m3u8
-#EXTINF:-1 ,Arkadasim_Hosgeldin
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/arkadasim-hosgeldin.m3u8
-#EXTINF:-1 ,Leyla_ile_Mecnun
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/leyla-ile-mecnun.m3u8
-#EXTINF:-1 ,Fatmagul
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Fatmagul.m3u8
-#EXTINF:-1 ,Feriha
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Feriha.m3u8
-#EXTINF:-1 ,sakarya_Firat
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sakarya-firat.m3u8
-#EXTINF:-1 ,sokagin_Cocuklari
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/sokagin-cocuklari.m3u8
-#EXTINF:-1 ,Yedi_NUMARA
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/yedi-numara.m3u8
-#EXTINF:-1 ,Yesil_Deniz
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/yesil-deniz.m3u8
-#EXTINF:-1 ,Zengin_KIZ
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/zengin-kiz.m3u8
-#EXTINF:-1 ,KISMETSE_OLUR
-https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/kismetse-olur.m3u8
