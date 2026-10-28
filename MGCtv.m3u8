@@ -97,29 +97,29 @@ https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/catcast/relax-tvhd.m3u8
 ##EXTINF:-1 group-title="BELGESEL",TRT-Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1, tvg-logo="tv logo" group-title="BELGESEL"Wild Earth
+#EXTINF:-1, group-title="BELGESEL"Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",Naturtime1 TURK
+#EXTINF:-1 group-title="BELGESEL",Naturtime1 TURK
 http://45.88.139.156/yt1/naturtime.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",Naturtime2 TURK
+#EXTINF:-1 group-title="BELGESEL",Naturtime2 TURK
 http://45.88.139.156/yt1/naturtime2.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",bbcearth
+#EXTINF:-1 group-title="BELGESEL",bbcearth
 https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/bbcearth.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",discoverychannel
+#EXTINF:-1 group-title="BELGESEL",discoverychannel
 https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/discoverychannel.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",history
+#EXTINF:-1 group-title="BELGESEL",history
 https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/history.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",natgeo
+#EXTINF:-1 group-title="BELGESEL",natgeo
 https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/natgeo.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",natgeowild
+#EXTINF:-1 group-title="BELGESEL",natgeowild
 https://raw.githubusercontent.com/droidlive/dc/refs/heads/main/natwild.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",BBC Earth
+#EXTINF:-1 group-title="BELGESEL",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",Docubox
+#EXTINF:-1 group-title="BELGESEL",Docubox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",4K TRAVEL
+#EXTINF:-1 group-title="BELGESEL",4K TRAVEL
 https://streams2.sofast.tv/umaxx/v1/01977dd01f661ebd47042b72b0c07c/01977dd12cc51ebd416a3eb5c6c77f/4k_travel_tv_2500k.m3u8
-#EXTINF:-1 tvg-logo="tv logo" group-title="BELGESEL",NATURE TIME 
+#EXTINF:-1 group-title="BELGESEL",NATURE TIME 
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8?checkedby:MyWay
 #EXTINF:-1, group-title="BELGESEL"alvin av
 https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/catcast/alvin-ovcu.m3u8
