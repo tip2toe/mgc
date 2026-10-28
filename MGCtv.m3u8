@@ -5,14 +5,22 @@ https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
 #EXTINF:-1 group-title="ULUSAL",Show TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?app=showtv_web
+#EXTINF:-1 group-title="ULUSAL",showtv
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/show_tv.m3u8
 #EXTINF:-1 group-title="ULUSAL",Star TV
 https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
-#EXTINF:-1 group-title="ULUSAL",ATV HD
+#EXTINF:-1 group-title="ULUSAL",ATVfhd
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 group-title="ULUSAL",atvhd
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+#EXTINF:-1 group-title="ULUSAL",atvsd
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
 #EXTINF:-1 group-title="ULUSAL",Now TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 group-title="ULUSAL",TV8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
+#EXTINF:-1 group-title="ULUSAL",tv8
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/tv8_tv.m3u8
 #EXTINF:-1 group-title="ULUSAL",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 group-title="ULUSAL",Kanal 7
@@ -65,6 +73,30 @@ https://ip.akkontv.com:3205/stream/play.m3u8
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1 group-title="7/24Flm",Cine-5 TV
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SiNEMA",Resurrection
+https://raw.githubusercontent.com/seyityavuz/yavuznet/refs/heads/main/streams/resurrection-channel-tv.m3u8
+#EXTINF:-1 group-title="7/24Flm",teleZEN
+https://raw.githubusercontent.com/seyityavuz/yavuznet/refs/heads/main/streams/telezen.m3u8
+#EXTINF:-1 group-title="7/24Flm",Yansima hd
+http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
+#EXTINF:-1 group-title="7/24Flm",Max Yerli
+http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
+#EXTINF:-1 group-title="7/24Flm",Max Premier
+http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
+#EXTINF:-1 group-title="7/24Flm",Bbox1
+http://65.108.239.207/box1/index.m3u8
+#EXTINF:-1 group-title="7/24Flm",BSeries1
+http://65.108.239.207/bsseries1/index.m3u8
+#EXTINF:-1 group-title="7/24Flm",BSeries2
+http://65.108.239.207/bsseries2/index.m3u8
+#EXTINF:-1 group-title="7/24Flm",BSeries3
+http://65.108.239.207/bsseries3/index.m3u8
+#EXTINF:-1 group-title="7/24Flm",BSeries4
+http://65.108.239.207/bsseries4/index.m3u8
+#EXTINF:-1 group-title="7/24Flm",BStars
+http://65.108.239.207/bsstars/index.m3u8
+#EXTINF:-1 group-title="7/24Flm",Bmovies
+http://65.108.239.207/mvturk/index.m3u8
 #EXTINF:-1 group-title="7/24Flm",Viyana TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8?app=supersat_token_741852
 #EXTINF:-1 group-title="7/24Flm",Göpsen Tv
