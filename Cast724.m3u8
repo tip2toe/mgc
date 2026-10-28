@@ -23,56 +23,6 @@ https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerc
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-action5.m3u8
 #EXTINF:-1 ,Sinema-Action-4
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-action6.m3u8
-#EXTINF:-1 ,Kemalsunal_1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/kemalsunal.m3u8
-#EXTINF:-1 ,Kemalsunal_2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-kemalsunal.m3u8
-#EXTINF:-1 ,Kemalsunal_3
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-kemalsunal-3.m3u8
-#EXTINF:-1 ,Hababam_Sınıfı
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/hababam.m3u8
-#EXTINF:-1 ,Maxyesilcam
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxyesilcam.m3u8
-#EXTINF:-1 ,Sinema_TURK1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerfilm-turkiye.m3u8
-#EXTINF:-1 ,Sinema_TURK2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playertrk-eneren.m3u8
-#EXTINF:-1 ,Sinema_TURK3
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playertest.m3u8
-#EXTINF:-1 ,Sinema_TURK4
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/turkuzplay1.m3u8
-#EXTINF:-1 ,EsrefTEK
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeesreftek.m3u8
-#EXTINF:-1 ,KVadisi
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimekurtlarvadisi.m3u8
-#EXTINF:-1 ,Dag
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxdag.m3u8
-#EXTINF:-1 ,AVRPYakasi
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeavrupayakasi.m3u8
-#EXTINF:-1 ,Bizimkiler
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimebizimkiler.m3u8
-#EXTINF:-1 ,Cennet-Mahallesi1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-cennetmahallesi.m3u8
-#EXTINF:-1 ,Cennet-Mahallesi2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-cennetmahallesi2.m3u8
-#EXTINF:-1 ,ROman-Havasi
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-romanhavasi.m3u8
-#EXTINF:-1 ,Cocuk-Filmi1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/filmboxcocuk.m3u8
-#EXTINF:-1 ,Cocuk-Filmi2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-masnlar.m3u8
-#EXTINF:-1 ,Madagascar
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-madagascar.m3u8
-#EXTINF:-1 ,Kungfu-Panda1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-panda1.m3u8
-#EXTINF:-1 ,Kungfu-Panda2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-panda2.m3u8
-#EXTINF:-1 ,Max_Horror
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxkorku.m3u8
-#EXTINF:-1 ,Max_Fantastic
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fantastic-dosugtv.m3u8
-#EXTINF:-1 ,Max_Action
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-boyka.m3u8
 #EXTINF:-1 ,RAMBO
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-rambo.m3u8
 #EXTINF:-1 ,ROCKY
@@ -81,6 +31,10 @@ https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerc
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-transformer1.m3u8
 #EXTINF:-1 ,Transformers2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-transformer2.m3u8
+#EXTINF:-1 ,HIZLI ve OFKELI-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-forsaj1.m3u8
+#EXTINF:-1 ,HIZLI ve OFKELI-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-forsaj2.m3u8
 #EXTINF:-1 ,Cehennem_Melekleri
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinemacehennemmelekleri.m3u8
 #EXTINF:-1 ,Spider-Man
@@ -101,24 +55,6 @@ https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerc
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/bladebox.m3u8
 #EXTINF:-1 ,Universal
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-universal-esger.m3u8
-#EXTINF:-1 ,edstafford
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeedstafford.m3u8
-#EXTINF:-1 ,deadpool
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxdeadpool.m3u8
-#EXTINF:-1 ,Alice-1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice1.m3u8
-#EXTINF:-1 ,Alice-2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice2.m3u8
-#EXTINF:-1 ,Alice-3
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice3.m3u8
-#EXTINF:-1 ,Alien-1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-yirtici.m3u8
-#EXTINF:-1 ,Alien-2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-yirtici2.m3u8
-#EXTINF:-1 ,HIZLI ve OFKELI-1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-forsaj1.m3u8
-#EXTINF:-1 ,HIZLI ve OFKELI-2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-forsaj2.m3u8
 #EXTINF:-1 ,Godzilla
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-godzilla-1.m3u8
 #EXTINF:-1 ,Kontinental
@@ -147,6 +83,44 @@ https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerc
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-antoniobanderas.m3u8
 #EXTINF:-1 ,John_wick
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-johnwickhd.m3u8
+#EXTINF:-1 ,Kemalsunal_1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/kemalsunal.m3u8
+#EXTINF:-1 ,Kemalsunal_2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-kemalsunal.m3u8
+#EXTINF:-1 ,Kemalsunal_3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-kemalsunal-3.m3u8
+#EXTINF:-1 ,Hababam_Sınıfı
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/hababam.m3u8
+#EXTINF:-1 ,Maxyesilcam
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxyesilcam.m3u8
+#EXTINF:-1 ,Sinema_TURK1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerfilm-turkiye.m3u8
+#EXTINF:-1 ,Sinema_TURK2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playertrk-eneren.m3u8
+#EXTINF:-1 ,Sinema_TURK3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playertest.m3u8
+#EXTINF:-1 ,Sinema_TURK4
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/turkuzplay1.m3u8
+#EXTINF:-1 ,Max_Horror
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxkorku.m3u8
+#EXTINF:-1 ,Max_Fantastic
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fantastic-dosugtv.m3u8
+#EXTINF:-1 ,Max_Action
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-boyka.m3u8
+#EXTINF:-1 ,edstafford
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeedstafford.m3u8
+#EXTINF:-1 ,deadpool
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxdeadpool.m3u8
+#EXTINF:-1 ,Alice-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice1.m3u8
+#EXTINF:-1 ,Alice-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice2.m3u8
+#EXTINF:-1 ,Alice-3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice3.m3u8
+#EXTINF:-1 ,Alien-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-yirtici.m3u8
+#EXTINF:-1 ,Alien-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-yirtici2.m3u8
 #EXTINF:-1 ,Squidgame_1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-squidgame1.m3u8
 #EXTINF:-1 ,Squidgame_2
@@ -161,3 +135,29 @@ https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerc
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-bollywood2.m3u8
 #EXTINF:-1 ,Bollywood-3
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/by-kerimof-hind-filmleri.m3u8
+#EXTINF:-1 ,EsrefTEK
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeesreftek.m3u8
+#EXTINF:-1 ,KVadisi
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimekurtlarvadisi.m3u8
+#EXTINF:-1 ,Dag
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxdag.m3u8
+#EXTINF:-1 ,AVRPYakasi
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeavrupayakasi.m3u8
+#EXTINF:-1 ,Bizimkiler
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimebizimkiler.m3u8
+#EXTINF:-1 ,Cennet-Mahallesi1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-cennetmahallesi.m3u8
+#EXTINF:-1 ,Cennet-Mahallesi2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-cennetmahallesi2.m3u8
+#EXTINF:-1 ,ROman-Havasi
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-romanhavasi.m3u8
+#EXTINF:-1 ,Cocuk-Filmi1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/filmboxcocuk.m3u8
+#EXTINF:-1 ,Cocuk-Filmi2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-masnlar.m3u8
+#EXTINF:-1 ,Madagascar
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-madagascar.m3u8
+#EXTINF:-1 ,Kungfu-Panda1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-panda1.m3u8
+#EXTINF:-1 ,Kungfu-Panda2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-panda2.m3u8
