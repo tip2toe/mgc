@@ -1,6 +1,10 @@
 ﻿#EXTM3U
-#EXTINF:-1 ,BRAZA CAFE
+#EXTINF:-1 ,braza cafe
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:-1 ,travel hd
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1 ,relax hd
+https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/catcast/relax-tvhd.m3u8
 #EXTINF:-1 ,Dronetv 1
 https://airvuz-dronetv-1-de.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,Dronetv 2
@@ -19,77 +23,77 @@ https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
 https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,Dronetv 9
 https://airvuz-dronetv-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1,RecreatiON
+#EXTINF:-1 ,RecreatiON
 http://iptv.prosto.tv:7000/ch324/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg",Relaxon
+#EXTINF:-1 ,Relaxon
 http://iptv.prosto.tv:7000/ch317/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png",Fireplace
+#EXTINF:-1 ,Fireplace
 http://iptv.prosto.tv:7000/ch318/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00522.jpg",Scenery
+#EXTINF:-1 ,Scenery
 http://iptv.prosto.tv:7000/ch343/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00297.png",Space Stream
+#EXTINF:-1 ,Space Stream
 http://iptv.prosto.tv:7000/ch314/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png",About Fact
+#EXTINF:-1 ,About Fact
 http://iptv.prosto.tv:7000/ch315/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00314.png",ZOO
+#EXTINF:-1 ,ZOO
 http://iptv.prosto.tv:7000/ch319/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00598.jpg",Light around
+#EXTINF:-1 ,Light around
 http://iptv.prosto.tv:7000/ch351/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00509.jpg",Terrace
+#EXTINF:-1 ,Terrace
 http://iptv.prosto.tv:7000/ch336/video.m3u8
-#EXTINF:-1 tvg-logo="http://img.prosto.tv/storage/channel/logo/ch00564.jpg",Mountain valley
+#EXTINF:-1 ,Mountain valley
 http://iptv.prosto.tv:7000/ch302/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg",Just Ukraine
+#EXTINF:-1 ,Just Ukraine
 http://iptv.prosto.tv:7000/ch303/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00562.jpg",Rains
+#EXTINF:-1 ,Rains
 http://iptv.prosto.tv:7000/ch304/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00561.jpg",Underwater world
+#EXTINF:-1 ,Underwater world
 http://iptv.prosto.tv:7000/ch305/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00549.jpg",Avia Stream
+#EXTINF:-1 ,Avia Stream
 http://iptv.prosto.tv:7000/ch306/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00295.jpg",Disasters
+#EXTINF:-1 ,Disasters
 http://iptv.prosto.tv:7000/ch312/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00302.png",Ecosystem
+#EXTINF:-1 ,Ecosystem
 http://iptv.prosto.tv:7000/ch316/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00318.png",Stream City
+#EXTINF:-1 ,Stream City
 http://iptv.prosto.tv:7000/ch321/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00348.png",Aquarium
+#EXTINF:-1 ,Aquarium
 http://iptv.prosto.tv:7000/ch325/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00492.jpg",Relax room
+#EXTINF:-1 ,Relax room
 http://iptv.prosto.tv:7000/ch328/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00491.jpg",Winter
+#EXTINF:-1 ,Winter
 http://iptv.prosto.tv:7000/ch327/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00555.jpg",Night
+#EXTINF:-1 ,Night
 http://iptv.prosto.tv:7000/ch349/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00500.jpg",Waterfall
+#EXTINF:-1 ,Waterfall
 http://iptv.prosto.tv:7000/ch329/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00503.jpg",Forest
+#EXTINF:-1 ,Forest
 http://iptv.prosto.tv:7000/ch330/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00504.jpg",Fire
+#EXTINF:-1 ,Fire
 http://iptv.prosto.tv:7000/ch331/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00505.jpg",Beach
+#EXTINF:-1 ,Beach
 http://iptv.prosto.tv:7000/ch332/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00508.jpg",Tropical
+#EXTINF:-1 ,Tropical
 http://iptv.prosto.tv:7000/ch335/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00512.jpg",River
+#EXTINF:-1 ,River
 http://iptv.prosto.tv:7000/ch338/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00513.jpg",Jungle
+#EXTINF:-1 ,Jungle
 http://iptv.prosto.tv:7000/ch339/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00514.jpg",Mountains
+#EXTINF:-1 ,Mountains
 http://iptv.prosto.tv:7000/ch340/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00515.jpg",Lake
+#EXTINF:-1 ,Lake
 http://iptv.prosto.tv:7000/ch341/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg",Fishing
+#EXTINF:-1 ,Fishing
 http://iptv.prosto.tv:7000/ch344/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00533.jpg",Pool
+#EXTINF:-1 ,Pool
 http://iptv.prosto.tv:7000/ch345/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00536.jpg",Flora
+#EXTINF:-1 ,Flora
 http://iptv.prosto.tv:7000/ch346/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00537.jpg",nature
+#EXTINF:-1 ,nature
 http://iptv.prosto.tv:7000/ch347/video.m3u8
-#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00544.jpg",Railway
+#EXTINF:-1 ,Railway
 http://iptv.prosto.tv:7000/ch348/video.m3u8
-#EXTINF:-1 tvg-logo="../Channel/logo/Zoo????.png",Park
+#EXTINF:-1 ,Park
 http://iptv.prosto.tv:7000/ch350/video.m3u8
 #EXTINF:-1 ,Aquarium 4K
 http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
@@ -181,5 +185,3 @@ https://outbound-production.explore.org/stream-production-5/.m3u8
 https://outbound-production.explore.org/stream-production-6/.m3u8
 #EXTINF:-1 ,denizler4
 https://outbound-production.explore.org/stream-production-7/.m3u8
-#EXTINF:-1 ,TRAVEL CHANNEL
-http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
