@@ -71,231 +71,253 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 group-title="ulusal",TRT-Genc
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Marvel_Studios1
+#EXTINF:-1 group-title="7/24catcast",Marvel_Studios1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel4.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Marvel_Studios2
+#EXTINF:-1 group-title="7/24catcast",Marvel_Studios2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel5.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Marvel_Studios3
+#EXTINF:-1 group-title="7/24catcast",Marvel_Studios3
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel6.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Sinema-premium-1
+#EXTINF:-1 group-title="7/24catcast",Sinema-premium-1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium-1.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Sinema-premium-2
+#EXTINF:-1 group-title="7/24catcast",Sinema-premium-2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium2.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Sinema-premium-3
+#EXTINF:-1 group-title="7/24catcast",Sinema-premium-3
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium3.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Sinema-premium-4
+#EXTINF:-1 group-title="7/24catcast",Sinema-premium-4
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium4.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Sinema-premium-5
+#EXTINF:-1 group-title="7/24catcast",Sinema-premium-5
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium5.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Sinema-Action-1
+#EXTINF:-1 group-title="7/24catcast",Sinema-Action-1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-acsion2.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Sinema-Action-2
+#EXTINF:-1 group-title="7/24catcast",Sinema-Action-2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-action3.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Sinema-Action-3
+#EXTINF:-1 group-title="7/24catcast",Sinema-Action-3
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-action5.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Sinema-Action-4
+#EXTINF:-1 group-title="7/24catcast",Sinema-Action-4
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-action6.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Jason_Statham
+#EXTINF:-1 group-title="7/24catcast",Jason_Statham
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-jasonstatham.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",RAMBO
+#EXTINF:-1 group-title="7/24catcast",RAMBO
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-rambo.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",ROCKY
+#EXTINF:-1 group-title="7/24catcast",ROCKY
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-rocky.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Transformers1
+#EXTINF:-1 group-title="7/24catcast",Transformers1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-transformer1.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Transformers2
+#EXTINF:-1 group-title="7/24catcast",Transformers2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-transformer2.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",HIZLI ve OFKELI-1
+#EXTINF:-1 group-title="7/24catcast",HIZLI ve OFKELI-1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-forsaj1.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",HIZLI ve OFKELI-2
+#EXTINF:-1 group-title="7/24catcast",HIZLI ve OFKELI-2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-forsaj2.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Cehennem_Melekleri
+#EXTINF:-1 group-title="7/24catcast",Cehennem_Melekleri
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinemacehennemmelekleri.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Spider-Man
+#EXTINF:-1 group-title="7/24catcast",Spider-Man
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-horumcekadam.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",BATMAN
+#EXTINF:-1 group-title="7/24catcast",BATMAN
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-batman.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Terminator
+#EXTINF:-1 group-title="7/24catcast",Terminator
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-terminator.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Matrix
+#EXTINF:-1 group-title="7/24catcast",Matrix
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-matrix.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Maymunlar_Cehennemi
+#EXTINF:-1 group-title="7/24catcast",Maymunlar_Cehennemi
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-maymunlar.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",MOrtak Combat
+#EXTINF:-1 group-title="7/24catcast",MOrtak Combat
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-mortalcombat.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Ölüm Yarisi
+#EXTINF:-1 group-title="7/24catcast",Ölüm Yarisi
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-olumyarisi.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",bLADE_BOX
+#EXTINF:-1 group-title="7/24catcast",bLADE_BOX
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/bladebox.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Universal
+#EXTINF:-1 group-title="7/24catcast",Universal
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-universal-esger.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Godzilla
+#EXTINF:-1 group-title="7/24catcast",Godzilla
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-godzilla-1.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Kontinental
+#EXTINF:-1 group-title="7/24catcast",Kontinental
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-kontinental.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Vandamme-1
+#EXTINF:-1 group-title="7/24catcast",Vandamme-1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-vandamme.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Vandamme-2
+#EXTINF:-1 group-title="7/24catcast",Vandamme-2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-vandamme2.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",stivensegal-1
+#EXTINF:-1 group-title="7/24catcast",stivensegal-1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-stivensegal1.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",stivensegal-2
+#EXTINF:-1 group-title="7/24catcast",stivensegal-2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-stivensegal2.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Jackechan-1
+#EXTINF:-1 group-title="7/24catcast",Jackechan-1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-jackechan.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Jackechan-2
+#EXTINF:-1 group-title="7/24catcast",Jackechan-2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-jackechan2.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Bruce_Lee
+#EXTINF:-1 group-title="7/24catcast",Bruce_Lee
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-bruslee.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Brandon_LEE
+#EXTINF:-1 group-title="7/24catcast",Brandon_LEE
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-brendonlee.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Jet_lee
+#EXTINF:-1 group-title="7/24catcast",Jet_lee
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-jetlee.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Antonio_Banderas
+#EXTINF:-1 group-title="7/24catcast",Antonio_Banderas
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-antoniobanderas.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",John_wick
+#EXTINF:-1 group-title="7/24catcast",John_wick
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-johnwickhd.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Kemalsunal_1
+#EXTINF:-1 group-title="7/24catcast",Kemalsunal_1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-kemalsunal.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Kemalsunal_2
+#EXTINF:-1 group-title="7/24catcast",Kemalsunal_2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-kemalsunal-3.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Hababam_Sinifi
+#EXTINF:-1 group-title="7/24catcast",Hababam_Sinifi
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/hababam.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Maxyesilcam
+#EXTINF:-1 group-title="7/24catcast",Maxyesilcam
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxyesilcam.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Sinema_TURK1
+#EXTINF:-1 group-title="7/24catcast",Sinema_TURK1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerfilm-turkiye.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Sinema_TURK2
+#EXTINF:-1 group-title="7/24catcast",Sinema_TURK2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playertrk-eneren.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Sinema_TURK3
+#EXTINF:-1 group-title="7/24catcast",Sinema_TURK3
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playertest.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Sinema_TURK4
+#EXTINF:-1 group-title="7/24catcast",Sinema_TURK4
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/turkuzplay1.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",KralturkTEBER
+#EXTINF:-1 group-title="7/24catcast",KralturkTEBER
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/kralturk.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Max_Horror
+#EXTINF:-1 group-title="7/24catcast",Max_Horror
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxkorku.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Max_Fantastic
+#EXTINF:-1 group-title="7/24catcast",Max_Fantastic
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fantastic-dosugtv.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Max_Action
+#EXTINF:-1 group-title="7/24catcast",Max_Action
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-boyka.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",edstafford
+#EXTINF:-1 group-title="7/24catcast",edstafford
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeedstafford.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",deadpool
+#EXTINF:-1 group-title="7/24catcast",deadpool
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxdeadpool.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",ipman
+#EXTINF:-1 group-title="7/24catcast",ipman
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-ipman.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Alice-1
+#EXTINF:-1 group-title="7/24catcast",Alice-1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice1.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Alice-2
+#EXTINF:-1 group-title="7/24catcast",Alice-2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice2.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Alice-3
+#EXTINF:-1 group-title="7/24catcast",Alice-3
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice3.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Alien-1
+#EXTINF:-1 group-title="7/24catcast",Alien-1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-yirtici.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Alien-2
+#EXTINF:-1 group-title="7/24catcast",Alien-2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-yirtici2.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Squidgame_1
+#EXTINF:-1 group-title="7/24catcast",Squidgame_1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-squidgame1.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Squidgame_2
+#EXTINF:-1 group-title="7/24catcast",Squidgame_2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-squidgame-2.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Squidgame_3
+#EXTINF:-1 group-title="7/24catcast",Squidgame_3
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-squidgame3.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Bollywood-1
+#EXTINF:-1 group-title="7/24catcast",Bollywood-1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-bollywood.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Bollywood-2
+#EXTINF:-1 group-title="7/24catcast",Bollywood-2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-bollywood2.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Bollywood-3
+#EXTINF:-1 group-title="7/24catcast",Bollywood-3
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/by-kerimof-hind-filmleri.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",EsrefTEK
+#EXTINF:-1 group-title="7/24catcast",EsrefTEK
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeesreftek.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",KVadisi
+#EXTINF:-1 group-title="7/24catcast",KVadisi
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimekurtlarvadisi.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Dag
+#EXTINF:-1 group-title="7/24catcast",Dag
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxdag.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",AVRPYakasi
+#EXTINF:-1 group-title="7/24catcast",AVRPYakasi
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeavrupayakasi.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Bizimkiler
+#EXTINF:-1 group-title="7/24catcast",Bizimkiler
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimebizimkiler.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Cennet-Mahallesi1
+#EXTINF:-1 group-title="7/24catcast",Cennet-Mahallesi1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-cennetmahallesi.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Cennet-Mahallesi2
+#EXTINF:-1 group-title="7/24catcast",Cennet-Mahallesi2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-cennetmahallesi2.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",ROman-Havasi
+#EXTINF:-1 group-title="7/24catcast",ROman-Havasi
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-romanhavasi.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Cocuk-Filmi1
+#EXTINF:-1 group-title="7/24catcast",Cocuk-Filmi1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/filmboxcocuk.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Cocuk-Filmi2
+#EXTINF:-1 group-title="7/24catcast",Cocuk-Filmi2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-masnlar.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Madagascar
+#EXTINF:-1 group-title="7/24catcast",Madagascar
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-madagascar.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Kungfu-Panda1
+#EXTINF:-1 group-title="7/24catcast",Kungfu-Panda1
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-panda1.m3u8
-#EXTINF:-1 group-title="7/24CatCAST",Kungfu-Panda2
+#EXTINF:-1 group-title="7/24catcast",Kungfu-Panda2
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-panda2.m3u8
-#EXTINF:-1 group-title="7/24Flm",SDM SiNEMA
+#EXTINF:-1 group-title="7/24flm",SDM SiNEMA
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="7/24Flm",TELEON
+#EXTINF:-1 group-title="7/24flm",TELEON
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/playlist.m3u8
-#EXTINF:-1 group-title="7/24Flm",SiRiUS
+#EXTINF:-1 group-title="7/24flm",Teleon 
+https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
+#EXTINF:-1 group-title="7/24flm",SiRiUS
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
-#EXTINF:-1 group-title="7/24Flm",BASKATV
+#EXTINF:-1 group-title="7/24flm",SiRiUS
+https://raw.githubusercontent.com/sahind01/kubra/refs/heads/main/streams/siriustv.m3u8
+#EXTINF:-1 group-title="7/24flm",BASKATV
 https://raw.githubusercontent.com/sahind01/kubra/refs/heads/main/streams/baskatv-kick.m3u8
-#EXTINF:-1 group-title="7/24Flm",STV
+#EXTINF:-1 group-title="7/24flm",STV
 https://raw.githubusercontent.com/sahind01/kubra/refs/heads/main/streams/serhattv.m3u8
-#EXTINF:-1 group-title="7/24Flm",TUKUZPLAY
+#EXTINF:-1 group-title="7/24flm",TUKUZPLAY
 https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/catcast/turkuzplay1.m3u8
-#EXTINF:-1 group-title="7/24Flm",SABANTV
+#EXTINF:-1 group-title="7/24flm",SABANTV
 http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
-#EXTINF:-1 group-title="7/24Flm",YESiLCAM TV
+#EXTINF:-1 group-title="7/24flm",YESiLCAM TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8?checkedby:MyWay
-#EXTINF:-1 group-title="7/24Flm",RiZETURK
+#EXTINF:-1 group-title="7/24flm",RiZETURK
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:-1 group-title="7/24Flm",Yansima hd
+#EXTINF:-1 group-title="7/24flm",Yansima hd
 http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
-#EXTINF:-1 group-title="7/24Flm",Max Yerli
+#EXTINF:-1 group-title="7/24flm",Max Yerli
 http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
-#EXTINF:-1 group-title="7/24Flm",Max Premier
+#EXTINF:-1 group-title="7/24flm",Max Premier
 http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
-#EXTINF:-1 group-title="7/24Flm",Resurrection
+#EXTINF:-1 group-title="7/24flm",Resurrection
 https://raw.githubusercontent.com/seyityavuz/yavuznet/refs/heads/main/streams/resurrection-channel-tv.m3u8
-#EXTINF:-1 group-title="7/24Flm",FluxTV
+#EXTINF:-1 group-title="7/24flm",FluxTV
 https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
-#EXTINF:-1 group-title="7/24Flm",AKKON TV
+#EXTINF:-1 group-title="7/24flm",FIX
+https://yayin.venomlink.com/live/mystream/main_stream.m3u8
+#EXTINF:-1 group-title="7/24flm",MAX
+http://maxmedya.duckdns.org/akamaissh101/ssh101/maxtv/chunks.m3u8
+#EXTINF:-1 group-title="7/24flm",MAX Premier
+http://maxmedya.duckdns.org/akamaissh101/ssh101/maxpremier/playlist.m3u8
+#EXTINF:-1 group-title="7/24flm",MAX Yerli
+http://maxmedya.duckdns.org/akamaissh101/ssh101/maxyerli/playlist.m3u8
+#EXTINF:-1 group-title="7/24flm",Yansima Sinema
+https://stream41.radyotelekom.com.tr/stream/m3u8/79adcbd0516d923757328a7ce9d0f37f/79adcbd0516d923757328a7ce9d0f37f.m3u8
+#EXTINF:-1 group-title="7/24flm",Yansima Nostalji
+http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
+#EXTINF:-1 group-title="7/24flm",Tebertürk 1
+http://162.212.179.32/akamaissh101/ssh101/tilaf_tv/chunks.m3u8
+#EXTINF:-1 group-title="7/24flm",Tebertürk 2
+http://162.212.179.32/akamaissh101/ssh101/tilaf_tv2/chunks.m3u8
+#EXTINF:-1 group-title="7/24flm",impactv
+https://metroturk.castpin.com/hls/metroturk/1_2/index.m3u8
+#EXTINF:-1 group-title="7/24flm",AKKON TV
 https://ip.akkontv.com:3205/stream/play.m3u8
-#EXTINF:-1 group-title="7/24Flm",isviçre TV
+#EXTINF:-1 group-title="7/24flm",isviçre TV
 https://i41.ozelip.com:3269/hybrid/play.m3u8
-#EXTINF:-1 group-title="7/24Flm",Cine-5 TV
+#EXTINF:-1 group-title="7/24flm",Cine-5 TV
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="7/24Flm",Viyana TV
+#EXTINF:-1 group-title="7/24flm",Viyana TV
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8?app=supersat_token_741852
-#EXTINF:-1 group-title="7/24Flm",Göpsen Tv
+#EXTINF:-1 group-title="7/24flm",Göpsen Tv
 https://canli.gopsentv.com:3604/stream/play.m3u8
-#EXTINF:-1 group-title="7/24Flm",Deniztv
+#EXTINF:-1 group-title="7/24flm",Deniztv
 http://162.212.179.32/akamaissh101/ssh101/denizradyotv/chunks.m3u8
-#EXTINF:-1 group-title="7/24Flm",Tabii TV
+#EXTINF:-1 group-title="7/24flm",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 group-title="7/24Flm",Tabii TV
+#EXTINF:-1 group-title="7/24flm",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
-#EXTINF:-1 group-title="7/24Flm",DENiZ POSTASi
+#EXTINF:-1 group-title="7/24flm",DENiZ POSTASi
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:-1 group-title="7/24Flm",TiVi6
+#EXTINF:-1 group-title="7/24flm",TiVi6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1 group-title="7/24Flm",TVB
+#EXTINF:-1 group-title="7/24flm",TVB
 https://ip44.radyotelekomtv.com:3958/stream/play.m3u8?checkedby:MyWay
-#EXTINF:-1 group-title="7/24Flm",DiZiTV
+#EXTINF:-1 group-title="7/24flm",DiZiTV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 group-title="7/24Flm",LiFE TV
+#EXTINF:-1 group-title="7/24flm",LiFE TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8?checkedby:MyWay
-#EXTINF:-1 group-title="7/24Flm",CiNE1
+#EXTINF:-1 group-title="7/24flm",CiNE1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8?checkedby:MyWay
-#EXTINF:-1 group-title="7/24Flm",FXTV
+#EXTINF:-1 group-title="7/24flm",FXTV
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 group-title="7/24Flm",FilmScreen international
+#EXTINF:-1 group-title="7/24flm",FilmScreen international
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:-1 group-title="7/24Flm",teleZEN
+#EXTINF:-1 group-title="7/24flm",teleZEN
 https://raw.githubusercontent.com/seyityavuz/yavuznet/refs/heads/main/streams/telezen.m3u8
-#EXTINF:-1 group-title="7/24Flm",Bi Kanal
+#EXTINF:-1 group-title="7/24flm",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1, group-title="belgesel",relax hd
 https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/catcast/relax-tvhd.m3u8
@@ -359,6 +381,8 @@ https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8b65nnyxpdwm&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=2
 #EXTINF:-1 group-title="haber",haberTurk
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
+#EXTINF:-1 group-title="haber",haberTurk
+https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b
 #EXTINF:-1 group-title="haber",haberglobal
 https://tv.ensonhaber.com/haberglobal/haberglobal_720p.m3u8
 #EXTINF:-1 group-title="haber",TRT-haber
@@ -439,6 +463,14 @@ https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/M
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 group-title="minik",SpaceTOON
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
+#EXTINF:-1 group-title="minik",Tom ve Jerry
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikkidstomjerry.m3u8
+#EXTINF:-1 group-title="minik",Kids Caillou
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikkidscaillou.m3u8
+#EXTINF:-1 group-title="minik",Kids Pepee
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikkidspepee.m3u8
+#EXTINF:-1 group-title="minik",Kids Sarkilar
+https://raw.githubusercontent.com/kadirsener1/catcast/refs/heads/main/catcast/fanatikkidsarkilar.m3u8
 #EXTINF:-1 group-title="spor",TRT-Spor
 https://tv-trtspor1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="spor",TRT-Spor Yildiz
@@ -616,6 +648,8 @@ https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8?md5=api5VtN5dEXl5cvRHMQBNQ&expires=1696713505
 #EXTINF:-1 group-title="music",NR 1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
+#EXTINF:-1 group-title="music",telvoletv
+https://host.onlineradyotv.net:8081/televolemagazin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="music",musicnostalji
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmusicnostalji.m3u8
 #EXTINF:-1 group-title="music",music klip
@@ -650,71 +684,71 @@ https://gra1.crystalweb.net:1936/barazatv/barazatv/playlist.m3u8
 https://gra1.crystalweb.net:1936/barazadjmusic/barazadjmusic/playlist.m3u8
 #EXTINF:-1 group-title="Baraza Music",Baraza Disco
 https://media2.streambrothers.com:19360/jrmrzudjpv/jrmrzudjpv.m3u8
-#EXTINF:-1 group-title="Stingray Music",Fire
+#EXTINF:-1 group-title="stingray music",Fire
 http://iptv.prosto.tv:7000/ch318/video.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Classic Rock
+#EXTINF:-1 group-title="stingray music",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Classica
+#EXTINF:-1 group-title="stingray music",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray CMusic
+#EXTINF:-1 group-title="stingray music",Stingray CMusic
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray DJAZZ
+#EXTINF:-1 group-title="stingray music",Stingray DJAZZ
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Easy Listening
+#EXTINF:-1 group-title="stingray music",Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Flashback 70s
+#EXTINF:-1 group-title="stingray music",Stingray Flashback 70s
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Hit List
+#EXTINF:-1 group-title="stingray music",Stingray Hit List
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Holiday Hits
+#EXTINF:-1 group-title="stingray music",Stingray Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Hot Country
+#EXTINF:-1 group-title="stingray music",Stingray Hot Country
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Karaoke
+#EXTINF:-1 group-title="stingray music",Stingray Karaoke
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Naturescape
+#EXTINF:-1 group-title="stingray music",Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Nothin' But 90s
+#EXTINF:-1 group-title="stingray music",Stingray Nothin' But 90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Pop Adult
+#EXTINF:-1 group-title="stingray music",Stingray Pop Adult
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Remember the 80s
+#EXTINF:-1 group-title="stingray music",Stingray Remember the 80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Rock Alternative
+#EXTINF:-1 group-title="stingray music",Stingray Rock Alternative
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Romance Latino
+#EXTINF:-1 group-title="stingray music",Stingray Romance Latino
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Smooth Jazz
+#EXTINF:-1 group-title="stingray music",Stingray Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Soul Storm
+#EXTINF:-1 group-title="stingray music",Stingray Soul Storm
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray The Spa
+#EXTINF:-1 group-title="stingray music",Stingray The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Today's KPOP
+#EXTINF:-1 group-title="stingray music",Stingray Today's KPOP
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Today's Latin Pop
+#EXTINF:-1 group-title="stingray music",Stingray Today's Latin Pop
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="Stingray Music",Stingray Urban Beat
+#EXTINF:-1 group-title="stingray music",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="music",ANKARA HAVALARI
+#EXTINF:-1 group-title="webradio",ANKARA HAVALARI
 http://37.247.98.8/stream/30/ 
-#EXTINF:-1 group-title="music",ALTIN SARKILAR
+#EXTINF:-1 group-title="webradio",ALTIN SARKILAR
 http://37.247.98.8/stream/25/
-#EXTINF:-1 group-title="music",EGE HAVALARI
+#EXTINF:-1 group-title="webradio",EGE HAVALARI
 http://37.247.98.8/stream/29/
-#EXTINF:-1 group-title="music",MAZIDEN BIR DEMET
+#EXTINF:-1 group-title="webradio",MAZIDEN BIR DEMET
 http://37.247.98.8/stream/24/
-#EXTINF:-1 group-title="music",MELANKOLIK
+#EXTINF:-1 group-title="webradio",MELANKOLIK
 http://37.247.98.8/stream/20/
-#EXTINF:-1 group-title="music",POPHOME
+#EXTINF:-1 group-title="webradio",POPHOME
 http://37.247.98.8/stream/21/ 
-#EXTINF:-1 group-title="music",VOKAL
+#EXTINF:-1 group-title="webradio",VOKAL
 http://37.247.98.8/stream/35/
-#EXTINF:-1 group-title="music",SLOW HOME
+#EXTINF:-1 group-title="webradio",SLOW HOME
 http://37.247.98.8/stream/27/
-#EXTINF:-1 group-title="music",TURKULERLE TURKIYE
+#EXTINF:-1 group-title="webradio",TURKULERLE TURKIYE
 http://37.247.98.8/stream/22/ 
-#EXTINF:-1 group-title="music",WORLD HIT
+#EXTINF:-1 group-title="webradio",WORLD HIT
 http://37.247.98.8/stream/34/
 #EXTINF:-1 group-title="webradio",Kral POP
 http://46.20.3.201:80
