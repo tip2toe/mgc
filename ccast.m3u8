@@ -1,125 +1,125 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="CatcastDizi",Bizimkiler
+#EXTINF:-1 group-title="CatcastDzi",Bizimkiler
 http://193.123.61.120:3000/kanal/NostaljiTRT_2
-#EXTINF:-1 group-title="CatcastDizi",Bizimkiler(Catcast)
+#EXTINF:-1 group-title="CatcastDzi",Bizimkiler(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/bizimkiler2.m3u8
-#EXTINF:-1 group-title="CatcastDizi",Çiçek Taksi
+#EXTINF:-1 group-title="CatcastDzi",Çiçek Taksi
 http://193.123.61.120:3000/kanal/NostaljiTRT_1
-#EXTINF:-1 group-title="CatcastDizi",Guldur Guldur
+#EXTINF:-1 group-title="CatcastDzi",Guldur Guldur
 http://193.123.61.120:3000/kanal/guldurguldurtv
-#EXTINF:-1 group-title="CatcastDizi",Seksenler
+#EXTINF:-1 group-title="CatcastDzi",Seksenler
 http://193.123.61.120:3000/kanal/seksenlertrt
-#EXTINF:-1 group-title="CatcastDizi",Yedi Numara
+#EXTINF:-1 group-title="CatcastDzi",Yedi Numara
 http://193.123.61.120:3000/kanal/YedinumaradizisiTRT
-#EXTINF:-1 group-title="CatcastDizi",Leyla ile Mecnun
+#EXTINF:-1 group-title="CatcastDzi",Leyla ile Mecnun
 http://193.123.61.120:3000/kanal/leylailemecnundizisitrt
-#EXTINF:-1 group-title="CatcastDizi",Kurtlar Vadisi Pusu
+#EXTINF:-1 group-title="CatcastDzi",Kurtlar Vadisi Pusu
 http://193.123.61.120:3000/kanal/KurtlarVadisi
-#EXTINF:-1 group-title="CatcastDizi",Kurtlar Vadisi(Catcast)
+#EXTINF:-1 group-title="CatcastDzi",Kurtlar Vadisi(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kurtlarvadisi.m3u8
-#EXTINF:-1 group-title="CatcastDizi",Behzat Ç
+#EXTINF:-1 group-title="CatcastDzi",Behzat Ç
 http://193.123.61.120:3000/kanal/Behzatc.
-#EXTINF:-1 group-title="CatcastDizi",Çukur
+#EXTINF:-1 group-title="CatcastDzi",Çukur
 http://193.123.61.120:3000/kanal/Cukur
-#EXTINF:-1 group-title="CatcastDizi",Yaprak Dökümü
+#EXTINF:-1 group-title="CatcastDzi",Yaprak Dökümü
 http://193.123.61.120:3000/kanal/YaprakDokumuKanalD
-#EXTINF:-1 group-title="CatcastDizi",Cennet Mahallesi(Catcast)
+#EXTINF:-1 group-title="CatcastDzi",Cennet Mahallesi(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/cennetmah2.m3u8
-#EXTINF:-1 group-title="CatcastDizi",Çocuklar Duymasın
+#EXTINF:-1 group-title="CatcastDzi",Çocuklar Duymasın
 http://193.123.61.120:3000/kanal/CocuklarDuymasnKanalD
-#EXTINF:-1 group-title="CatcastDizi",Adanalı
+#EXTINF:-1 group-title="CatcastDzi",Adanalı
 http://193.123.61.120:3000/kanal/Adanali
-#EXTINF:-1 group-title="CatcastDizi",Avrupa Yakası
+#EXTINF:-1 group-title="CatcastDzi",Avrupa Yakası
 http://193.123.61.120:3000/kanal/AvrupaYakasi
-#EXTINF:-1 group-title="CatcastDizi",Avrupa Yakası(Catcast)
+#EXTINF:-1 group-title="CatcastDzi",Avrupa Yakası(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/avrupayakasi.m3u8
-#EXTINF:-1 group-title="CatcastDizi",Selena
-http://193.123.61.120:3000/kanal/SelenaCatcastDizi
-#EXTINF:-1 group-title="CatcastDizi",Alemin Kralı
+#EXTINF:-1 group-title="CatcastDzi",Selena
+http://193.123.61.120:3000/kanal/SelenaCatcastDzi
+#EXTINF:-1 group-title="CatcastDzi",Alemin Kralı
 http://193.123.61.120:3000/kanal/aleminkirali
-#EXTINF:-1 group-title="CatcastDizi",Türk Malı
+#EXTINF:-1 group-title="CatcastDzi",Türk Malı
 http://193.123.61.120:3000/kanal/turkmalitv
-#EXTINF:-1 group-title="CatcastDizi",Sakarya Fırat
+#EXTINF:-1 group-title="CatcastDzi",Sakarya Fırat
 http://193.123.61.120:3000/kanal/sakaryafirattrt
-#EXTINF:-1 group-title="CatcastDizi",Bir Zamanlar Çukurova
+#EXTINF:-1 group-title="CatcastDzi",Bir Zamanlar Çukurova
 http://193.123.61.120:3000/kanal/BZC
-#EXTINF:-1 group-title="CatcastDizi",Kısmetse Olur
+#EXTINF:-1 group-title="CatcastDzi",Kısmetse Olur
 http://193.123.61.120:3000/kanal/KismetseOlurKanalDOFFICIAL
-#EXTINF:-1 group-title="CatcastDizi",Mehmed: Fetihler Sultanı
+#EXTINF:-1 group-title="CatcastDzi",Mehmed: Fetihler Sultanı
 http://193.123.61.120:3000/kanal/mehmedfetihlersultani
-#EXTINF:-1 group-title="CatcastDizi",Sıfır Bir
+#EXTINF:-1 group-title="CatcastDzi",Sıfır Bir
 http://193.123.61.120:3000/kanal/SfrBir
-#EXTINF:-1 group-title="CatcastDizi",Kuruluş Osman
+#EXTINF:-1 group-title="CatcastDzi",Kuruluş Osman
 http://193.123.61.120:3000/kanal/KurulusOsman
-#EXTINF:-1 group-title="CatcastDizi",Emret Komutanım
+#EXTINF:-1 group-title="CatcastDzi",Emret Komutanım
 http://193.123.61.120:3000/kanal/EmretKomutanimOfficial
-#EXTINF:-1 group-title="CatcastDizi",Kardeş Payı
+#EXTINF:-1 group-title="CatcastDzi",Kardeş Payı
 http://193.123.61.120:3000/kanal/kardespayitv
-#EXTINF:-1 group-title="CatcastDizi",Kanal D Arşiv
+#EXTINF:-1 group-title="CatcastDzi",Kanal D Arşiv
 http://193.123.61.120:3000/kanal/kanaldarsiv
-#EXTINF:-1 group-title="CatcastDizi",Şevkat Yerimdar
-http://193.123.61.120:3000/kanal/SevkatYerimdarCatcastDizisi
-#EXTINF:-1 group-title="CatcastDizi",Yeşil Deniz
+#EXTINF:-1 group-title="CatcastDzi",Şevkat Yerimdar
+http://193.123.61.120:3000/kanal/SevkatYerimdarCatcastDzisi
+#EXTINF:-1 group-title="CatcastDzi",Yeşil Deniz
 http://193.123.61.120:3000/kanal/yesildeniztrt1
-#EXTINF:-1 group-title="CatcastDizi",Aşk-ı Memnu
+#EXTINF:-1 group-title="CatcastDzi",Aşk-ı Memnu
 http://193.123.61.120:3000/kanal/AskMemnuKanalD
-#EXTINF:-1 group-title="CatcastDizi",Zengin Kız Fakir Oğlan
+#EXTINF:-1 group-title="CatcastDzi",Zengin Kız Fakir Oğlan
 http://193.123.61.120:3000/kanal/zenginkizfakiroglantrt
-#EXTINF:-1 group-title="CatcastDizi",Diriliş Ertuğrul
+#EXTINF:-1 group-title="CatcastDzi",Diriliş Ertuğrul
 http://193.123.61.120:3000/kanal/DirilisErtugrulTRT
-#EXTINF:-1 group-title="CatcastDizi",Kod Adı Kırlangıç
+#EXTINF:-1 group-title="CatcastDzi",Kod Adı Kırlangıç
 http://193.123.61.120:3000/kanal/kodadikirlangic
-#EXTINF:-1 group-title="CatcastDizi",Eşref Rüya
+#EXTINF:-1 group-title="CatcastDzi",Eşref Rüya
 http://193.123.61.120:3000/kanal/EsrefRuyadizitv
-#EXTINF:-1 group-title="CatcastDizi",A.B.İ
+#EXTINF:-1 group-title="CatcastDzi",A.B.İ
 http://193.123.61.120:3000/kanal/Abidiziatv
-#EXTINF:-1 group-title="CatcastDizi",Muhteşem Yüzyıl
+#EXTINF:-1 group-title="CatcastDzi",Muhteşem Yüzyıl
 http://193.123.61.120:3000/kanal/muhtesemyuzyilofficial
-#EXTINF:-1 group-title="CatcastDizi",Altı Üstü İstanbul
+#EXTINF:-1 group-title="CatcastDzi",Altı Üstü İstanbul
 http://193.123.61.120:3000/kanal/AltıÜstüİstanbul_2
-#EXTINF:-1 group-title="CatcastDizi",Aşk Yeniden
-http://193.123.61.120:3000/kanal/AskYenıdenCatcastDizi
-#EXTINF:-1 group-title="CatcastDizi",Kiraz Mevsimi
-http://193.123.61.120:3000/kanal/KirazMevsimiCatcastDizi
-#EXTINF:-1 group-title="CatcastDizi",İstanbullu Gelin
+#EXTINF:-1 group-title="CatcastDzi",Aşk Yeniden
+http://193.123.61.120:3000/kanal/AskYenıdenCatcastDzi
+#EXTINF:-1 group-title="CatcastDzi",Kiraz Mevsimi
+http://193.123.61.120:3000/kanal/KirazMevsimiCatcastDzi
+#EXTINF:-1 group-title="CatcastDzi",İstanbullu Gelin
 http://193.123.61.120:3000/kanal/istanbullugelindizi
-#EXTINF:-1 group-title="CatcastDizi",Çilek Kokusu
-http://193.123.61.120:3000/kanal/CilekKokusuCatcastDizi
-#EXTINF:-1 group-title="CatcastDizi",Her Yerde Sen
+#EXTINF:-1 group-title="CatcastDzi",Çilek Kokusu
+http://193.123.61.120:3000/kanal/CilekKokusuCatcastDzi
+#EXTINF:-1 group-title="CatcastDzi",Her Yerde Sen
 http://193.123.61.120:3000/kanal/HerYerdeSen
-#EXTINF:-1 group-title="CatcastDizi",Bay Yanlış
-http://193.123.61.120:3000/kanal/BayYanlisCatcastDizi
-#EXTINF:-1 group-title="CatcastDizi",İnadına Aşk
+#EXTINF:-1 group-title="CatcastDzi",Bay Yanlış
+http://193.123.61.120:3000/kanal/BayYanlisCatcastDzi
+#EXTINF:-1 group-title="CatcastDzi",İnadına Aşk
 http://193.123.61.120:3000/kanal/InadnaAsk
-#EXTINF:-1 group-title="CatcastDizi",O Hayat Benim
+#EXTINF:-1 group-title="CatcastDzi",O Hayat Benim
 http://193.123.61.120:3000/kanal/OHayatBenim
-#EXTINF:-1 group-title="CatcastDizi",Güzel Köylü
+#EXTINF:-1 group-title="CatcastDzi",Güzel Köylü
 http://193.123.61.120:3000/kanal/guzelkoyludizi
-#EXTINF:-1 group-title="CatcastDizi",Kızıl Goncalar
-http://193.123.61.120:3000/kanal/KizilGoncalarCatcastDizisi
-#EXTINF:-1 group-title="CatcastDizi",Ezel
+#EXTINF:-1 group-title="CatcastDzi",Kızıl Goncalar
+http://193.123.61.120:3000/kanal/KizilGoncalarCatcastDzisi
+#EXTINF:-1 group-title="CatcastDzi",Ezel
 http://193.123.61.120:3000/kanal/ezel
-#EXTINF:-1 group-title="CatcastDizi",Tozluyaka
+#EXTINF:-1 group-title="CatcastDzi",Tozluyaka
 http://193.123.61.120:3000/kanal/Tozluyaka
-#EXTINF:-1 group-title="CatcastDizi",KARDEŞLERİM
+#EXTINF:-1 group-title="CatcastDzi",KARDEŞLERİM
 http://193.123.61.120:3000/kanal/KARDEŞLERİM
-#EXTINF:-1 group-title="CatcastDizi",Taşacak Bu Deniz
+#EXTINF:-1 group-title="CatcastDzi",Taşacak Bu Deniz
 http://193.123.61.120:3000/kanal/tasacakbudeniztrt
-#EXTINF:-1 group-title="CatcastDizi",Söz
+#EXTINF:-1 group-title="CatcastDzi",Söz
 http://193.123.61.120:3000/kanal/sözdizitv
-#EXTINF:-1 group-title="CatcastDizi",Savaşçı
-http://193.123.61.120:3000/kanal/SavasciCatcastDizi
-#EXTINF:-1 group-title="CatcastDizi",Gecenin Kraliçesi
+#EXTINF:-1 group-title="CatcastDzi",Savaşçı
+http://193.123.61.120:3000/kanal/SavasciCatcastDzi
+#EXTINF:-1 group-title="CatcastDzi",Gecenin Kraliçesi
 http://193.123.61.120:3000/kanal/GeceninKralicesiOfficial
-#EXTINF:-1 group-title="CatcastDizi",Kaderimin Yazıldığı Gün
+#EXTINF:-1 group-title="CatcastDzi",Kaderimin Yazıldığı Gün
 http://193.123.61.120:3000/kanal/KaderiminYazildigiGun
-#EXTINF:-1 group-title="CatcastDizi",Senden Daha Güzel
+#EXTINF:-1 group-title="CatcastDzi",Senden Daha Güzel
 http://193.123.61.120:3000/kanal/SendenDahaGüzel
-#EXTINF:-1 group-title="CatcastDizi",Sokağın Çocukları
-http://193.123.61.120:3000/kanal/SokaginCocuklariCatcastDizi
-#EXTINF:-1 group-title="CatcastDizi",Tolgshow Yıldızlar
+#EXTINF:-1 group-title="CatcastDzi",Sokağın Çocukları
+http://193.123.61.120:3000/kanal/SokaginCocuklariCatcastDzi
+#EXTINF:-1 group-title="CatcastDzi",Tolgshow Yıldızlar
 http://193.123.61.120:3000/kanal/25FilmTR
-#EXTINF:-1 group-title="CatcastDizi",Yüksek Sosyete
+#EXTINF:-1 group-title="CatcastDzi",Yüksek Sosyete
 http://193.123.61.120:3000/kanal/YuksekSosyete
 #EXTINF:-1 group-title="catcastBelgesel",BizimEv TV
 http://193.123.61.120:3000/kanal/bizimevtv2000
@@ -217,57 +217,57 @@ http://193.123.61.120:3000/kanal/mkhabertv
 http://193.123.61.120:3000/kanal/tele3_haber
 #EXTINF:-1 group-title="catcastHaber",Onlar TV
 http://193.123.61.120:3000/kanal/OnlarTV
-#EXTINF:-1 group-title="catcastSinema",Başka TV(Kick.tv)
+#EXTINF:-1 group-title="catcastSnema",Başka TV(Kick.tv)
 https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/baska_tv.m3u8
-#EXTINF:-1 group-title="catcastSinema",Efsane TV(Kick.tv)
+#EXTINF:-1 group-title="catcastSnema",Efsane TV(Kick.tv)
 https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/efsanetv.m3u8
-#EXTINF:-1 group-title="catcastSinema",Serhat TV(Twitch.tv)
+#EXTINF:-1 group-title="catcastSnema",Serhat TV(Twitch.tv)
 https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/serhat_tv.m3u8
-#EXTINF:-1 group-title="catcastSinema",Hababam Sınıfı(Catcast)
+#EXTINF:-1 group-title="catcastSnema",Hababam Sınıfı(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/hababam.m3u8
-#EXTINF:-1 group-title="catcastSinema",Jackie Chan(Catcast)
+#EXTINF:-1 group-title="catcastSnema",Jackie Chan(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/jackiechan1.m3u8
-#EXTINF:-1 group-title="catcastSinema",Jason Statham(Catcast)
+#EXTINF:-1 group-title="catcastSnema",Jason Statham(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/jasonstatham.m3u8
-#EXTINF:-1 group-title="catcastSinema",Kemal Sunal TV-1(Catcast)
+#EXTINF:-1 group-title="catcastSnema",Kemal Sunal TV-1(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kemalsunal.m3u8
-#EXTINF:-1 group-title="catcastSinema",Kemal Sunal TV-2(Catcast)
+#EXTINF:-1 group-title="catcastSnema",Kemal Sunal TV-2(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kemalsunal2.m3u8
-#EXTINF:-1 group-title="catcastSinema",Kemal Sunal TV-3(Catcast)
+#EXTINF:-1 group-title="catcastSnema",Kemal Sunal TV-3(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kemalsunal3.m3u8
-#EXTINF:-1 group-title="catcastSinema",Kemal Sunal TV-4(Catcast)
+#EXTINF:-1 group-title="catcastSnema",Kemal Sunal TV-4(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/ksunal.m3u8
-#EXTINF:-1 group-title="catcastSinema",KralTeber TV(Catcast)
+#EXTINF:-1 group-title="catcastSnema",KralTeber TV(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kralturkteber.m3u8
-#EXTINF:-1 group-title="catcastSinema",PlayerFilm TV(Catcast)
+#EXTINF:-1 group-title="catcastSnema",PlayerFilm TV(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/playerfilm.m3u8
-#EXTINF:-1 group-title="catcastSinema",Rambo TV(Catcast)
+#EXTINF:-1 group-title="catcastSnema",Rambo TV(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/rambo.m3u8
-#EXTINF:-1 group-title="catcastSinema",Rocky TV(Catcast)
+#EXTINF:-1 group-title="catcastSnema",Rocky TV(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/rocky.m3u8
-#EXTINF:-1 group-title="catcastSinema",Şener Şen Filmleri TV(Catcast)
+#EXTINF:-1 group-title="catcastSnema",Şener Şen Filmleri TV(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/senersen.m3u8
-#EXTINF:-1 group-title="catcastSinema",TurkuzPlay TV(Catcast)
+#EXTINF:-1 group-title="catcastSnema",TurkuzPlay TV(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/turkuzplay1.m3u8
-#EXTINF:-1 group-title="catcastSinema",Sirius HD TV(Catcast)
+#EXTINF:-1 group-title="catcastSnema",Sirius HD TV(Catcast)
 https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/siriushd.m3u8
-#EXTINF:-1 group-title="catcastSinema",Gulsah Film
+#EXTINF:-1 group-title="catcastSnema",Gulsah Film
 http://193.123.61.120:3000/kanal/GulsahFilmOfficial
-#EXTINF:-1 group-title="catcastSinema",Kemal Sunal Filmleri ve Sahneleri
+#EXTINF:-1 group-title="catcastSnema",Kemal Sunal Filmleri ve Sahneleri
 http://193.123.61.120:3000/kanal/KemalSunalFilmleriveSahneleri
-#EXTINF:-1 group-title="catcastSinema",Film Atölyesi
+#EXTINF:-1 group-title="catcastSnema",Film Atölyesi
 http://193.123.61.120:3000/kanal/FilmAtolyesi
-#EXTINF:-1 group-title="catcastSinema",Arzu Film
+#EXTINF:-1 group-title="catcastSnema",Arzu Film
 http://193.123.61.120:3000/kanal/arzufilm1964
-#EXTINF:-1 group-title="catcastSinema",Turk Filmleri TV
+#EXTINF:-1 group-title="catcastSnema",Turk Filmleri TV
 http://193.123.61.120:3000/kanal/TurkFilmleri-TV
-#EXTINF:-1 group-title="catcastSinema",Ersoy Film
+#EXTINF:-1 group-title="catcastSnema",Ersoy Film
 http://193.123.61.120:3000/kanal/ErsoyFilmcilik
-#EXTINF:-1 group-title="catcastSinema",Taff Film
+#EXTINF:-1 group-title="catcastSnema",Taff Film
 http://193.123.61.120:3000/kanal/Taff-Pictures
-#EXTINF:-1 group-title="catcastSinema",Aksiyon Filmleri
+#EXTINF:-1 group-title="catcastSnema",Aksiyon Filmleri
 http://193.123.61.120:3000/kanal/TurkAksiyonFilmleri
-#EXTINF:-1 group-title="catcastSinema",Topkapı Film
+#EXTINF:-1 group-title="catcastSnema",Topkapı Film
 http://193.123.61.120:3000/kanal/TopkapiFilmOfficial
 #EXTINF:-1 group-title="catcastDinlenme",Somine Tv-1
 http://193.123.61.120:3000/kanal/FobosPlanet_1
