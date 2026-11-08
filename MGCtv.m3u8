@@ -15,7 +15,6 @@ http://176.65.153.66:6002/play/a00z/index.m3u8
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 group-title="ulusal",Show TV
 https://raw.githubusercontent.com/axxerg/PStream/refs/heads/main/streams/showtv.m3u
-#EXTINF:-1 group-title="ulusal",showtv
 #EXTINF:-1 group-title="ulusal",Show TV
 http://176.65.153.40:6002/play/a01a/index.m3u8
 #EXTINF:-1 group-title="ulusal",Show TV
@@ -27,10 +26,10 @@ https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
 http://176.65.153.66:6001/play/a01u/index.m3u8
 #EXTINF:-1 group-title="ulusal",Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
-#EXTINF:-1 group-title="ulusal",atvhd
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 group-title="ulusal",atvsd
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 group-title="ulusal",atvhd
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 group-title="ulusal",atvhd
 http://176.65.153.66:6001/play/a01r/index.m3u8
 #EXTINF:-1 group-title="ulusal",atvhd
@@ -301,12 +300,8 @@ https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerc
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="7/24flm",TELEON
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/playlist.m3u8
-#EXTINF:-1 group-title="7/24flm",Teleon 
-https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
 #EXTINF:-1 group-title="7/24flm",SiRiUS
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
-#EXTINF:-1 group-title="7/24flm",SiRiUS
-https://raw.githubusercontent.com/sahind01/kubra/refs/heads/main/streams/siriustv.m3u8
 #EXTINF:-1 group-title="7/24flm",BASKATV
 https://raw.githubusercontent.com/sahind01/kubra/refs/heads/main/streams/baskatv-kick.m3u8
 #EXTINF:-1 group-title="7/24flm",STV
@@ -321,8 +316,6 @@ https://i41.ozelip.com:3269/hybrid/play.m3u8?checkedby:MyWay
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
 #EXTINF:-1 group-title="7/24flm",Yansima hd
 http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
-#EXTINF:-1 group-title="7/24flm",Max Yerli
-http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
 #EXTINF:-1 group-title="7/24flm",Max Premier
 http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
 #EXTINF:-1 group-title="7/24flm",Resurrection
@@ -331,22 +324,8 @@ https://raw.githubusercontent.com/seyityavuz/yavuznet/refs/heads/main/streams/re
 https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
 #EXTINF:-1 group-title="7/24flm",FIX
 https://yayin.venomlink.com/live/mystream/main_stream.m3u8
-#EXTINF:-1 group-title="7/24flm",MAX
-http://maxmedya.duckdns.org/akamaissh101/ssh101/maxtv/chunks.m3u8
-#EXTINF:-1 group-title="7/24flm",MAX Premier
-http://maxmedya.duckdns.org/akamaissh101/ssh101/maxpremier/playlist.m3u8
-#EXTINF:-1 group-title="7/24flm",MAX Yerli
-http://maxmedya.duckdns.org/akamaissh101/ssh101/maxyerli/playlist.m3u8
-#EXTINF:-1 group-title="7/24flm",Yansima Sinema
-https://stream41.radyotelekom.com.tr/stream/m3u8/79adcbd0516d923757328a7ce9d0f37f/79adcbd0516d923757328a7ce9d0f37f.m3u8
 #EXTINF:-1 group-title="7/24flm",Yansima Nostalji
 http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
-#EXTINF:-1 group-title="7/24flm",Tebertürk 1
-http://162.212.179.32/akamaissh101/ssh101/tilaf_tv/chunks.m3u8
-#EXTINF:-1 group-title="7/24flm",Tebertürk 2
-http://162.212.179.32/akamaissh101/ssh101/tilaf_tv2/chunks.m3u8
-#EXTINF:-1 group-title="7/24flm",impactv
-https://metroturk.castpin.com/hls/metroturk/1_2/index.m3u8
 #EXTINF:-1 group-title="7/24flm",AKKON TV
 https://ip.akkontv.com:3205/stream/play.m3u8
 #EXTINF:-1 group-title="7/24flm",isviçre TV
@@ -361,8 +340,6 @@ https://canli.gopsentv.com:3604/stream/play.m3u8
 http://162.212.179.32/akamaissh101/ssh101/denizradyotv/chunks.m3u8
 #EXTINF:-1 group-title="7/24flm",Tabii TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 group-title="7/24flm",Tabii TV
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
 #EXTINF:-1 group-title="7/24flm",DENiZ POSTASi
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:-1 group-title="7/24flm",TiVi6
