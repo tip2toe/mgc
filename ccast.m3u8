@@ -1,0 +1,549 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="CatcastDizi",Bizimkiler
+http://193.123.61.120:3000/kanal/NostaljiTRT_2
+#EXTINF:-1 group-title="CatcastDizi",Bizimkiler(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/bizimkiler2.m3u8
+#EXTINF:-1 group-title="CatcastDizi",Çiçek Taksi
+http://193.123.61.120:3000/kanal/NostaljiTRT_1
+#EXTINF:-1 group-title="CatcastDizi",Guldur Guldur
+http://193.123.61.120:3000/kanal/guldurguldurtv
+#EXTINF:-1 group-title="CatcastDizi",Seksenler
+http://193.123.61.120:3000/kanal/seksenlertrt
+#EXTINF:-1 group-title="CatcastDizi",Yedi Numara
+http://193.123.61.120:3000/kanal/YedinumaradizisiTRT
+#EXTINF:-1 group-title="CatcastDizi",Leyla ile Mecnun
+http://193.123.61.120:3000/kanal/leylailemecnundizisitrt
+#EXTINF:-1 group-title="CatcastDizi",Kurtlar Vadisi Pusu
+http://193.123.61.120:3000/kanal/KurtlarVadisi
+#EXTINF:-1 group-title="CatcastDizi",Kurtlar Vadisi(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kurtlarvadisi.m3u8
+#EXTINF:-1 group-title="CatcastDizi",Behzat Ç
+http://193.123.61.120:3000/kanal/Behzatc.
+#EXTINF:-1 group-title="CatcastDizi",Çukur
+http://193.123.61.120:3000/kanal/Cukur
+#EXTINF:-1 group-title="CatcastDizi",Yaprak Dökümü
+http://193.123.61.120:3000/kanal/YaprakDokumuKanalD
+#EXTINF:-1 group-title="CatcastDizi",Cennet Mahallesi(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/cennetmah2.m3u8
+#EXTINF:-1 group-title="CatcastDizi",Çocuklar Duymasın
+http://193.123.61.120:3000/kanal/CocuklarDuymasnKanalD
+#EXTINF:-1 group-title="CatcastDizi",Adanalı
+http://193.123.61.120:3000/kanal/Adanali
+#EXTINF:-1 group-title="CatcastDizi",Avrupa Yakası
+http://193.123.61.120:3000/kanal/AvrupaYakasi
+#EXTINF:-1 group-title="CatcastDizi",Avrupa Yakası(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/avrupayakasi.m3u8
+#EXTINF:-1 group-title="CatcastDizi",Selena
+http://193.123.61.120:3000/kanal/SelenaCatcastDizi
+#EXTINF:-1 group-title="CatcastDizi",Alemin Kralı
+http://193.123.61.120:3000/kanal/aleminkirali
+#EXTINF:-1 group-title="CatcastDizi",Türk Malı
+http://193.123.61.120:3000/kanal/turkmalitv
+#EXTINF:-1 group-title="CatcastDizi",Sakarya Fırat
+http://193.123.61.120:3000/kanal/sakaryafirattrt
+#EXTINF:-1 group-title="CatcastDizi",Bir Zamanlar Çukurova
+http://193.123.61.120:3000/kanal/BZC
+#EXTINF:-1 group-title="CatcastDizi",Kısmetse Olur
+http://193.123.61.120:3000/kanal/KismetseOlurKanalDOFFICIAL
+#EXTINF:-1 group-title="CatcastDizi",Mehmed: Fetihler Sultanı
+http://193.123.61.120:3000/kanal/mehmedfetihlersultani
+#EXTINF:-1 group-title="CatcastDizi",Sıfır Bir
+http://193.123.61.120:3000/kanal/SfrBir
+#EXTINF:-1 group-title="CatcastDizi",Kuruluş Osman
+http://193.123.61.120:3000/kanal/KurulusOsman
+#EXTINF:-1 group-title="CatcastDizi",Emret Komutanım
+http://193.123.61.120:3000/kanal/EmretKomutanimOfficial
+#EXTINF:-1 group-title="CatcastDizi",Kardeş Payı
+http://193.123.61.120:3000/kanal/kardespayitv
+#EXTINF:-1 group-title="CatcastDizi",Kanal D Arşiv
+http://193.123.61.120:3000/kanal/kanaldarsiv
+#EXTINF:-1 group-title="CatcastDizi",Şevkat Yerimdar
+http://193.123.61.120:3000/kanal/SevkatYerimdarCatcastDizisi
+#EXTINF:-1 group-title="CatcastDizi",Yeşil Deniz
+http://193.123.61.120:3000/kanal/yesildeniztrt1
+#EXTINF:-1 group-title="CatcastDizi",Aşk-ı Memnu
+http://193.123.61.120:3000/kanal/AskMemnuKanalD
+#EXTINF:-1 group-title="CatcastDizi",Zengin Kız Fakir Oğlan
+http://193.123.61.120:3000/kanal/zenginkizfakiroglantrt
+#EXTINF:-1 group-title="CatcastDizi",Diriliş Ertuğrul
+http://193.123.61.120:3000/kanal/DirilisErtugrulTRT
+#EXTINF:-1 group-title="CatcastDizi",Kod Adı Kırlangıç
+http://193.123.61.120:3000/kanal/kodadikirlangic
+#EXTINF:-1 group-title="CatcastDizi",Eşref Rüya
+http://193.123.61.120:3000/kanal/EsrefRuyadizitv
+#EXTINF:-1 group-title="CatcastDizi",A.B.İ
+http://193.123.61.120:3000/kanal/Abidiziatv
+#EXTINF:-1 group-title="CatcastDizi",Muhteşem Yüzyıl
+http://193.123.61.120:3000/kanal/muhtesemyuzyilofficial
+#EXTINF:-1 group-title="CatcastDizi",Altı Üstü İstanbul
+http://193.123.61.120:3000/kanal/AltıÜstüİstanbul_2
+#EXTINF:-1 group-title="CatcastDizi",Aşk Yeniden
+http://193.123.61.120:3000/kanal/AskYenıdenCatcastDizi
+#EXTINF:-1 group-title="CatcastDizi",Kiraz Mevsimi
+http://193.123.61.120:3000/kanal/KirazMevsimiCatcastDizi
+#EXTINF:-1 group-title="CatcastDizi",İstanbullu Gelin
+http://193.123.61.120:3000/kanal/istanbullugelindizi
+#EXTINF:-1 group-title="CatcastDizi",Çilek Kokusu
+http://193.123.61.120:3000/kanal/CilekKokusuCatcastDizi
+#EXTINF:-1 group-title="CatcastDizi",Her Yerde Sen
+http://193.123.61.120:3000/kanal/HerYerdeSen
+#EXTINF:-1 group-title="CatcastDizi",Bay Yanlış
+http://193.123.61.120:3000/kanal/BayYanlisCatcastDizi
+#EXTINF:-1 group-title="CatcastDizi",İnadına Aşk
+http://193.123.61.120:3000/kanal/InadnaAsk
+#EXTINF:-1 group-title="CatcastDizi",O Hayat Benim
+http://193.123.61.120:3000/kanal/OHayatBenim
+#EXTINF:-1 group-title="CatcastDizi",Güzel Köylü
+http://193.123.61.120:3000/kanal/guzelkoyludizi
+#EXTINF:-1 group-title="CatcastDizi",Kızıl Goncalar
+http://193.123.61.120:3000/kanal/KizilGoncalarCatcastDizisi
+#EXTINF:-1 group-title="CatcastDizi",Ezel
+http://193.123.61.120:3000/kanal/ezel
+#EXTINF:-1 group-title="CatcastDizi",Tozluyaka
+http://193.123.61.120:3000/kanal/Tozluyaka
+#EXTINF:-1 group-title="CatcastDizi",KARDEŞLERİM
+http://193.123.61.120:3000/kanal/KARDEŞLERİM
+#EXTINF:-1 group-title="CatcastDizi",Taşacak Bu Deniz
+http://193.123.61.120:3000/kanal/tasacakbudeniztrt
+#EXTINF:-1 group-title="CatcastDizi",Söz
+http://193.123.61.120:3000/kanal/sözdizitv
+#EXTINF:-1 group-title="CatcastDizi",Savaşçı
+http://193.123.61.120:3000/kanal/SavasciCatcastDizi
+#EXTINF:-1 group-title="CatcastDizi",Gecenin Kraliçesi
+http://193.123.61.120:3000/kanal/GeceninKralicesiOfficial
+#EXTINF:-1 group-title="CatcastDizi",Kaderimin Yazıldığı Gün
+http://193.123.61.120:3000/kanal/KaderiminYazildigiGun
+#EXTINF:-1 group-title="CatcastDizi",Senden Daha Güzel
+http://193.123.61.120:3000/kanal/SendenDahaGüzel
+#EXTINF:-1 group-title="CatcastDizi",Sokağın Çocukları
+http://193.123.61.120:3000/kanal/SokaginCocuklariCatcastDizi
+#EXTINF:-1 group-title="CatcastDizi",Tolgshow Yıldızlar
+http://193.123.61.120:3000/kanal/25FilmTR
+#EXTINF:-1 group-title="CatcastDizi",Yüksek Sosyete
+http://193.123.61.120:3000/kanal/YuksekSosyete
+#EXTINF:-1 group-title="catcastBelgesel",BizimEv TV
+http://193.123.61.120:3000/kanal/bizimevtv2000
+#EXTINF:-1 group-title="catcastBelgesel",TGRT catcastBelgesel
+http://193.123.61.120:3000/kanal/tgrtbelgeseltv
+#EXTINF:-1 group-title="catcastBelgesel",Toprak TV
+http://193.123.61.120:3000/kanal/topraktvtarim.official
+#EXTINF:-1 group-title="catcastBelgesel",Dmax Ed Stafford(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/ed-stafford.m3u8
+#EXTINF:-1 group-title="catcastBelgesel",Tarihin Arka Odası
+http://193.123.61.120:3000/kanal/tarihinarkaodasitv
+#EXTINF:-1 group-title="catcastBelgesel",Nh?t - My Bushcraft
+http://193.123.61.120:3000/kanal/MyBushcraft156
+#EXTINF:-1 group-title="catcastBelgesel",Dunya Turu
+http://193.123.61.120:3000/kanal/gezdolaskesfet_1
+#EXTINF:-1 group-title="catcastBelgesel",Avrupa Turu
+http://193.123.61.120:3000/kanal/gezdolaskesfet_2
+#EXTINF:-1 group-title="catcastBelgesel",Turkiye Turu
+http://193.123.61.120:3000/kanal/gezdolaskesfet_3
+#EXTINF:-1 group-title="catcastBelgesel",National Geographic
+http://193.123.61.120:3000/kanal/NatGeo_1
+#EXTINF:-1 group-title="catcastBelgesel",National Geographic-2
+http://193.123.61.120:3000/kanal/NatGeo_2
+#EXTINF:-1 group-title="catcastBelgesel",National Geographic Animals 1
+http://193.123.61.120:3000/kanal/NatGeoAnimals_1
+#EXTINF:-1 group-title="catcastBelgesel",National Geographic Animals 2
+http://193.123.61.120:3000/kanal/NatGeoAnimals_2
+#EXTINF:-1 group-title="catcastBelgesel",National Geographic Kids-1
+http://193.123.61.120:3000/kanal/natgeokids_1
+#EXTINF:-1 group-title="catcastBelgesel",National Geographic Kids-1
+http://193.123.61.120:3000/kanal/natgeokids_2
+#EXTINF:-1 group-title="catcastBelgesel",Discovery Channel-1
+http://193.123.61.120:3000/kanal/discovery_1
+#EXTINF:-1 group-title="catcastBelgesel",BBC Timestamp
+http://193.123.61.120:3000/kanal/BBCTimestamp
+#EXTINF:-1 group-title="catcastBelgesel",Earth TV
+http://193.123.61.120:3000/kanal/earthTV_2
+#EXTINF:-1 group-title="catcastBelgesel",Criminals And Crime Fighters
+http://193.123.61.120:3000/kanal/criminalsandcrimefighters
+#EXTINF:-1 group-title="catcastBelgesel",Ultimate Nature Documentaries-1
+http://193.123.61.120:3000/kanal/UltimateNatureDocs_1
+#EXTINF:-1 group-title="catcastBelgesel",Ultimate Nature Documentaries-2
+http://193.123.61.120:3000/kanal/UltimateNatureDocs_2
+#EXTINF:-1 group-title="catcastBelgesel",Dream Trips-1
+http://193.123.61.120:3000/kanal/DreamTripspk_1
+#EXTINF:-1 group-title="catcastBelgesel",Dream Trips-2
+http://193.123.61.120:3000/kanal/DreamTripspk_2
+#EXTINF:-1 group-title="catcastBelgesel",Dream Trips-3
+http://193.123.61.120:3000/kanal/DreamTripspk_3
+#EXTINF:-1 group-title="catcastBelgesel",The Island with Bear Grylls
+http://193.123.61.120:3000/kanal/TheIslandwithBearGrylls
+#EXTINF:-1 group-title="catcastBelgesel",NatureTime Türkçe
+http://45.88.139.156/yt1/naturtime.m3u8
+#EXTINF:-1 group-title="catcastBelgesel",NatureTime Türkçe-2
+http://45.88.139.156/yt1/naturtime2.m3u8
+#EXTINF:-1 group-title="catcastHaber",SZC TV
+http://193.123.61.120:3000/kanal/Sozcutelevizyonu_2
+#EXTINF:-1 group-title="catcastHaber",CNN TURK
+http://193.123.61.120:3000/kanal/cnnturk_3
+#EXTINF:-1 group-title="catcastHaber",NTV
+http://193.123.61.120:3000/kanal/NTV
+#EXTINF:-1 group-title="catcastHaber",acatcastHaber
+http://193.123.61.120:3000/kanal/Ahaber_2
+#EXTINF:-1 group-title="catcastHaber",Lider catcastHaber
+http://193.123.61.120:3000/kanal/liderhabertv
+#EXTINF:-1 group-title="catcastHaber",catcastHaberTurk TV
+http://193.123.61.120:3000/kanal/haberturktv_3
+#EXTINF:-1 group-title="catcastHaber",24 TV
+http://193.123.61.120:3000/kanal/YirmidortTV_1
+#EXTINF:-1 group-title="catcastHaber",TV100
+http://193.123.61.120:3000/kanal/tv100_2
+#EXTINF:-1 group-title="catcastHaber",a Para
+http://193.123.61.120:3000/kanal/apara
+#EXTINF:-1 group-title="catcastHaber",Cnbc-e
+http://193.123.61.120:3000/kanal/cnbce
+#EXTINF:-1 group-title="catcastHaber",TVNet
+http://193.123.61.120:3000/kanal/TVNET
+#EXTINF:-1 group-title="catcastHaber",TRT catcastHaber
+http://193.123.61.120:3000/kanal/trthaber
+#EXTINF:-1 group-title="catcastHaber",Tgrt catcastHaber
+http://193.123.61.120:3000/kanal/tgrthaber
+#EXTINF:-1 group-title="catcastHaber",Bloomberg HT
+http://193.123.61.120:3000/kanal/bloomberght
+#EXTINF:-1 group-title="catcastHaber",BenguTurk TV
+http://193.123.61.120:3000/kanal/tvbenguturk
+#EXTINF:-1 group-title="catcastHaber",FlashcatcastHaber TV
+http://193.123.61.120:3000/kanal/FlashcatcastHaberTV
+#EXTINF:-1 group-title="catcastHaber",Medya catcastHaber TV
+http://193.123.61.120:3000/kanal/medyahaber7
+#EXTINF:-1 group-title="catcastHaber",Akit TV
+http://193.123.61.120:3000/kanal/akittv
+#EXTINF:-1 group-title="catcastHaber",MK HABER TV
+http://193.123.61.120:3000/kanal/mkhabertv
+#EXTINF:-1 group-title="catcastHaber",Tele3 catcastHaber
+http://193.123.61.120:3000/kanal/tele3_haber
+#EXTINF:-1 group-title="catcastHaber",Onlar TV
+http://193.123.61.120:3000/kanal/OnlarTV
+#EXTINF:-1 group-title="catcastSinema",Başka TV(Kick.tv)
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/baska_tv.m3u8
+#EXTINF:-1 group-title="catcastSinema",Efsane TV(Kick.tv)
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/efsanetv.m3u8
+#EXTINF:-1 group-title="catcastSinema",Serhat TV(Twitch.tv)
+https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/serhat_tv.m3u8
+#EXTINF:-1 group-title="catcastSinema",Hababam Sınıfı(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/hababam.m3u8
+#EXTINF:-1 group-title="catcastSinema",Jackie Chan(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/jackiechan1.m3u8
+#EXTINF:-1 group-title="catcastSinema",Jason Statham(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/jasonstatham.m3u8
+#EXTINF:-1 group-title="catcastSinema",Kemal Sunal TV-1(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kemalsunal.m3u8
+#EXTINF:-1 group-title="catcastSinema",Kemal Sunal TV-2(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kemalsunal2.m3u8
+#EXTINF:-1 group-title="catcastSinema",Kemal Sunal TV-3(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kemalsunal3.m3u8
+#EXTINF:-1 group-title="catcastSinema",Kemal Sunal TV-4(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/ksunal.m3u8
+#EXTINF:-1 group-title="catcastSinema",KralTeber TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/kralturkteber.m3u8
+#EXTINF:-1 group-title="catcastSinema",PlayerFilm TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/playerfilm.m3u8
+#EXTINF:-1 group-title="catcastSinema",Rambo TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/rambo.m3u8
+#EXTINF:-1 group-title="catcastSinema",Rocky TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/rocky.m3u8
+#EXTINF:-1 group-title="catcastSinema",Şener Şen Filmleri TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/senersen.m3u8
+#EXTINF:-1 group-title="catcastSinema",TurkuzPlay TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/turkuzplay1.m3u8
+#EXTINF:-1 group-title="catcastSinema",Sirius HD TV(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/siriushd.m3u8
+#EXTINF:-1 group-title="catcastSinema",Gulsah Film
+http://193.123.61.120:3000/kanal/GulsahFilmOfficial
+#EXTINF:-1 group-title="catcastSinema",Kemal Sunal Filmleri ve Sahneleri
+http://193.123.61.120:3000/kanal/KemalSunalFilmleriveSahneleri
+#EXTINF:-1 group-title="catcastSinema",Film Atölyesi
+http://193.123.61.120:3000/kanal/FilmAtolyesi
+#EXTINF:-1 group-title="catcastSinema",Arzu Film
+http://193.123.61.120:3000/kanal/arzufilm1964
+#EXTINF:-1 group-title="catcastSinema",Turk Filmleri TV
+http://193.123.61.120:3000/kanal/TurkFilmleri-TV
+#EXTINF:-1 group-title="catcastSinema",Ersoy Film
+http://193.123.61.120:3000/kanal/ErsoyFilmcilik
+#EXTINF:-1 group-title="catcastSinema",Taff Film
+http://193.123.61.120:3000/kanal/Taff-Pictures
+#EXTINF:-1 group-title="catcastSinema",Aksiyon Filmleri
+http://193.123.61.120:3000/kanal/TurkAksiyonFilmleri
+#EXTINF:-1 group-title="catcastSinema",Topkapı Film
+http://193.123.61.120:3000/kanal/TopkapiFilmOfficial
+#EXTINF:-1 group-title="catcastDinlenme",Somine Tv-1
+http://193.123.61.120:3000/kanal/FobosPlanet_1
+#EXTINF:-1 group-title="catcastDinlenme",Somine Tv-2
+http://193.123.61.120:3000/kanal/FobosPlanet_2
+#EXTINF:-1 group-title="catcastDinlenme",Somine Tv-3
+http://193.123.61.120:3000/kanal/FobosPlanet_3
+#EXTINF:-1 group-title="catcastDinlenme",Somine Tv-4
+http://193.123.61.120:3000/kanal/FobosPlanet_4
+#EXTINF:-1 group-title="catcastDinlenme",Somine Tv-5
+http://193.123.61.120:3000/kanal/FobosPlanet_5
+#EXTINF:-1 group-title="catcastDinlenme",Somine Tv-6
+http://193.123.61.120:3000/kanal/FobosPlanet_6
+#EXTINF:-1 group-title="catcastDinlenme",Somine Tv-7
+http://193.123.61.120:3000/kanal/FobosPlanet_7
+#EXTINF:-1 group-title="catcastDinlenme",Somine Tv-8
+http://193.123.61.120:3000/kanal/FobosPlanet_8
+#EXTINF:-1 group-title="catcastDinlenme",Fireplace-1
+http://193.123.61.120:3000/kanal/Fireplace4K_1
+#EXTINF:-1 group-title="catcastDinlenme",Fireplace-2
+http://193.123.61.120:3000/kanal/Fireplace4K_2
+#EXTINF:-1 group-title="catcastDinlenme",Fireplace-3
+http://193.123.61.120:3000/kanal/Fireplace4K_3
+#EXTINF:-1 group-title="catcastDinlenme",Fireplace-4
+http://193.123.61.120:3000/kanal/Fireplace4K_4
+#EXTINF:-1 group-title="catcastDinlenme",Fireplace-5
+http://193.123.61.120:3000/kanal/Fireplace4K_5
+#EXTINF:-1 group-title="catcastDinlenme",Fireplace-6
+http://193.123.61.120:3000/kanal/Fireplace4K_6
+#EXTINF:-1 group-title="catcastDinlenme",Fireplace-7
+http://193.123.61.120:3000/kanal/Fireplace4K_7
+#EXTINF:-1 group-title="catcastDinlenme",Fireplace-8
+http://193.123.61.120:3000/kanal/Fireplace4K_8
+#EXTINF:-1 group-title="catcastDinlenme",Relaxing Music-Ocean Waves
+http://193.123.61.120:3000/kanal/YellowBrickCinema_1
+#EXTINF:-1 group-title="catcastDinlenme",Relaxing Music-Insomnia Relief
+http://193.123.61.120:3000/kanal/YellowBrickCinema_2
+#EXTINF:-1 group-title="catcastDinlenme",Relaxing Music-Sleep Meditation
+http://193.123.61.120:3000/kanal/YellowBrickCinema_3
+#EXTINF:-1 group-title="catcastDinlenme",Relaxing Music-Drift Off Into Sleep
+http://193.123.61.120:3000/kanal/YellowBrickCinema_4
+#EXTINF:-1 group-title="catcastDinlenme",Relaxing Music-Calming Music
+http://193.123.61.120:3000/kanal/YellowBrickCinema_5
+#EXTINF:-1 group-title="catcastDinlenme",Relaxing Music-Nature Sounds
+http://193.123.61.120:3000/kanal/YellowBrickCinema_6
+#EXTINF:-1 group-title="catcastDinlenme",Relaxing Music-Deep Sleep Music
+http://193.123.61.120:3000/kanal/YellowBrickCinema_7
+#EXTINF:-1 group-title="catcastDinlenme",Relaxing Music-Stress Relief Music
+http://193.123.61.120:3000/kanal/YellowBrickCinema_8
+#EXTINF:-1 group-title="catcastDinlenme",Beautiful Spring Forest
+http://193.123.61.120:3000/kanal/MiParaisoVision_1
+#EXTINF:-1 group-title="catcastDinlenme",Babbling River with Lovely Nightingale Birdsong
+http://193.123.61.120:3000/kanal/MiParaisoVision_2
+#EXTINF:-1 group-title="catcastDinlenme",Amazing place to relax
+http://193.123.61.120:3000/kanal/MiParaisoVision_3
+#EXTINF:-1 group-title="catcastDinlenme",Beautiful Melodies of Birds
+http://193.123.61.120:3000/kanal/ForestSoundsUHD_1
+#EXTINF:-1 group-title="catcastDinlenme",Calm Woodland Stream with Beautiful Birdsong
+http://193.123.61.120:3000/kanal/ForestSoundsUHD_2
+#EXTINF:-1 group-title="catcastDinlenme",Explore Bears-1
+http://193.123.61.120:3000/kanal/explorebears_1
+#EXTINF:-1 group-title="catcastDinlenme",Explore Bears-2
+http://193.123.61.120:3000/kanal/explorebears_2
+#EXTINF:-1 group-title="catcastDinlenme",Explore Bears-3
+http://193.123.61.120:3000/kanal/explorebears_3
+#EXTINF:-1 group-title="catcastDinlenme",Explore Bears-4
+http://193.123.61.120:3000/kanal/explorebears_4
+#EXTINF:-1 group-title="catcastDinlenme",Explore Bears-5
+http://193.123.61.120:3000/kanal/explorebears_5
+#EXTINF:-1 group-title="catcastDinlenme",Explore Bears-6
+http://193.123.61.120:3000/kanal/explorebears_6
+#EXTINF:-1 group-title="catcastDinlenme",Rhythm Emotion-1
+http://193.123.61.120:3000/kanal/RhythmEmotion68_1
+#EXTINF:-1 group-title="catcastDinlenme",Rhythm Emotion-2
+http://193.123.61.120:3000/kanal/RhythmEmotion68_2
+#EXTINF:-1 group-title="catcastDinlenme",Rhythm Emotion-3
+http://193.123.61.120:3000/kanal/RhythmEmotion68_3
+#EXTINF:-1 group-title="catcastDinlenme",Rhythm Emotion-4
+http://193.123.61.120:3000/kanal/RhythmEmotion68_4
+#EXTINF:-1 group-title="catcastDinlenme",Rhythm Emotion-5
+http://193.123.61.120:3000/kanal/RhythmEmotion68_5
+#EXTINF:-1 group-title="catcastDinlenme",Rhythm Emotion-6
+http://193.123.61.120:3000/kanal/RhythmEmotion68_6
+#EXTINF:-1 group-title="catcastDinlenme",Rhythm Emotion-7
+http://193.123.61.120:3000/kanal/RhythmEmotion68_7
+#EXTINF:-1 group-title="catcastDinlenme",Rhythm Emotion-8
+http://193.123.61.120:3000/kanal/RhythmEmotion68_8
+#EXTINF:-1 group-title="catcastDinlenme",Scenic Relaxation-1
+http://193.123.61.120:3000/kanal/12KScenicRelaxation_1
+#EXTINF:-1 group-title="catcastDinlenme",Scenic Relaxation-2
+http://193.123.61.120:3000/kanal/12KScenicRelaxation_2
+#EXTINF:-1 group-title="catcastDinlenme",Scenic Relaxation-3
+http://193.123.61.120:3000/kanal/12KScenicRelaxation_3
+#EXTINF:-1 group-title="catcastDinlenme",Scenic Relaxation-4
+http://193.123.61.120:3000/kanal/12KScenicRelaxation_4
+#EXTINF:-1 group-title="catcastDinlenme",Scenic Relaxation-5
+http://193.123.61.120:3000/kanal/12KScenicRelaxation_5
+#EXTINF:-1 group-title="catcastDinlenme",Scenic Relaxation-6
+http://193.123.61.120:3000/kanal/12KScenicRelaxation_6
+#EXTINF:-1 group-title="catcastDinlenme",Scenic Relaxation-7
+http://193.123.61.120:3000/kanal/12KScenicRelaxation_7
+#EXTINF:-1 group-title="catcastDinlenme",Scenic Relaxation-8
+http://193.123.61.120:3000/kanal/12KScenicRelaxation_8
+#EXTINF:-1 group-title="catcastDinlenme",8K TUBE Planet-1
+http://193.123.61.120:3000/kanal/8KTUBEPlanet_1
+#EXTINF:-1 group-title="catcastDinlenme",Nature SFX
+http://193.123.61.120:3000/kanal/THR_SamFeldt
+#EXTINF:-1 group-title="catcastDinlenme",Storm Power-1
+http://193.123.61.120:3000/kanal/stormpower4617_1
+#EXTINF:-1 group-title="catcastDinlenme",Storm Power-2
+http://193.123.61.120:3000/kanal/stormpower4617_2
+#EXTINF:-1 group-title="catcastDinlenme",Storm Power-3
+http://193.123.61.120:3000/kanal/stormpower4617_3
+#EXTINF:-1 group-title="catcastDinlenme",Storm Power-4
+http://193.123.61.120:3000/kanal/stormpower4617_4
+#EXTINF:-1 group-title="catcastDinlenme",Storm Power-5
+http://193.123.61.120:3000/kanal/stormpower4617_5
+#EXTINF:-1 group-title="catcastDinlenme",Enjoy Relaxation-1
+http://193.123.61.120:3000/kanal/EnjoyRelaxation-jz7gi_1
+#EXTINF:-1 group-title="catcastDinlenme",Enjoy Relaxation-2
+http://193.123.61.120:3000/kanal/EnjoyRelaxation-jz7gi_2
+#EXTINF:-1 group-title="catcastDinlenme",Beautiful Place to Relax
+http://193.123.61.120:3000/kanal/MotherNatureMelodies
+#EXTINF:-1 group-title="catcastSpor",beIN SPORTS HABER
+http://193.123.61.120:3000/kanal/beINSPORTSTurkiye
+#EXTINF:-1 group-title="catcastSpor",A catcastSpor
+http://193.123.61.120:3000/kanal/AcatcastSpor
+#EXTINF:-1 group-title="catcastSpor",HT catcastSpor
+http://193.123.61.120:3000/kanal/htspor
+#EXTINF:-1 group-title="catcastSpor",Yağız Sabuncuoğlu
+http://193.123.61.120:3000/kanal/yagosabuncuoglu
+#EXTINF:-1 group-title="catcastSpor",catcastSports Digitale
+http://193.123.61.120:3000/kanal/catcastSportsDigitale
+#EXTINF:-1 group-title="catcastSpor",Fenerbahçe TV
+http://193.123.61.120:3000/kanal/fenerbahce
+#EXTINF:-1 group-title="catcastSpor",Sıfır TV
+http://193.123.61.120:3000/kanal/sifirtv
+#EXTINF:-1 group-title="catcastmini",Cartoon Network Turkiye-TEEN TITANS GO EFSANESİ
+http://193.123.61.120:3000/kanal/cartoonnetworkturkiye_1
+#EXTINF:-1 group-title="catcastmini",Cartoon Network Turkiye-Kayıp Kasetler
+http://193.123.61.120:3000/kanal/cartoonnetworkturkiye_2
+#EXTINF:-1 group-title="catcastmini",Cartoon Network Turkiye-KRAL ŞAKİR
+http://193.123.61.120:3000/kanal/cartoonnetworkturkiye_3
+#EXTINF:-1 group-title="catcastmini",Gumball TV
+http://193.123.61.120:3000/kanal/MuhtesemGumballDunyasi
+#EXTINF:-1 group-title="catcastmini",Kukuli TV-1
+http://193.123.61.120:3000/kanal/Kukuli_1
+#EXTINF:-1 group-title="catcastmini",Kukuli TV-2
+http://193.123.61.120:3000/kanal/Kukuli_2
+#EXTINF:-1 group-title="catcastmini",Kral Şakir
+http://193.123.61.120:3000/kanal/KralSakirResmi
+#EXTINF:-1 group-title="catcastmini",Konuşan Tom
+http://193.123.61.120:3000/kanal/TalkingFriendsTR
+#EXTINF:-1 group-title="catcastmini",Kids TV
+http://193.123.61.120:3000/kanal/Kidstvturke
+#EXTINF:-1 group-title="catcastmini",Diyanet Çocuk TV
+http://193.123.61.120:3000/kanal/DiyanetCocuk
+#EXTINF:-1 group-title="catcastmini",Boomerang UK-1
+http://193.123.61.120:3000/kanal/BoomerangUK_1
+#EXTINF:-1 group-title="catcastmini",Boomerang UK-2
+http://193.123.61.120:3000/kanal/BoomerangUK_2
+#EXTINF:-1 group-title="catcastmini",Boomerang UK-3
+http://193.123.61.120:3000/kanal/BoomerangUK_3
+#EXTINF:-1 group-title="catcastmini",Boomerang UK-4
+http://193.123.61.120:3000/kanal/BoomerangUK_4
+#EXTINF:-1 group-title="catcastmini",Küçük Kamyon Leo-1
+http://193.123.61.120:3000/kanal/KüçükKamyonLeo_1
+#EXTINF:-1 group-title="catcastmini",Küçük Kamyon Leo-2
+http://193.123.61.120:3000/kanal/KüçükKamyonLeo_2
+#EXTINF:-1 group-title="catcastmini",Küçük Kamyon Leo-3
+http://193.123.61.120:3000/kanal/KüçükKamyonLeo_3
+#EXTINF:-1 group-title="catcastmini",Küçük Kamyon Leo-4
+http://193.123.61.120:3000/kanal/KüçükKamyonLeo_4
+#EXTINF:-1 group-title="catcastmini",Küçük Kamyon Leo-5
+http://193.123.61.120:3000/kanal/KüçükKamyonLeo_5
+#EXTINF:-1 group-title="catcastmini",Küçük Kamyon Leo-6
+http://193.123.61.120:3000/kanal/KüçükKamyonLeo_6
+#EXTINF:-1 group-title="catcastmini",İstanbul Muhafızları
+http://193.123.61.120:3000/kanal/IstanbulMuhafzlarResmiKanal
+#EXTINF:-1 group-title="catcastmini",Cailliou(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/cailliou.m3u8
+#EXTINF:-1 group-title="catcastmini",Sevimliler(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/sevimliler.m3u8
+#EXTINF:-1 group-title="catcastmini",Tom ve Jerry(Catcast)
+https://raw.githubusercontent.com/k33n26/stream/refs/heads/main/catcast/tomjerry.m3u8
+#EXTINF:-1 group-title="catcastmini",Sealook
+http://193.123.61.120:3000/kanal/sealookofficial
+#EXTINF:-1 group-title="catcastUlusal",Star Tv
+http://193.123.61.120:3000/kanal/StarTVResmi
+#EXTINF:-1 group-title="catcastUlusal",Show TV
+http://193.123.61.120:3000/kanal/showtv_2
+#EXTINF:-1 group-title="catcastUlusal",Show Turk
+http://193.123.61.120:3000/kanal/showtv_1
+#EXTINF:-1 group-title="catcastUlusal",Show Max
+http://193.123.61.120:3000/kanal/showtv_3
+#EXTINF:-1 group-title="catcastUlusal",a2 TV
+http://193.123.61.120:3000/kanal/a2tv
+#EXTINF:-1 group-title="catcastUlusal",TV2
+http://193.123.61.120:3000/kanal/tv2Resmi
+#EXTINF:-1 group-title="catcastUlusal",TRT Avaz
+http://193.123.61.120:3000/kanal/TRTAvaz
+#EXTINF:-1 group-title="catcastmuzik",Kral Akustik TV
+http://193.123.61.120:3000/kanal/kralmuzik_1
+#EXTINF:-1 group-title="catcastYabancı",Euro News
+http://193.123.61.120:3000/kanal/euronews
+#EXTINF:-1 group-title="catcastYabancı",Sky News
+http://193.123.61.120:3000/kanal/SkyNews
+#EXTINF:-1 group-title="catcastYabancı",DW News
+http://193.123.61.120:3000/kanal/dwnews
+#EXTINF:-1 group-title="catcastYabancı",Al Jazeera English
+http://193.123.61.120:3000/kanal/aljazeeraenglish
+#EXTINF:-1 group-title="catcastYabancı",ABC NEWS Australia
+http://193.123.61.120:3000/kanal/abcnewsaustralia
+#EXTINF:-1 group-title="catcastYabancı",ABC NEWS USA
+http://193.123.61.120:3000/kanal/ABCNews_2
+#EXTINF:-1 group-title="catcastYabancı",Bloomberg Television
+http://193.123.61.120:3000/kanal/markets
+#EXTINF:-1 group-title="catcastYabancı",CCTV4-1
+http://193.123.61.120:3000/kanal/LiveNow24H_2
+#EXTINF:-1 group-title="catcastYabancı",CCTV4-2
+http://193.123.61.120:3000/kanal/LiveNow24H_1
+#EXTINF:-1 group-title="catcastYabancı",GlobalNewsTV-1
+http://193.123.61.120:3000/kanal/globalnewstw_3
+#EXTINF:-1 group-title="catcastYabancı",GlobalNewsTV-2
+http://193.123.61.120:3000/kanal/globalnewstw_1
+#EXTINF:-1 group-title="catcastYabancı",TaiwanNewsTV
+http://193.123.61.120:3000/kanal/globalnewstw_2
+#EXTINF:-1 group-title="catcastYabancı",LiveNOW FOX 24/7
+http://193.123.61.120:3000/kanal/livenowfox_2
+#EXTINF:-1 group-title="catcastYabancı",NTV Kenya
+http://193.123.61.120:3000/kanal/ntvkenyaonline
+#EXTINF:-1 group-title="catcastYabancı",CNN Indonesia
+http://193.123.61.120:3000/kanal/CNNIDOFFICIAL
+#EXTINF:-1 group-title="catcastYabancı",Citizen TV Kenya
+http://193.123.61.120:3000/kanal/kenyacitizentv
+#EXTINF:-1 group-title="catcastYabancı",BBC News Arabic
+http://193.123.61.120:3000/kanal/bbcnewsarabic
+#EXTINF:-1 group-title="catcastYabancı",CNA
+http://193.123.61.120:3000/kanal/channelnewsasia
+#EXTINF:-1 group-title="catcastYabancı",cbc News
+http://193.123.61.120:3000/kanal/CBCNews
+#EXTINF:-1 group-title="catcastYabancı",CNBC
+http://193.123.61.120:3000/kanal/CNBC
+#EXTINF:-1 group-title="catcastYabancı",Syria TV
+http://193.123.61.120:3000/kanal/SyriaTelevision
+#EXTINF:-1 group-title="catcastYabancı",Saudi News TV
+http://193.123.61.120:3000/kanal/SaudiNewsTV
+#EXTINF:-1 group-title="catcastYabancı",Arirang TV
+http://193.123.61.120:3000/kanal/KOREAarirangTV
+#EXTINF:-1 group-title="catcastYabancı",FOX Weather
+http://193.123.61.120:3000/kanal/Foxweather
+#EXTINF:-1 group-title="catcastYabancı",WeatherNation
+http://193.123.61.120:3000/kanal/weathernation
+#EXTINF:-1 group-title="catcastYabancı",NHK WORLD-JAPAN
+http://193.123.61.120:3000/kanal/NHKWORLDJAPAN
+#EXTINF:-1 group-title="catcastYabancı",Madinah Live TV
+http://193.123.61.120:3000/kanal/NaimatIslamic_2
+#EXTINF:-1 group-title="catcastYabancı",Makkah Live TV
+http://193.123.61.120:3000/kanal/NaimatIslamic_1
+#EXTINF:-1 group-title="catcastYabancı",NagoyaTV News
+http://193.123.61.120:3000/kanal/NagoyaTVnewsCH_2
+#EXTINF:-1 group-title="catcastYabancı",HomeTV News
+http://193.123.61.120:3000/kanal/home-news_4
+#EXTINF:-1 group-title="catcastYabancı",TNC News
+http://193.123.61.120:3000/kanal/fukuokatncnews_3
+#EXTINF:-1 group-title="catcastYabancı",KBC News
+http://193.123.61.120:3000/kanal/KBCnewsCH_2
+#EXTINF:-1 group-title="catcastYabancı",ABC7
+http://193.123.61.120:3000/kanal/ABC7
+#EXTINF:-1 group-title="catcastYabancı",Bloomberg News
+http://193.123.61.120:3000/kanal/Bloomberg-News
+#EXTINF:-1 group-title="catcastYerel",ABB TV
+http://193.123.61.120:3000/kanal/ankarabbld
+#EXTINF:-1 group-title="catcastYerel",Nil RTV
+http://193.123.61.120:3000/kanal/Nilradyotv
+#EXTINF:-1 group-title="catcastYerel",EgeMax
+http://193.123.61.120:3000/kanal/egemaxtv
+#EXTINF:-1 group-title="catcastYerel",Cankiri Postasi
+http://193.123.61.120:3000/kanal/cankiripostasi
