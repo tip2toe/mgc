@@ -56,6 +56,7 @@ https://andro.evrenesoglu151.click/checklist/androstreamlivesm1.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="MixSpor", smartsport 2-M
 #EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
 https://andro.evrenesoglu151.click/checklist/androstreamlivesm2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="panorea-spor",beIN Sports 1
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/teyzeniyerim1/b1local.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="panorea-spor",beIN Sports 2
@@ -80,6 +81,7 @@ https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/teyzeniyer
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/teyzeniyerim1/s1.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="panorea-spor",SSport 2
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/teyzeniyerim1/s2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="panorea-spor",tivibuspor1
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/teyzeniyerim1/tivibu1.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="panorea-spor",tivibuspor2
@@ -98,18 +100,97 @@ https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/teyzeniyer
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/teyzeniyerim1/tabii5.m3u8
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="panorea-spor",tabiispor6
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/teyzeniyerim1/tabii6.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="falcon-spor",beIN Sports 1
-https://raw.githubusercontent.com/sahind01/kubra/refs/heads/main/yula/ceydub1.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="falcon-spor",beIN Sports 2
-https://raw.githubusercontent.com/sahind01/kubra/refs/heads/main/yula/ceydub2.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="falcon-spor",beIN Sports 3
-https://raw.githubusercontent.com/sahind01/kubra/refs/heads/main/yula/ceydub3.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="falcon-spor",beIN Sports 4
-https://raw.githubusercontent.com/sahind01/kubra/refs/heads/main/yula/ceydub4.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="falcon-spor",SSport 1
-https://raw.githubusercontent.com/sahind01/kubra/refs/heads/main/yula/ceydus1.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="falcon-spor",SSport 2
-https://raw.githubusercontent.com/sahind01/kubra/refs/heads/main/yula/ceydus2.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD1
+https://79.76.50.223/live/iOS/SiNETECH/34779.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD1
+https://79.76.50.223/live/iOS/SiNETECH/34772.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD1
+https://79.76.50.223/live/iOS/SiNETECH/34773.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD1
+https://79.76.50.223/live/iOS/SiNETECH/34774.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD1
+https://79.76.50.223/live/iOS/SiNETECH/34775.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD1
+https://79.76.50.223/live/iOS/SiNETECH/34776.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD1
+https://79.76.50.223/live/iOS/SiNETECH/34777.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://79.76.50.223/HD1.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD1
+https://79.76.50.223/live/iOS/SiNETECH/34778.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 2.tr" tvg-logo="https://79.76.50.223/HD2.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD2
+https://79.76.50.223/live/iOS/SiNETECH/34780.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 2.tr" tvg-logo="https://79.76.50.223/HD2.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD2
+https://79.76.50.223/live/iOS/SiNETECH/34781.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 2.tr" tvg-logo="https://79.76.50.223/HD2.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD2
+https://79.76.50.223/live/iOS/SiNETECH/34782.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 2.tr" tvg-logo="https://79.76.50.223/HD2.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD2
+https://79.76.50.223/live/iOS/SiNETECH/34783.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 3.tr" tvg-logo="https://79.76.50.223/HD3.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD3
+https://79.76.50.223/live/iOS/SiNETECH/34784.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 3.tr" tvg-logo="https://79.76.50.223/HD3.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD3
+https://79.76.50.223/live/iOS/SiNETECH/34785.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 3.tr" tvg-logo="https://79.76.50.223/HD3.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD3
+https://79.76.50.223/live/iOS/SiNETECH/34786.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 4.tr" tvg-logo="https://79.76.50.223/HD4.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD4
+https://79.76.50.223/live/iOS/SiNETECH/34787.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 5.tr" tvg-logo="https://79.76.50.223/HD5.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD5
+https://79.76.50.223/live/iOS/SiNETECH/34788.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 5.tr" tvg-logo="https://79.76.50.223/HD5.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD5
+https://79.76.50.223/live/iOS/SiNETECH/34789.ts
+#EXTINF:-1 tvg-id="beIN SPORTS 5.tr" tvg-logo="https://79.76.50.223/HD5.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS HD5
+https://79.76.50.223/live/iOS/SiNETECH/34790.ts
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 1.tr" tvg-logo="https://79.76.50.223/HD1MAX.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS MAX 1
+https://79.76.50.223/live/iOS/SiNETECH/34791.ts
+#EXTINF:-1 tvg-id="beIN SPORTS MAX 2.tr" tvg-logo="https://79.76.50.223/HD2MAX.png" group-title="Sinetech SPOR" group-logo="https://79.76.50.223/Yerel.png",beIN SPORTS MAX 2
+https://79.76.50.223/live/iOS/SiNETECH/34792.ts
+
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",beIN Sports 1
+https://elif.eromaxe.com/zeynep/bein1tr
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",beIN Sports 2
+https://elif.eromaxe.com/zeynep/bein2tr
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",beIN Sports 3
+https://elif.eromaxe.com/zeynep/bein3tr,
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",beIN Sports 4
+https://elif.eromaxe.com/zeynep/bein4tr
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",beIN Sports 5
+https://elif.eromaxe.com/zeynep/bein5tr
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",beIN Sports Max1
+https://elif.eromaxe.com/zeynep/beinmax1tr
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",beIN Sports Max2
+https://elif.eromaxe.com/zeynep/beinmax2tr
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",SSpor1
+https://elif.eromaxe.com/zeynep/ssport1tr
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",SSpor2
+https://elif.eromaxe.com/zeynep/ssport2tr
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",eurosport1
+https://elif.eromaxe.com/zeynep/eruosport1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",eurosport2
+https://elif.eromaxe.com/zeynep/eruosport2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",sportsmart1
+https://elif.eromaxe.com/zeynep/sportsmart
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",sportsmart2
+https://elif.eromaxe.com/zeynep/sportsmart2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",tabiisport
+https://elif.eromaxe.com/zeynep/tabiisport
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",tabiisport1
+https://elif.eromaxe.com/zeynep/tabiisport1
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",tabiisport2
+https://elif.eromaxe.com/zeynep/tabiisport2
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",tabiisport3
+https://elif.eromaxe.com/zeynep/tabiisport3
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",tabiisport4
+https://elif.eromaxe.com/zeynep/tabiisport4
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",atv
+https://elif.eromaxe.com/zeynep/atv
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",aspor
+https://elif.eromaxe.com/zeynep/asport
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",trtspor
+https://elif.eromaxe.com/zeynep/trtsport
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",beinhaber
+https://elif.eromaxe.com/zeynep/beinhabertr
+#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="eromaxe-spor",dazn1
+https://tim-streams.com/channel/dazn-1-germany
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/tabii-spor.png" group-title="Tabii Spor",TABII SPOR
 https://kl9mr2vxw7nq5py1sh4tj3gb6.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor1" tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/tabii-spor-1.png" group-title="Tabii Spor",Tabii Spor 1
@@ -128,6 +209,7 @@ https://nw5mr1vl9xp4zk2sh7tq3gj6b.medya.trt.com.tr/master_1080p.m3u8
 https://Pz2rT7nW1mR9sH4vL6xK3gJ5b.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-name="Tabii Spor 8" tvg-language="Turkish" tvg-country="TR" tvg-id="TabiiSpor8" tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/tabii-spor-8.png" group-title="Tabii Spor",Tabii Spor 8
 https://vL9nQ2sH5tW1mR7xP4zK8gJ3k.medya.trt.com.tr/master_1080p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="Exxen", exxen-M
 #EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
 https://andro.evrenesoglu151.click/checklist/androstreamliveexn.m3u8
