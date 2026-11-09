@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Live",PRIVATE
-http://77.46.130.252:99/private
-#EXTINF:-1 group-title="Live",DORCEL
-http://77.46.130.252:99/dorcel
 #EXTINF:-1 group-title="Vod 1-998",Video 1
 https://ovhv47.twincdn.com/videos/0/1/1_720p.mp4
 #EXTINF:-1 group-title="Vod 1-998",Video 2
