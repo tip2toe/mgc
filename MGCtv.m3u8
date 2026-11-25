@@ -1,4 +1,166 @@
-﻿#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U
+#EXTINF:-1 ,Marvel_Studios1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel4.m3u8
+#EXTINF:-1 ,Marvel_Studios2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel5.m3u8
+#EXTINF:-1 ,Marvel_Studios3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel6.m3u8
+#EXTINF:-1 ,Sinema-premium-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium-1.m3u8
+#EXTINF:-1 ,Sinema-premium-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium2.m3u8
+#EXTINF:-1 ,Sinema-premium-3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium3.m3u8
+#EXTINF:-1 ,Sinema-premium-4
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium4.m3u8
+#EXTINF:-1 ,Sinema-premium-5
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium5.m3u8
+#EXTINF:-1 ,Sinema-Action-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-acsion2.m3u8
+#EXTINF:-1 ,Sinema-Action-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-action3.m3u8
+#EXTINF:-1 ,Sinema-Action-3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-action5.m3u8
+#EXTINF:-1 ,Sinema-Action-4
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-action6.m3u8
+#EXTINF:-1 ,Jason_Statham
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-jasonstatham.m3u8
+#EXTINF:-1 ,RAMBO
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-rambo.m3u8
+#EXTINF:-1 ,ROCKY
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-rocky.m3u8
+#EXTINF:-1 ,Transformers1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-transformer1.m3u8
+#EXTINF:-1 ,Transformers2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-transformer2.m3u8
+#EXTINF:-1 ,HIZLI ve OFKELI-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-forsaj1.m3u8
+#EXTINF:-1 ,HIZLI ve OFKELI-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-forsaj2.m3u8
+#EXTINF:-1 ,Cehennem_Melekleri
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinemacehennemmelekleri.m3u8
+#EXTINF:-1 ,Spider-Man
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-horumcekadam.m3u8
+#EXTINF:-1 ,BATMAN
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-batman.m3u8
+#EXTINF:-1 ,Terminator
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-terminator.m3u8
+#EXTINF:-1 ,Matrix
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-matrix.m3u8
+#EXTINF:-1 ,Maymunlar_Cehennemi
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-maymunlar.m3u8
+#EXTINF:-1 ,MOrtak Combat
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-mortalcombat.m3u8
+#EXTINF:-1 ,Ölüm Yarisi
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-olumyarisi.m3u8
+#EXTINF:-1 ,bLADE_BOX
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/bladebox.m3u8
+#EXTINF:-1 ,Universal
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-universal-esger.m3u8
+#EXTINF:-1 ,Godzilla
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-godzilla-1.m3u8
+#EXTINF:-1 ,Kontinental
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-kontinental.m3u8
+#EXTINF:-1 ,Vandamme-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-vandamme.m3u8
+#EXTINF:-1 ,Vandamme-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-vandamme2.m3u8
+#EXTINF:-1 ,stivensegal-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-stivensegal1.m3u8
+#EXTINF:-1 ,stivensegal-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-stivensegal2.m3u8
+#EXTINF:-1 ,Jackechan-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-jackechan.m3u8
+#EXTINF:-1 ,Jackechan-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-jackechan2.m3u8
+#EXTINF:-1 ,Bruce_Lee
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-bruslee.m3u8
+#EXTINF:-1 ,Brandon_LEE
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-brendonlee.m3u8
+#EXTINF:-1 ,Jet_lee
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-jetlee.m3u8
+#EXTINF:-1 ,Antonio_Banderas
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-antoniobanderas.m3u8
+#EXTINF:-1 ,John_wick
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-johnwickhd.m3u8
+#EXTINF:-1 ,Kemalsunal_1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/kemalsunal.m3u8
+#EXTINF:-1 ,Kemalsunal_2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-kemalsunal.m3u8
+#EXTINF:-1 ,Kemalsunal_3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-kemalsunal-3.m3u8
+#EXTINF:-1 ,Hababam_Sınıfı
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/hababam.m3u8
+#EXTINF:-1 ,Maxyesilcam
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxyesilcam.m3u8
+#EXTINF:-1 ,Sinema_TURK1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerfilm-turkiye.m3u8
+#EXTINF:-1 ,Sinema_TURK2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playertrk-eneren.m3u8
+#EXTINF:-1 ,Sinema_TURK3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playertest.m3u8
+#EXTINF:-1 ,Sinema_TURK4
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/turkuzplay1.m3u8
+#EXTINF:-1 ,Max_Horror
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxkorku.m3u8
+#EXTINF:-1 ,Max_Fantastic
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fantastic-dosugtv.m3u8
+#EXTINF:-1 ,Max_Action
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-boyka.m3u8
+#EXTINF:-1 ,edstafford
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeedstafford.m3u8
+#EXTINF:-1 ,deadpool
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxdeadpool.m3u8
+#EXTINF:-1 ,Alice-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice1.m3u8
+#EXTINF:-1 ,Alice-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice2.m3u8
+#EXTINF:-1 ,Alice-3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice3.m3u8
+#EXTINF:-1 ,Alien-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-yirtici.m3u8
+#EXTINF:-1 ,Alien-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-yirtici2.m3u8
+#EXTINF:-1 ,Squidgame_1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-squidgame1.m3u8
+#EXTINF:-1 ,Squidgame_2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-squidgame-2.m3u8
+#EXTINF:-1 ,Squidgame_3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-squidgame3.m3u8
+#EXTINF:-1 ,ipman
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-ipman.m3u8
+#EXTINF:-1 ,Bollywood-1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-bollywood.m3u8
+#EXTINF:-1 ,Bollywood-2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-bollywood2.m3u8
+#EXTINF:-1 ,Bollywood-3
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/by-kerimof-hind-filmleri.m3u8
+#EXTINF:-1 ,EsrefTEK
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeesreftek.m3u8
+#EXTINF:-1 ,KVadisi
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimekurtlarvadisi.m3u8
+#EXTINF:-1 ,Dag
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxdag.m3u8
+#EXTINF:-1 ,AVRPYakasi
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeavrupayakasi.m3u8
+#EXTINF:-1 ,Bizimkiler
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimebizimkiler.m3u8
+#EXTINF:-1 ,Cennet-Mahallesi1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-cennetmahallesi.m3u8
+#EXTINF:-1 ,Cennet-Mahallesi2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-cennetmahallesi2.m3u8
+#EXTINF:-1 ,ROman-Havasi
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-romanhavasi.m3u8
+#EXTINF:-1 ,Cocuk-Filmi1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/filmboxcocuk.m3u8
+#EXTINF:-1 ,Cocuk-Filmi2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-masnlar.m3u8
+#EXTINF:-1 ,Madagascar
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-madagascar.m3u8
+#EXTINF:-1 ,Kungfu-Panda1
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-panda1.m3u8
+#EXTINF:-1 ,Kungfu-Panda2
+https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-panda2.m3u8
 #EXTINF:-1 group-title="ulusal",TRT1
 https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="ulusal",TRT1
@@ -17,19 +179,12 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 https://raw.githubusercontent.com/axxerg/PStream/refs/heads/main/streams/showtv.m3u
 #EXTINF:-1 group-title="ulusal",Show TV
 http://176.65.153.40:6002/play/a01a/index.m3u8
-#EXTINF:-1 group-title="ulusal",Show TV
-http://176.65.153.66:6002/play/a00v/index.m3u8
-https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/show_tv.m3u8
 #EXTINF:-1 group-title="ulusal",Star TV
 https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
 #EXTINF:-1 group-title="ulusal",Star TV
 http://176.65.153.66:6001/play/a01u/index.m3u8
 #EXTINF:-1 group-title="ulusal",Star TV
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
-#EXTINF:-1 group-title="ulusal",atvsd
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
-#EXTINF:-1 group-title="ulusal",atvhd
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 group-title="ulusal",atvhd
 http://176.65.153.66:6001/play/a01r/index.m3u8
 #EXTINF:-1 group-title="ulusal",atvhd
@@ -40,12 +195,6 @@ http://176.65.153.40:6002/play/a01p/index.m3u8
 http://176.65.153.35:6002/play/a016/index.m3u8
 #EXTINF:-1 group-title="ulusal",Now TV
 http://176.65.153.66:6002/play/a013/index.m3u8
-#EXTINF:-1 group-title="ulusal",Now TV
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
-#EXTINF:-1 group-title="ulusal",tv8
-https://raw.githubusercontent.com/k33n26/catcast/refs/heads/main/out/best/tv8_tv.m3u8
-#EXTINF:-1 group-title="ulusal",tv8
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 group-title="ulusal",tv8
 http://176.65.153.40:6003/play/a01q/index.m3u8
 #EXTINF:-1 group-title="ulusal",tv8
@@ -80,8 +229,6 @@ http://176.65.153.66:6002/play/a011/index.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 group-title="ulusal",a2
 http://176.65.153.35:6005/play/a01w/index.m3u8
-#EXTINF:-1 group-title="ulusal",TRT 4K
-http://c3921155.edmonst.net/iptv/DVHP2VB5QXL7UC/4001/index.m3u8
 #EXTINF:-1 group-title="ulusal",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 group-title="ulusal",360 TV
@@ -106,12 +253,8 @@ http://176.65.153.40:6002/play/a01e/index.m3u8
 http://176.65.153.66:6001/play/a01v/index.m3u8
 #EXTINF:-1 group-title="ulusal",TLC HD
 http://176.65.153.49:6004/play/a003/index.m3u8
-#EXTINF:-1 group-title="ulusal",TLC HD
-https://dogus.daioncdn.net/tlc/tlc_720p.m3u8?token=NFE3dkZRZjl3MDlsdXZDaVdGbnVFQjRSb0dnSWxoNHpibDdwVld2OXlqOD0=&sid=7w7725h04ycx&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&ce=3
 #EXTINF:-1 group-title="ulusal",DMAX HD
 http://176.65.153.49:6004/play/a004/index.m3u8
-#EXTINF:-1 group-title="ulusal",DMAX HD
-https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=T0NrdVo2UzQ2YldmOFE4MTdwRXFzeVVuVVkvQzQ5VmxXYlJ5dHpvejUrUT0=&sid=7w778q1fncze&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
 #EXTINF:-1 group-title="ulusal",TRT-2
 https://tv-trt2.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 group-title="ulusal",eurostar
@@ -134,168 +277,6 @@ http://176.65.153.35:6004/play/a01a/index.m3u8
 http://176.65.153.40:6004/play/a01j/index.m3u8
 #EXTINF:-1 group-title="ulusal",TRT-Genc
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="7/24catcast",Marvel_Studios1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel4.m3u8
-#EXTINF:-1 group-title="7/24catcast",Marvel_Studios2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel5.m3u8
-#EXTINF:-1 group-title="7/24catcast",Marvel_Studios3
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-marvel6.m3u8
-#EXTINF:-1 group-title="7/24catcast",Sinema-premium-1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium-1.m3u8
-#EXTINF:-1 group-title="7/24catcast",Sinema-premium-2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium2.m3u8
-#EXTINF:-1 group-title="7/24catcast",Sinema-premium-3
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium3.m3u8
-#EXTINF:-1 group-title="7/24catcast",Sinema-premium-4
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium4.m3u8
-#EXTINF:-1 group-title="7/24catcast",Sinema-premium-5
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-premium5.m3u8
-#EXTINF:-1 group-title="7/24catcast",Sinema-Action-1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-acsion2.m3u8
-#EXTINF:-1 group-title="7/24catcast",Sinema-Action-2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-action3.m3u8
-#EXTINF:-1 group-title="7/24catcast",Sinema-Action-3
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-action5.m3u8
-#EXTINF:-1 group-title="7/24catcast",Sinema-Action-4
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-action6.m3u8
-#EXTINF:-1 group-title="7/24catcast",Jason_Statham
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-jasonstatham.m3u8
-#EXTINF:-1 group-title="7/24catcast",RAMBO
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-rambo.m3u8
-#EXTINF:-1 group-title="7/24catcast",ROCKY
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-rocky.m3u8
-#EXTINF:-1 group-title="7/24catcast",Transformers1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-transformer1.m3u8
-#EXTINF:-1 group-title="7/24catcast",Transformers2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-transformer2.m3u8
-#EXTINF:-1 group-title="7/24catcast",HIZLI ve OFKELI-1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-forsaj1.m3u8
-#EXTINF:-1 group-title="7/24catcast",HIZLI ve OFKELI-2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-forsaj2.m3u8
-#EXTINF:-1 group-title="7/24catcast",Cehennem_Melekleri
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinemacehennemmelekleri.m3u8
-#EXTINF:-1 group-title="7/24catcast",Spider-Man
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-horumcekadam.m3u8
-#EXTINF:-1 group-title="7/24catcast",BATMAN
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-batman.m3u8
-#EXTINF:-1 group-title="7/24catcast",Terminator
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-terminator.m3u8
-#EXTINF:-1 group-title="7/24catcast",Matrix
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-matrix.m3u8
-#EXTINF:-1 group-title="7/24catcast",Maymunlar_Cehennemi
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-maymunlar.m3u8
-#EXTINF:-1 group-title="7/24catcast",MOrtak Combat
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-mortalcombat.m3u8
-#EXTINF:-1 group-title="7/24catcast",Ölüm Yarisi
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-olumyarisi.m3u8
-#EXTINF:-1 group-title="7/24catcast",bLADE_BOX
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/bladebox.m3u8
-#EXTINF:-1 group-title="7/24catcast",Universal
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-universal-esger.m3u8
-#EXTINF:-1 group-title="7/24catcast",Godzilla
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-godzilla-1.m3u8
-#EXTINF:-1 group-title="7/24catcast",Kontinental
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-kontinental.m3u8
-#EXTINF:-1 group-title="7/24catcast",Vandamme-1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-vandamme.m3u8
-#EXTINF:-1 group-title="7/24catcast",Vandamme-2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-vandamme2.m3u8
-#EXTINF:-1 group-title="7/24catcast",stivensegal-1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-stivensegal1.m3u8
-#EXTINF:-1 group-title="7/24catcast",stivensegal-2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-stivensegal2.m3u8
-#EXTINF:-1 group-title="7/24catcast",Jackechan-1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-jackechan.m3u8
-#EXTINF:-1 group-title="7/24catcast",Jackechan-2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-jackechan2.m3u8
-#EXTINF:-1 group-title="7/24catcast",Bruce_Lee
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-bruslee.m3u8
-#EXTINF:-1 group-title="7/24catcast",Brandon_LEE
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-brendonlee.m3u8
-#EXTINF:-1 group-title="7/24catcast",Jet_lee
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-jetlee.m3u8
-#EXTINF:-1 group-title="7/24catcast",Antonio_Banderas
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-antoniobanderas.m3u8
-#EXTINF:-1 group-title="7/24catcast",John_wick
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-johnwickhd.m3u8
-#EXTINF:-1 group-title="7/24catcast",Kemalsunal_1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-kemalsunal.m3u8
-#EXTINF:-1 group-title="7/24catcast",Kemalsunal_2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-kemalsunal-3.m3u8
-#EXTINF:-1 group-title="7/24catcast",Hababam_Sinifi
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/hababam.m3u8
-#EXTINF:-1 group-title="7/24catcast",Maxyesilcam
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxyesilcam.m3u8
-#EXTINF:-1 group-title="7/24catcast",Sinema_TURK1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerfilm-turkiye.m3u8
-#EXTINF:-1 group-title="7/24catcast",Sinema_TURK2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playertrk-eneren.m3u8
-#EXTINF:-1 group-title="7/24catcast",Sinema_TURK3
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playertest.m3u8
-#EXTINF:-1 group-title="7/24catcast",Sinema_TURK4
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/turkuzplay1.m3u8
-#EXTINF:-1 group-title="7/24catcast",KralturkTEBER
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/kralturk.m3u8
-#EXTINF:-1 group-title="7/24catcast",Max_Horror
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxkorku.m3u8
-#EXTINF:-1 group-title="7/24catcast",Max_Fantastic
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fantastic-dosugtv.m3u8
-#EXTINF:-1 group-title="7/24catcast",Max_Action
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-boyka.m3u8
-#EXTINF:-1 group-title="7/24catcast",edstafford
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeedstafford.m3u8
-#EXTINF:-1 group-title="7/24catcast",deadpool
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxdeadpool.m3u8
-#EXTINF:-1 group-title="7/24catcast",ipman
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-ipman.m3u8
-#EXTINF:-1 group-title="7/24catcast",Alice-1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice1.m3u8
-#EXTINF:-1 group-title="7/24catcast",Alice-2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice2.m3u8
-#EXTINF:-1 group-title="7/24catcast",Alice-3
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-alice3.m3u8
-#EXTINF:-1 group-title="7/24catcast",Alien-1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-yirtici.m3u8
-#EXTINF:-1 group-title="7/24catcast",Alien-2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-yirtici2.m3u8
-#EXTINF:-1 group-title="7/24catcast",Squidgame_1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-squidgame1.m3u8
-#EXTINF:-1 group-title="7/24catcast",Squidgame_2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-squidgame-2.m3u8
-#EXTINF:-1 group-title="7/24catcast",Squidgame_3
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-squidgame3.m3u8
-#EXTINF:-1 group-title="7/24catcast",Bollywood-1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercinema-bollywood.m3u8
-#EXTINF:-1 group-title="7/24catcast",Bollywood-2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercnema-bollywood2.m3u8
-#EXTINF:-1 group-title="7/24catcast",Bollywood-3
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/by-kerimof-hind-filmleri.m3u8
-#EXTINF:-1 group-title="7/24catcast",EsrefTEK
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeesreftek.m3u8
-#EXTINF:-1 group-title="7/24catcast",KVadisi
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimekurtlarvadisi.m3u8
-#EXTINF:-1 group-title="7/24catcast",Dag
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikmaxdag.m3u8
-#EXTINF:-1 group-title="7/24catcast",AVRPYakasi
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimeavrupayakasi.m3u8
-#EXTINF:-1 group-title="7/24catcast",Bizimkiler
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/fanatikprimebizimkiler.m3u8
-#EXTINF:-1 group-title="7/24catcast",Cennet-Mahallesi1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-cennetmahallesi.m3u8
-#EXTINF:-1 group-title="7/24catcast",Cennet-Mahallesi2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-cennetmahallesi2.m3u8
-#EXTINF:-1 group-title="7/24catcast",ROman-Havasi
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playerkomedi-romanhavasi.m3u8
-#EXTINF:-1 group-title="7/24catcast",Cocuk-Filmi1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/filmboxcocuk.m3u8
-#EXTINF:-1 group-title="7/24catcast",Cocuk-Filmi2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-masnlar.m3u8
-#EXTINF:-1 group-title="7/24catcast",Madagascar
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-madagascar.m3u8
-#EXTINF:-1 group-title="7/24catcast",Kungfu-Panda1
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-panda1.m3u8
-#EXTINF:-1 group-title="7/24catcast",Kungfu-Panda2
-https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/playercizgifilm-panda2.m3u8
 #EXTINF:-1 group-title="7/24flm",SDM SiNEMA
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="7/24flm",TELEON
@@ -304,8 +285,6 @@ https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/playlist.m
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
 #EXTINF:-1 group-title="7/24flm",BASKATV
 https://raw.githubusercontent.com/sahind01/kubra/refs/heads/main/streams/baskatv-kick.m3u8
-#EXTINF:-1 group-title="7/24flm",STV
-https://raw.githubusercontent.com/sahind01/kubra/refs/heads/main/streams/serhattv.m3u8
 #EXTINF:-1 group-title="7/24flm",TUKUZPLAY
 https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/catcast/turkuzplay1.m3u8
 #EXTINF:-1 group-title="7/24flm",SABANTV
@@ -314,10 +293,6 @@ http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
 https://i41.ozelip.com:3269/hybrid/play.m3u8?checkedby:MyWay
 #EXTINF:-1 group-title="7/24flm",RiZETURK
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:-1 group-title="7/24flm",Yansima hd
-http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
-#EXTINF:-1 group-title="7/24flm",Max Premier
-http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
 #EXTINF:-1 group-title="7/24flm",Resurrection
 https://raw.githubusercontent.com/seyityavuz/yavuznet/refs/heads/main/streams/resurrection-channel-tv.m3u8
 #EXTINF:-1 group-title="7/24flm",FluxTV
@@ -352,21 +327,15 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8?checkedby:MyWay
 #EXTINF:-1 group-title="7/24flm",CiNE1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8?checkedby:MyWay
-#EXTINF:-1 group-title="7/24flm",FXTV
-https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 group-title="7/24flm",FilmScreen international
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:-1 group-title="7/24flm",teleZEN
-https://raw.githubusercontent.com/seyityavuz/yavuznet/refs/heads/main/streams/telezen.m3u8
 #EXTINF:-1 group-title="7/24flm",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
-#EXTINF:-1, group-title="belgesel",relax hd
+#EXTINF:-1 group-title="belgesel",relax hd
 https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/catcast/relax-tvhd.m3u8
 #EXTINF:-1 group-title="belgesel",TRT-belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master_1440.m3u8
-#EXTINF:-1 group-title="belgesel",TRT-belgesel
 http://176.65.153.35:6001/play/a021/index.m3u8
-#EXTINF:-1, group-title="belgesel",Wild Earth
+#EXTINF:-1 group-title="belgesel",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="belgesel",Naturetime1 TURK
 http://45.88.139.156/yt1/naturtime.m3u8
@@ -378,40 +347,22 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://streams2.sofast.tv/umaxx/v1/01977dd01f661ebd47042b72b0c07c/01977dd12cc51ebd416a3eb5c6c77f/4k_travel_tv_2500k.m3u8
 #EXTINF:-1 group-title="belgesel",NATURETime
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8?checkedby:MyWay
-#EXTINF:-1, group-title="belgesel",alvin av
+#EXTINF:-1 group-title="belgesel",alvin av
 https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/catcast/alvin-ovcu.m3u8
 #EXTINF:-1 group-title="belgesel",LOVE NATURE
 https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
 #EXTINF:-1 group-title="belgesel",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1, group-title="belgesel",TLC
+#EXTINF:-1 group-title="belgesel",TLC
 http://176.65.153.66:6001/play/a01v/index.m3u8
-#EXTINF:-1 group-title="belgesel",Docubox
-https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:-1 group-title="belgesel",OUTDOOR
-https://freem3u.xyz/api/live/play.m3u8?vid=216#outdoor
-#EXTINF:-1, group-title="belgesel",DISCOVERY CHINA>
-https://shr.pn/4c1g
-#EXTINF:-1, group-title="belgesel",Cgtn
+#EXTINF:-1 group-title="belgesel",Cgtn
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1, group-title="belgesel",TT Documantery
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1, group-title="belgesel",China Travel
+#EXTINF:-1 group-title="belgesel",China Travel
 https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-#EXTINF:-1, group-title="belgesel",FishTV
-http://45.162.64.114/FISH_TV/index.m3u8
-#EXTINF:-1, group-title="belgesel",Ohognig
-http://stream.mcquack.net/194/index.m3u8
-#EXTINF:-1, group-title="belgesel",OkhotaTV
-http://stream.mcquack.net/155/index.m3u8
-#EXTINF:-1, group-title="belgesel",OutSide
+#EXTINF:-1 group-title="belgesel",OutSide
 https://outsidetv-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1, group-title="belgesel",DocuBox
+#EXTINF:-1 group-title="belgesel",DocuBox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:-1, group-title="belgesel",Ecovision
-https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
-#EXTINF:-1, group-title="belgesel",RtDoc
-https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 group-title="haber",cnnturk
 http://176.65.153.35:6005/play/a020/index.m3u8
 #EXTINF:-1 group-title="haber",haberturk
@@ -434,12 +385,8 @@ https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_1080p.m3u8
 http://176.65.153.35:6005/play/a01j/index.m3u8
 #EXTINF:-1 group-title="haber",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
-#EXTINF:-1 group-title="haber",tv100
 #EXTINF:-1 group-title="haber",NTV
 http://176.65.153.49:6004/play/a001/index.m3u8
-#EXTINF:-1 group-title="haber",NTV
-http://176.65.153.66:6001/play/a01w/index.m3u8
-https://tv.ensonhaber.com/tv100/tv100_1080p.m3u8
 #EXTINF:-1 group-title="haber",tv100
 http://176.65.153.35:6005/play/a027/index.m3u8
 #EXTINF:-1 group-title="haber",sozcu
@@ -448,10 +395,6 @@ http://176.65.153.40:6004/play/a01n/index.m3u8
 http://176.65.153.35:6004/play/a019/index.m3u8
 #EXTINF:-1 group-title="haber",kozatv
 http://176.65.153.40:6004/play/a01i/index.m3u8
-#EXTINF:-1 group-title="haber",krt
-http://176.65.153.3:8042/play/a03u/index.m3u8
-#EXTINF:-1 group-title="haber",A haber
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_720p.m3u8
 #EXTINF:-1 group-title="haber",A haber
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber.m3u8
 #EXTINF:-1 group-title="haber",A haber
@@ -476,8 +419,6 @@ https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 https://ensonhaber-live.ercdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 group-title="haber",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
-#EXTINF:-1 group-title="haber",CNBC-e
-http://176.65.153.66:6002/play/a01e/index.m3u8
 #EXTINF:-1 group-title="haber",iha1
 https://live01.iha.tv/webabone/live/chunks.m3u8
 #EXTINF:-1 group-title="haber",iha2
@@ -486,11 +427,9 @@ https://live01.iha.tv/webabone/live2/chunks.m3u8
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
 #EXTINF:-1 group-title="haber",DHA Canli 2
 https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1843782493.m3u8
-#EXTINF:-1 group-title="haber",REUTERS>
-https://shr.pn/YZ1I
 #EXTINF:-1 group-title="haber",TYTTURK
 https://tytturk-live.ercdn.net/tytturk/tytturk_1080p.m3u8
-#EXTINF:-1 group-title="music",KANAL 53  
+#EXTINF:-1 group-title="music",KANAL 53
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 #EXTINF:-1 group-title="minik",TRT Cocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
@@ -522,8 +461,6 @@ https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/N
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Ponny.m3u8
 #EXTINF:-1 group-title="minik",Muhafiz
 https://raw.githubusercontent.com/panorea744/stawerlo/refs/heads/main/noutube1/Muhafiz.m3u8
-#EXTINF:-1 group-title="minik",DisneyJR
-https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 group-title="minik",SpaceTOON
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
 #EXTINF:-1 group-title="minik",Tom ve Jerry
@@ -552,69 +489,10 @@ http://176.65.153.35:6002/play/a01f/index.m3u8
 http://176.65.153.66:6003/play/a00y/index.m3u8
 #EXTINF:-1 group-title="spor",FB TV
 https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-1-HD.png" group-title="mixspor", beinsports 1-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivebiraz1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-1-HD.png" group-title="mixspor", beinsports 1-M2
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-2-HD.png" group-title="mixspor", beinsports 2-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-3-HD.png" group-title="mixspor", beinsports 3-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-4-HD.png" group-title="mixspor", beinsports 4-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/main/logo/beIN-SPORTS-5-HD.png" group-title="mixspor", beinsports 5-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/logo/beIN-SPORTS-MAX-1-HD.png" group-title="mixspor", beinsports MAX 1-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivebsm1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kadirsener1/livetv/refs/heads/main/logo/beIN-SPORTS-MAX-1-HD.png" group-title="mixspor", beinsports MAX 2-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivebsm2.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="mixspor", Ssport 1-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivess1.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="mixspor", Ssport 2-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivess2.m3u8
-#EXTINF:-1 tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/FR/SPORT/EUROSPORT.1.png" group-title="mixspor", eurosport 1-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivees1.m3u8
-#EXTINF:-1 tvg-logo="http://bluelogo8991.duckdns.org:2095/LOGO.YENI/FR/SPORT/EUROSPORT.2.png" group-title="mixspor", eurosport 2-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivees2.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="mixspor", tivibuSpor-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivets.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="mixspor", tivibuSpor 1-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivets1.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="mixspor", tivibuSpor 2-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivets2.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="mixspor", tivibuSpor 3-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivets3.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="mixspor", tivibuSpor 4-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivets4.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="mixspor", smartsport 1-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivesm1.m3u8
-#EXTINF:-1 tvg-logo="https://i.hizliresim.com/8xzjgqv.jpg" group-title="mixspor", smartsport 2-M
-#EXTVLCOPT:http-referrer=https://mahsunsports34.xyz/
-https://andro.evrenesoglu151.click/checklist/androstreamlivesm2.m3u8
 #EXTINF:-1 group-title="yerel",METROPOL TV
 https://edge1.socialsmart.tv/metropoltv/smil/metropoltv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="yerel",TV DEN
 http://canli.tvden.com.tr/hls/live.m3u8
-#EXTINF:-1 group-title="yerel",TV DEN
-http://176.65.153.3:8042/play/a03g/index.m3u8
 #EXTINF:-1 group-title="yerel",MUGLA TÜRK TV
 https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8
 #EXTINF:-1 group-title="yerel",FORTUNA TV
@@ -747,9 +625,9 @@ https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/music-h
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/aor-tv-live.m3u8
 #EXTINF:-1 group-title="music",slow muzik
 https://raw.githubusercontent.com/axxerg/streams/refs/heads/main/catcast/by-kerimoff-slow-musiqiler.m3u8
-#EXTINF:-1, group-title="music",Afrobeats
+#EXTINF:-1 group-title="music",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1, group-title="music",now-music
+#EXTINF:-1 group-title="music",now-music
 https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/catcast/now-music.m3u8
 #EXTINF:-1 group-title="Baraza Music",Baraza Relaxing music
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
@@ -810,7 +688,7 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 group-title="stingray music",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="webradio",ANKARA HAVALARI
-http://37.247.98.8/stream/30/ 
+http://37.247.98.8/stream/30/
 #EXTINF:-1 group-title="webradio",ALTIN SARKILAR
 http://37.247.98.8/stream/25/
 #EXTINF:-1 group-title="webradio",EGE HAVALARI
@@ -820,13 +698,13 @@ http://37.247.98.8/stream/24/
 #EXTINF:-1 group-title="webradio",MELANKOLIK
 http://37.247.98.8/stream/20/
 #EXTINF:-1 group-title="webradio",POPHOME
-http://37.247.98.8/stream/21/ 
+http://37.247.98.8/stream/21/
 #EXTINF:-1 group-title="webradio",VOKAL
 http://37.247.98.8/stream/35/
 #EXTINF:-1 group-title="webradio",SLOW HOME
 http://37.247.98.8/stream/27/
 #EXTINF:-1 group-title="webradio",TURKULERLE TURKIYE
-http://37.247.98.8/stream/22/ 
+http://37.247.98.8/stream/22/
 #EXTINF:-1 group-title="webradio",WORLD HIT
 http://37.247.98.8/stream/34/
 #EXTINF:-1 group-title="webradio",Kral POP
